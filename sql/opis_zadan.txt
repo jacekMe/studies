@@ -13,7 +13,7 @@
         - często potrzebujemy pobrać więcej niż jedną kolumnę, wtedy oddzielamy 
         je przecinkami.
         - możemy również ograniczyć liczbę zwracanych wyników, wtedy trzeba użyć
-        słowa kluczowego TOP
+        słowa kluczowego TOP (tylko MS SQL)
 
             SELECT TOP <wartość> <nazwa kolumny>
 
@@ -22,8 +22,75 @@
 
             SELECT DISTINCT <nazwa kolumny>
 
+        - gwiazdka (*) oznacza, że wybieramy wszystkie kolumny z tabeli
         - aby zliczyć liczbę wierszy należy użyć instrukcji COUNT
 
             SELECT COUNT(*)
 
     - FILTROWANIE WYNIKÓW
+        - do filtrowania wyników używamy słowa kluczowego WHERE
+        - klauzula ta pozwala filtrować wyniki na podstawie tekstu oraz wartości
+        liczbowych występujących w tabeli
+        - klauzula WHERE wykonuje się po klauzuli FROM
+        - służy do wybrania wyłącznie interesujących nas rekordów
+        - istnieje kilka różnych operatorów porównania:
+            - = equal
+            - <> not equal
+            - < less than
+            - > greater than
+            - <= less than or equal to
+            - >= greater than or equal to
+        - do zbudowania zapytania składającego się z kilku warunków używamy 
+        słowa kluczowego AND
+        - jeśli chcemy uzyskać wynik, w którym niektóre, ale nie wszystkie 
+        warunki muszą być spełnione to używamy operatora OR
+        - podczas łączenia wielu operatorów AND i OR, należy pamiętać o 
+        umieszczeniu poszczególnych warunków w nawiasach
+        - do sprawdzenia zakresów używamy słowa kluczowego BETWEEN, który 
+        uwzględnia w wynikach wartości początkowe i końcowe (NOT BETWEEN)
+        - operator IN stosujemy kiedy chcemy użyć wielu wartości w klauzuli 
+        WHERE (NOT IN)
+        - aby pobrać wartości NULL używamy wyrażenia IS NULL (IS NOT NULL)
+        - jeśli chcemy odfiltrować dane nie znając pełnego tekstu, albo tylko 
+        część tekstu się pokrywa, to wtedy korzystamy z klauzuli LIKE, która 
+        wykorzystuje dwa dodatkowe symbole '%' oraz '_'. '%' oznacza symbol 
+        wieloznaczny reprezentujący wystąpienie 0, 1 lub wielu znaków tekstu, a
+        symbol '_' oznacza wystąpienie dokładnie jednego znaku (NOT LIKE)
+        - są jeszcze inne operatory takie jak:
+            - EXIST / NOT EXIST
+            - ALL
+            - ANY
+            - SOME
+
+    - FUNKCJE AGREGUJĄCE
+        - aby wyznaczyć agregaty z danych używamy funkcji agregujących,
+        na przykład:
+            - AVG
+            - MAX
+            - MIN
+            - SUM
+            - COUNT
+
+
+2. lista II 
+    - SORTOWANIE
+        - aby posortować dane musimy użyć klauzuli ORDER BY
+        - możemy sortować malejąco (DESC) lub rosnąco (ASC) - domyślnie jest ASC
+        - możemy sortować po jednej lub wielu kolumnach lub wyrażeniach
+        - sortowanie jest kosztowną operacją, dlatego nie warto jej nadużywać
+        - dobrze jest umieszczać w klauzuli SELECT sortowaną kolumne/wyrażenie
+
+    - GRUPOWANIE
+        - jeśli chcemy zagregować wyniki względem jakiegoś artybuty lub grupy
+        atrybutów należyć użyć klauzuli GROUP BY
+        - możemy grupować wyniki względem jednej lub kilu kolumnach
+        - zwykle GROUP BY używanie jest z funkcjami agregującymi
+        - klauzula GROUP BY wykonywana jest po klauzuli WHERE
+        - jeśli w SELECT pojawi się kolumna, której nie ma w klauzuli GROUP BY 
+        to SQL zwróci błąd
+
+    - FILTROWANIE WYNIKÓW GRUPOWANIA
+
+    - ŁĄCZENIE DANYCH ZA POMOCĄ INNER JOIN
+    
+    - WYKORZYSTANIE CASE WHEN
