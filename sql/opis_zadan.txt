@@ -90,7 +90,43 @@
         to SQL zwróci błąd
 
     - FILTROWANIE WYNIKÓW GRUPOWANIA
+        - aby móc filtrować wyniki grupowania używamy klauzuli HAVING, która 
+        jest wykonywana po klauzuli GROUP BY
+        - klauzula HAVING działa podobnie jak WHERE, ale nie na pojedynczych
+        rekordach, tylko grupach
+        - nie można użyć HAVING bez klauzuli GROUP BY
+        - w HAVING możemy używać funkcji agregujących
 
     - ŁĄCZENIE DANYCH ZA POMOCĄ INNER JOIN
-    
+        - łączenie danych z dwóch tabel za pomocą INNER JOIN w wyniku wyświetla
+        tylko rekordy, które mają dopasowanie w obu tabelach
+        - podczas łączenia tabel wykorzystuje się aliasy, aby nie musieć 
+        wypisywać całej nazwy tabeli (zazwyczaj alias tworzy się z pierwszej 
+        litery), np.:
+            TABELA populations
+            TABELA countries
+
+            SELECT c.code, c.name, p.country_code, p.size
+            FROM countries AS c
+                INNER JOIN populations AS p
+                    ON c.code = p.country_code;
+        - można również za pomocą INNER JOIN łączyć dane w ramach jednej tabeli
+
     - WYKORZYSTANIE CASE WHEN
+        - kiedy musimy przetransformować atrybut liczbowy na atrybut opisujący
+        kategorię lub grupę np. za pomocą słów, to w tym celu wykorzustujemy 
+        instrukcję CASE z WHEN, THEN, ELSE i END
+        - na przykład kiedy chcielibyśmy pogrupować kraje ze względu na zajmowaną
+        powierzchnię:
+            - large
+            - medium
+            - small
+
+            SELECT country_name, continent, code, surface_area,
+                CASE WHEN surface_area > 2000000
+                    THEN 'large'
+                WHEN surface_area > 350000
+                    THEN 'medium'
+                ELSE 'small' END
+                AS geosize_group
+            FROM countries; 
