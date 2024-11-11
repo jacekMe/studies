@@ -157,15 +157,29 @@
     },
     "total_length":3317.5,
     "teams":[
-        "INEOS Grenadiers", "Alpecin-Deceuninck", "Arkéa-B&B Hotels",
-        "Astana Qazaqstan Team", "BORA-hansgrohe", "Cofidis",
-        "Decathlon AG2R La Mondiale Team", "EF Education-EasyPost",
-        "Groupama-FDJ", "Intermarché-Wanty", "Israel-Premier Tech",
-        "Lidl-Trek", "Movistar Team", "Soudal Quick-Step",
-        "Team dsm-firmenich PostNL", "Team Jayco AlUla", "Team Polti Kometa",
-        "Team Visma | Lease a Bike", "Tudor Pro Cycling Team",
-        "UAE Team Emirates", "VF Group - Bardiani CSF-Faizanè",
-        "Bahrain-Victorious"],
+        {"id":1, "name":"INEOS Grenadiers"},
+        {"id":2, "name":"Alpecin-Deceuninck"},
+        {"id":3, "name":"Arkéa-B&B Hotels"},
+        {"id":4, "name":"Astana Qazaqstan Team"},
+        {"id":5, "name":"BORA-hansgrohe"},
+        {"id":6, "name":"Cofidis"},
+        {"id":7, "name":"Decathlon AG2R La Mondiale Team"},
+        {"id":8, "name":"EF Education-EasyPost"},
+        {"id":9, "name":"Groupama-FDJ"},
+        {"id":10, "name":"Intermarché-Wanty"},
+        {"id":11, "name":"Israel-Premier Tech"},
+        {"id":12, "name":"Lidl-Trek"},
+        {"id":13, "name":"Movistar Team"},
+        {"id":14, "name":"Soudal Quick-Step"},
+        {"id":15, "name":"Team dsm-firmenich PostNL"},
+        {"id":16, "name":"Team Jayco AlUla"},
+        {"id":17, "name":"Team Polti Kometa"},
+        {"id":18, "name":"Team Visma | Lease a Bike"},
+        {"id":19, "name":"Tudor Pro Cycling Team"},
+        {"id":20, "name":"UAE Team Emirates"},
+        {"id":21, "name":"VF Group - Bardiani CSF-Faizanè"},
+        {"id":22, "name":"Bahrain-Victorious"}
+    ],
     "gc_top10":[
         {"place":1, "name":"TADEJ POGACAR"},
         {"place":2, "name":"DANIEL FELIPE MARTINEZ"},
@@ -184,170 +198,193 @@
     "country":"Italy",
     "edition":107,
     "year":2023,
-    "start_date":"",
-    "end_date":"",
+    "start_date":"06-MAY-2023",
+    "end_date":"28-MAY-2023",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"06-MAY-2023",
+            "length":19.6,
+            "start_city":"Fossacesia Marina",
+            "finish_city":"Ortona",
+            "winner":"REMCO EVENEPOEL"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"07-MAY-2023",
+            "length":202,
+            "start_city":"Teramo",
+            "finish_city":"San Salvo",
+            "winner":"JONATHAN MILAN"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2023",
+            "length":213,
+            "start_city":"Vasto",
+            "finish_city":"Melfi",
+            "winner":"MICHAEL MATTHEWS"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"09-MAY-2023",
+            "length":175,
+            "start_city":"Venosa",
+            "finish_city":"Lago Laceno",
+            "winner":"AURELIEN PARET-PEINTRE"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2023",
+            "length":171,
+            "start_city":"Atripalda",
+            "finish_city":"Salerno",
+            "winner":"KADEN GROVES"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2023",
+            "length":162,
+            "start_city":"Napoli",
+            "finish_city":"Napoli",
+            "winner":"MADS PEDERSEN"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2023",
+            "length":218,
+            "start_city":"Capua",
+            "finish_city":"Gran Sasso d'Italia (Campo Imperatore)",
+            "winner":"DAVIDE BAIS"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-2023",
+            "length":207,
+            "start_city":"Terni",
+            "finish_city":"Fossombrone",
+            "winner":"BEN HEALY"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2023",
+            "length":35,
+            "start_city":"Savignano sul Rubicone",
+            "finish_city":"Cesena",
+            "winner":"REMCO EVENEPOEL"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"16-MAY-2023",
+            "length":196,
+            "start_city":"Scandiano",
+            "finish_city":"Viareggio",
+            "winner":"MAGNUS CORT"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2023",
+            "length":219,
+            "start_city":"Camaiore",
+            "finish_city":"Tortona",
+            "winner":"PASCAL ACKERMANN"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-2023",
+            "length":185,
+            "start_city":"Bra",
+            "finish_city":"Rivoli",
+            "winner":"NICO DENZ"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2023",
+            "length":74.6,
+            "start_city":"Le Chable",
+            "finish_city":"Crans-Montana",
+            "winner":"EINER RUBIO"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-2023",
+            "length":194,
+            "start_city":"Sierre",
+            "finish_city":"Cassano Magnago",
+            "winner":"NICO DENZ"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2023",
+            "length":195,
+            "start_city":"Seregno",
+            "finish_city":"Bergamo",
+            "winner":"BRANDON MCNULTY"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"23-MAY-2023",
+            "length":203,
+            "start_city":"Sabbio Chiese",
+            "finish_city":"Monte Bondone",
+            "winner":"JOAO ALMEIDA"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2023",
+            "length":197,
+            "start_city":"Pergine Valsugana",
+            "finish_city":"Caorle",
+            "winner":"ALBERTO DAINESE"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-2023",
+            "length":161,
+            "start_city":"Oderzo",
+            "finish_city":"Val di Zoldo (Palafavera)",
+            "winner":"FILIPPO ZANA"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2023",
+            "length":183,
+            "start_city":"Longarone",
+            "finish_city":"Tre Cime di Lavaredo",
+            "winner":"SANTIAGO BUITRAGO"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-2023",
+            "length":18.6,
+            "start_city":"Tarvisio",
+            "finish_city":"Monte Lussari",
+            "winner":"PRIMOZ ROGLIC"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
+            "date":"28-MAY-2023",
+            "length":126,
+            "start_city":"Roma",
+            "finish_city":"Roma",
             "winner":""
         },
     },
-    "total_length":,
-    "teams":[],
+    "total_length":3354.8,
+    "teams":[
+        {"id":1, "name":"Soudal Quick-Step"},
+        {"id":2, "name":"AG2R Citroën Team"},
+        {"id":3, "name":"Alpecin - Deceuninck"},
+        {"id":4, "name":"Astana Qazaqstan Team"},
+        {"id":5, "name":"Bahrain - Victorious"},
+        {"id":6, "name":"BORA - hansgrohe"},
+        {"id":7, "name":"Cofidis"},
+        {"id":8, "name":"EF Education - EasyPost"},
+        {"id":9, "name":"EOLO-Kometa"},
+        {"id":10, "name":"Green Project - Bardiani CSF - Faizanè"},
+        {"id":11, "name":"Groupama - FDJ"},
+        {"id":12, "name":"INEOS Grenadiers"},
+        {"id":13, "name":"Intermarché - Circus - Wanty"},
+        {"id":14, "name":"Israel - Premier Tech"},
+        {"id":15, "name":"Jumbo-Visma"},
+        {"id":16, "name":"Movistar Team"},
+        {"id":17, "name":"Team Arkéa Samsic"},
+        {"id":18, "name":"Team Corratec - Selle Italia"},
+        {"id":19, "name":"Team DSM"},
+        {"id":20, "name":"Team Jayco AlUla"},
+        {"id":21, "name":"Trek - Segafredo"},
+        {"id":22, "name":"UAE Team Emirates"},
+],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":1, "name":"PRIMOZ ROGLIC"},
+        {"place":2, "name":"GERAINT THOMAS"},
+        {"place":3, "name":"JOAO ALMEIDA"},
+        {"place":4, "name":"DAMIANO CARUSO"},
+        {"place":5, "name":"THIBAUT PINOT"},
+        {"place":6, "name":"THYMEN ARENSMAN"},
+        {"place":7, "name":"EDDIE DUNBAR"},
+        {"place":8, "name":"ANDREAS LEKNESSUND"},
+        {"place":9, "name":"LENNARD KAMNA"},
+        {"place":10, "name":"LAUERNS DE PLUS"},
     ]
 },  {
     "_id":3,
@@ -355,8 +392,8 @@
     "country":"Italy",
     "edition":106,
     "year":2022,
-    "start_date":"",
-    "end_date":"",
+    "start_date":"06-MAY-2022",
+    "end_date":"29-MAY-2023",
     "stages":{
         "stage_1":{
             "date":"",
