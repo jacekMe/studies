@@ -346,7 +346,7 @@
             "length":126,
             "start_city":"Roma",
             "finish_city":"Roma",
-            "winner":""
+            "winner":"MARK CAVENDISH"
         },
     },
     "total_length":3354.8,
@@ -396,166 +396,189 @@
     "end_date":"29-MAY-2023",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"06-MAY-2022",
+            "length":195,
+            "start_city":"Budapest",
+            "finish_city":"Visegrad",
+            "winner":"MATHIEU VAN DER POEL"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"07-MAY-2022",
+            "length":9.2,
+            "start_city":"Budapest",
+            "finish_city":"Budapest",
+            "winner":"SIMON YATES"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2022",
+            "length":201,
+            "start_city":"Kaposvar",
+            "finish_city":"Balatonfured",
+            "winner":"MARK CAVENDISH"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2022",
+            "length":172,
+            "start_city":"Avola",
+            "finish_city":"Etna",
+            "winner":"LENNARD KAMNA"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2022",
+            "length":174,
+            "start_city":"Catania",
+            "finish_city":"Messina",
+            "winner":"ARNAUD DEMARE"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2022",
+            "length":192,
+            "start_city":"Palmi",
+            "finish_city":"Scalea",
+            "winner":"ARNAUD DEMARE"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-2022",
+            "length":196,
+            "start_city":"Diamante",
+            "finish_city":"Potenza",
+            "winner":"KOEN BOUWMAN"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2022",
+            "length":153,
+            "start_city":"Napoli",
+            "finish_city":"Napoli",
+            "winner":"THOMAS DE GENDT"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"15-MAY-2022",
+            "length":191,
+            "start_city":"Isernia",
+            "finish_city":"Blockhaus",
+            "winner":"JAI HINDLEY"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2022",
+            "length":196,
+            "start_city":"Pescara",
+            "finish_city":"Jesi",
+            "winner":"BINIAM GIRMAY"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-2022",
+            "length":203,
+            "start_city":"Santarcangelo di Romagna",
+            "finish_city":"Reggio Emilia",
+            "winner":"ALBERTO DAINESE"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2022",
+            "length":204,
+            "start_city":"Parma",
+            "finish_city":"Genova",
+            "winner":"STEFANO OLDANI"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-2022",
+            "length":150,
+            "start_city":"Sanremo",
+            "finish_city":"Cuneo",
+            "winner":"ARNAUD DEMARE"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2022",
+            "length":147,
+            "start_city":"Santena",
+            "finish_city":"Torino",
+            "winner":"SIMON YATES"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"22-MAY-2022",
+            "length":177,
+            "start_city":"Rivarolo Canavese",
+            "finish_city":"Cogne",
+            "winner":"GIULIO CICCONE"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2022",
+            "length":202,
+            "start_city":"Salo",
+            "finish_city":"Aprica",
+            "winner":"JAN HIRT"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-2022",
+            "length":168,
+            "start_city":"Ponte di Legno",
+            "finish_city":"Lavarone",
+            "winner":"SANTIAGO BUITRAGO"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2022",
+            "length":156,
+            "start_city":"Borgo Valsugana",
+            "finish_city":"Treviso",
+            "winner":"DRIES DE BONDT"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-2022",
+            "length":178,
+            "start_city":"Marano Lagunare",
+            "finish_city":"Santuario di Castelmonte",
+            "winner":"KOEN BOUWMAN"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-2022",
+            "length":168,
+            "start_city":"Belluno",
+            "finish_city":"Marmolada (Passo Fedaia)",
+            "winner":"ALESSANDRO COVI"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"29-MAY-2022",
+            "length":17.4,
+            "start_city":"Verona",
+            "finish_city":"Verona",
+            "winner":"MATTEO SOBRERO"
         },
     },
-    "total_length":,
-    "teams":[],
+    "total_length":3449.6,
+    "teams":[
+        {"id":1, "name":"INEOS Grenadiers"},
+        {"id":2, "name":"AG2R Citroën Team"},
+        {"id":3, "name":"Alpecin - Fenix"},
+        {"id":4, "name":"Astana Qazaqstan Team"},
+        {"id":5, "name":"Bahrain - Victorious"},
+        {"id":6, "name":"Bardiani-CSF-Faizanè"},
+        {"id":7, "name":"BORA - hansgrohe"},
+        {"id":8, "name":"Cofidis"},
+        {"id":9, "name":"Drone Hopper - Androni Giocattoli"},
+        {"id":10, "name":"EF Education - EasyPost"},
+        {"id":11, "name":"EOLO-Kometa"},
+        {"id":12, "name":"Groupama - FDJ"},
+        {"id":13, "name":"Intermarché - Wanty - Gobert Matériaux"},
+        {"id":14, "name":"Israel - Premier Tech"},
+        {"id":15, "name":"Jumbo-Visma"},
+        {"id":16, "name":"Lotto Soudal"},
+        {"id":17, "name":"Movistar Team"},
+        {"id":18, "name":"Quick-Step Alpha Vinyl Team"},
+        {"id":19, "name":"Team BikeExchange - Jayco"},
+        {"id":20, "name":"Team DSM"},
+        {"id":21, "name":"Trek - Segafredo"},
+        {"id":22, "name":"UAE Team Emirates"}
+    ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":1, "name":"JAI HINDLEY"},
+        {"place":2, "name":"RICHARD CARAPAZ"},
+        {"place":3, "name":"MIKEL LANDA"},
+        {"place":4, "name":"VINCENZO NIBALI"},
+        {"place":5, "name":"PELLO BILBAO"},
+        {"place":6, "name":"JAN HIRT"},
+        {"place":7, "name":"EMANUEL BUCHMANN"},
+        {"place":8, "name":"DOMENICO POZZOVIVO"},
+        {"place":9, "name":"CARTHY HUGH"},
+        {"place":10, "name":"JUAN PEDRO LOPEZ"}
     ]
 }, {
     "_id":4,
@@ -563,159 +586,182 @@
     "country":"Italy",
     "edition":105,
     "year":2021,
-    "start_date":"",
-    "end_date":"",
+    "start_date":"08-MAY-2021",
+    "end_date":"30-MAY-2021",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2021",
+            "length":8.6,
+            "start_city":"Turin",
+            "finish_city":"Turin",
+            "winner":"FILIPPO GANNA"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"09-MAY-2021",
+            "length":179,
+            "start_city":"Stupinigi",
+            "finish_city":"Novara",
+            "winner":"TIM MERLIER"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2021",
+            "length":190,
+            "start_city":"Biella",
+            "finish_city":"Canale",
+            "winner":"TACO VAN DER HOORN"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2021",
+            "length":187,
+            "start_city":"Piacenza",
+            "finish_city":"Sestola",
+            "winner":"JOE DOMBROWSKI"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2021",
+            "length":177,
+            "start_city":"Modena",
+            "finish_city":"Cattolica",
+            "winner":"CALEB EWAN"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-2021",
+            "length":160,
+            "start_city":"Grotte di Frasassi",
+            "finish_city":"Ascoli Piceno (San Giacomo)",
+            "winner":"GINO MADER"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2021",
+            "length":181,
+            "start_city":"Notaresco",
+            "finish_city":"Termoli",
+            "winner":"CALEB EWAN"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"15-MAY-2021",
+            "length":170,
+            "start_city":"Foggia",
+            "finish_city":"Guardia Sanframondi",
+            "winner":"VICTOR LAFAY"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"16-MAY-2021",
+            "length":158,
+            "start_city":"Castel di Sangro",
+            "finish_city":"Campo Felice (Rocca di Cambio)",
+            "winner":"EGAN BERNAL"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2021",
+            "length":139,
+            "start_city":"L'Aquila",
+            "finish_city":"Foligno",
+            "winner":"PETER SAGAN"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2021",
+            "length":162,
+            "start_city":"Perugia",
+            "finish_city":"Montalcino",
+            "winner":"MAURO SCHMID"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-2021",
+            "length":212,
+            "start_city":"Siena",
+            "finish_city":"Bagno di Romagna",
+            "winner":"ANDREA VENDRAME"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2021",
+            "length":198,
+            "start_city":"Ravenna",
+            "finish_city":"Verona",
+            "winner":"GIACOMO NIZZOLO"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"22-MAY-2021",
+            "length":205,
+            "start_city":"Cittadella",
+            "finish_city":"Monte Zoncolan",
+            "winner":"LORENZO FORTUNATO"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"23-MAY-2021",
+            "length":147,
+            "start_city":"Grado",
+            "finish_city":"Gorizia",
+            "winner":"VICTOR CAMPENAERTS"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2021",
+            "length":153,
+            "start_city":"Sacile",
+            "finish_city":"Cortina d'Ampezzo",
+            "winner":"EGAN BERNAL"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2021",
+            "length":193,
+            "start_city":"Canazei",
+            "finish_city":"Sega di Ala",
+            "winner":"DAN MARTIN"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-2021",
+            "length":231,
+            "start_city":"Rovereto",
+            "finish_city":"Stradella",
+            "winner":"ALBERTO BETTIOL"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-2021",
+            "length":166,
+            "start_city":"Abbiategrasso",
+            "finish_city":"Alpe di Mera (Valsesia)",
+            "winner":"SIMON YATES"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"29-MAY-2021",
+            "length":164,
+            "start_city":"Verbania",
+            "finish_city":"Valle Spluga-Alpe Motta",
+            "winner":"DAMIANO CARUSO"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"30-MAY-2021",
+            "length":30.3,
+            "start_city":"Senago",
+            "finish_city":"Milan",
+            "winner":"FILIPPO GANNA"
         },
     },
-    "total_length":,
-    "teams":[],
+    "total_length":3410.9,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -726,7 +772,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":5,
@@ -886,7 +932,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -897,7 +966,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":6,
@@ -1057,7 +1126,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -1068,7 +1160,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":7,
@@ -1228,7 +1320,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -1239,7 +1354,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":8,
@@ -1399,7 +1514,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -1410,7 +1548,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":9,
@@ -1570,7 +1708,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -1581,7 +1742,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":10,
@@ -1741,7 +1902,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -1752,7 +1936,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":11,
@@ -1912,7 +2096,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -1923,7 +2130,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":12,
@@ -2083,7 +2290,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -2094,7 +2324,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":13,
@@ -2254,7 +2484,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -2265,7 +2518,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":14,
@@ -2425,7 +2678,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -2436,7 +2712,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":15,
@@ -2596,7 +2872,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -2607,7 +2906,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":16,
@@ -2767,7 +3066,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -2778,7 +3100,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":17,
@@ -2938,7 +3260,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -2949,7 +3294,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":18,
@@ -3109,7 +3454,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -3120,7 +3488,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":19,
@@ -3280,7 +3648,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -3291,7 +3682,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":20,
@@ -3451,7 +3842,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -3462,7 +3876,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":21,
@@ -3622,7 +4036,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -3633,7 +4070,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":22,
@@ -3793,7 +4230,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -3804,7 +4264,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":23,
@@ -3964,7 +4424,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -3975,7 +4458,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":24,
@@ -4135,7 +4618,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -4146,7 +4652,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":25,
@@ -4306,7 +4812,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -4317,7 +4846,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":26,
@@ -4477,7 +5006,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -4488,7 +5040,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":27,
@@ -4648,7 +5200,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -4659,7 +5234,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":28,
@@ -4819,7 +5394,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -4830,7 +5428,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":29,
@@ -4990,7 +5588,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -5001,7 +5622,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":30,
@@ -5161,7 +5782,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -5172,7 +5816,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":31,
@@ -5332,7 +5976,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -5343,7 +6010,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":32,
@@ -5503,7 +6170,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -5514,7 +6204,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":33,
@@ -5674,7 +6364,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -5685,7 +6398,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":34,
@@ -5845,7 +6558,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -5856,7 +6592,7 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 }, {
     "_id":35,
@@ -6016,7 +6752,30 @@
         },
     },
     "total_length":,
-    "teams":[],
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
     "gc_top10":[
         {"place":1, "name":""},
         {"place":2, "name":""},
@@ -6027,6 +6786,6 @@
         {"place":7, "name":""},
         {"place":8, "name":""},
         {"place":9, "name":""},
-        {"place":10, "name":""},
+        {"place":10, "name":""}
     ]
 },
