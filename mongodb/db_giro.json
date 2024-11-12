@@ -1,1199 +1,1231 @@
-{
+ {
     "_id":1,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":108,
-    "year":2024,
-    "start_date":"04-MAY-2024",
-    "end_date":"26-MAY-2024",
+    "edition":74,
+    "year":1990,
+    "start_date":"18-MAY-1990",
+    "end_date":"06-JUN-1990",
     "stages":{
         "stage_1":{
-            "date":"04-MAY-2024",
-            "length":140,
-            "start_city":"Venaria Reale",
-            "finish_city":"Torino",
-            "winner":"JHONATAN NARVAEZ"
+            "date":"18-MAY-1990",
+            "length":13,
+            "start_city":"Bari",
+            "finish_city":"Bari",
+            "winner":"GIANNI BUGNO"
         },
         "stage_2":{
-            "date":"05-MAY-2024",
-            "length":161,
-            "start_city":"San Francesco al Campo",
-            "finish_city":"Santuario di Oropa",
-            "winner":"TADEJ POGACAR"
+            "date":"19-MAY-1990",
+            "length":239,
+            "start_city":"Bari",
+            "finish_city":"Sala Consilina",
+            "winner":"GIOVANNI FIDANZA"
         },
         "stage_3":{
-            "date":"06-MAY-2024",
-            "length":166.3,
-            "start_city":"Novara",
-            "finish_city":"Fossano",
-            "winner":"TIM MERLIER"
-        },
-        "stage_4":{
-            "date":"07-MAY-2024",
+            "date":"20-MAY-1990",
             "length":190,
-            "start_city":"Acqui Terme",
-            "finish_city":"Andora",
-            "winner":"JONATHAN MILAN"
+            "start_city":"Sala Consilina",
+            "finish_city":"Vesuvio",
+            "winner":"EDUARDO CHOZAS"
+        },
+        "stage_4a":{
+            "date":"21-MAY-1990",
+            "length":31,
+            "start_city":"Ercolano",
+            "finish_city":"Nola",
+            "winner":"STEFANO ALLOCCHIO"
+        },
+        "stage_4b":{
+            "date":"21-MAY-1990",
+            "length":164,
+            "start_city":"Nola",
+            "finish_city":"Sora",
+            "winner":"PHIL ANDERSON"
         },
         "stage_5":{
-            "date":"08-MAY-2024",
-            "length":178,
-            "start_city":"Genova",
-            "finish_city":"Lucca",
-            "winner":"BENJAMIN THOMAS"
+            "date":"22-MAY-1990",
+            "length":247,
+            "start_city":"Sora",
+            "finish_city":"Teramo",
+            "winner":"FABRIZIO CONVALLE"
         },
         "stage_6":{
-            "date":"09-MAY-2024",
-            "length":180,
-            "start_city":"Viareggio",
-            "finish_city":"Rapolano Terme",
-            "winner":"PELAYO SANCHEZ"
+            "date":"23-MAY-1990",
+            "length":200,
+            "start_city":"Teramo",
+            "finish_city":"Fabriano",
+            "winner":"LUCA GELFI"
         },
         "stage_7":{
-            "date":"10-MAY-2024",
-            "length":40.6,
-            "start_city":"Foligno",
-            "finish_city":"Perugia",
-            "winner":"TADEJ POGACAR"
+            "date":"24-MAY-1990",
+            "length":197,
+            "start_city":"Fabriano",
+            "finish_city":"Vallombrosa",
+            "winner":"GIANNI BUGNO"
         },
         "stage_8":{
-            "date":"11-MAY-2024",
-            "length":152,
-            "start_city":"Spoleto",
-            "finish_city":"Prati di Tivo",
-            "winner":"TADEJ POGACAR"
+            "date":"25-MAY-1990",
+            "length":188,
+            "start_city":"Reggello",
+            "finish_city":"Marina di Pietresanta",
+            "winner":"STEFANO ALLOCCHIO"
         },
         "stage_9":{
-            "date":"12-MAY-2024",
-            "length":214,
-            "start_city":"Avezzano",
-            "finish_city":"Naples",
-            "winner":"OLAV KOOIJ"
+            "date":"26-MAY-1990",
+            "length":176,
+            "start_city":"La Spezia",
+            "finish_city":"Langhirano",
+            "winner":"VLADIMIR PULNIKOV"
         },
         "stage_10":{
-            "date":"14-MAY-2024",
-            "length":142,
-            "start_city":"Pompei",
-            "finish_city":"Bocca della Selva",
-            "winner":"VALENTIN PARET-PEINTRE"
+            "date":"27-MAY-1990",
+            "length":68,
+            "start_city":"Grinzane Cavour",
+            "finish_city":"Cuneo",
+            "winner":"LUCA GELFI"
         },
         "stage_11":{
-            "date":"15-MAY-2024",
-            "length":207,
-            "start_city":"Foiano di Val Fortore",
-            "finish_city":"Francavilla al Mare",
-            "winner":"JONATHAN MILAN"
+            "date":"28-MAY-1990",
+            "length":241,
+            "start_city":"Cuneo",
+            "finish_city":"Lodi",
+            "winner":"ADRIANO BAFFI"
         },
         "stage_12":{
-            "date":"16-MAY-2024",
+            "date":"29-MAY-1990",
             "length":193,
-            "start_city":"Martinsicuro",
-            "finish_city":"Fano",
-            "winner":"JULIAN ALAPHILIPPE"
+            "start_city":"Brescia",
+            "finish_city":"Baselga di Pine",
+            "winner":"ERIC BOYER"
         },
         "stage_13":{
-            "date":"17-MAY-2024",
-            "length":179,
-            "start_city":"Riccione",
-            "finish_city":"Cento",
-            "winner":"JONATHAN MILAN"
+            "date":"30-MAY-1990",
+            "length":224,
+            "start_city":"Baselga di Pine",
+            "finish_city":"Udine",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_14":{
-            "date":"18-MAY-2024",
-            "length":31.2,
-            "start_city":"Cstiglione delle Stiviere",
-            "finish_city":"Desenzano del Garda",
-            "winner":"FILIPPO GANNA"
+            "date":"31-MAY-1990",
+            "length":164,
+            "start_city":"Klagenfurt",
+            "finish_city":"Klagenfurt",
+            "winner":"ALLAN PEIPER"
         },
         "stage_15":{
-            "date":"19-MAY-2024",
-            "length":222,
-            "start_city":"Manerba del Garda",
-            "finish_city":"Livigno(Mottolino)",
-            "winner":"TADEJ POGACAR"
+            "date":"01-JUN-1990",
+            "length":226,
+            "start_city":"Velden",
+            "finish_city":"Dobbiaco",
+            "winner":"ERIC BOYER"
         },
         "stage_16":{
-            "date":"21-MAY-2024",
-            "length":118.4,
-            "start_city":"Laas",
-            "finish_city":"Santa Cristina Valgardena (Monte Pana)",
-            "winner":"TADEJ POGACAR"
+            "date":"02-JUN-1990",
+            "length":171,
+            "start_city":"Dobbiaco",
+            "finish_city":"Passo Pordoi",
+            "winner":"CHARLY MOTTET"
         },
         "stage_17":{
-            "date":"22-MAY-2024",
-            "length":159,
-            "start_city":"Selva di Val Gardena",
-            "finish_city":"Passo Brocon",
-            "winner":"GEORG STEINHAUSER"
+            "date":"03-JUN-1990",
+            "length":223,
+            "start_city":"Moean",
+            "finish_city":"Aprica",
+            "winner":"LEONARDO SIERRA"
         },
         "stage_18":{
-            "date":"23-MAY-2024",
-            "length":178,
-            "start_city":"Fiera di Primiero",
-            "finish_city":"Padova",
-            "winner":"TIM MERLIER"
+            "date":"04-JUN-1990",
+            "length":180,
+            "start_city":"Aprica",
+            "finish_city":"Gallarate",
+            "winner":"ADRIANO BAFFI"
         },
         "stage_19":{
-            "date":"24-MAY-2024",
-            "length":157,
-            "start_city":"Mortegliano",
-            "finish_city":"Sappada",
-            "winner":"ANDREA VENDRAME"
+            "date":"05-JUN-1990",
+            "length":39,
+            "start_city":"Gallarate",
+            "finish_city":"Sacro Monte",
+            "winner":"GIANNI BUGNO"
         },
         "stage_20":{
-            "date":"25-MAY-2024",
-            "length":184,
-            "start_city":"Alpago",
-            "finish_city":"Bassano del Grappa",
-            "winner":"TADEJ POGACAR"
-        },
-        "stage_21":{
-            "date":"26-MAY-2024",
-            "length":125,
-            "start_city":"Rome",
-            "finish_city":"Rome",
-            "winner":"TIM MERLIER"
-        },
+            "date":"06-JUN-1990",
+            "length":90,
+            "start_city":"Milano",
+            "finish_city":"Milano",
+            "winner":"MARIO CIPOLLINI"
+        }
     },
-    "total_length":3317.5,
+    "total_length":3464,
     "teams":[
-        {"id":1, "name":"INEOS Grenadiers"},
-        {"id":2, "name":"Alpecin-Deceuninck"},
-        {"id":3, "name":"Arkéa-B&B Hotels"},
-        {"id":4, "name":"Astana Qazaqstan Team"},
-        {"id":5, "name":"BORA-hansgrohe"},
-        {"id":6, "name":"Cofidis"},
-        {"id":7, "name":"Decathlon AG2R La Mondiale Team"},
-        {"id":8, "name":"EF Education-EasyPost"},
-        {"id":9, "name":"Groupama-FDJ"},
-        {"id":10, "name":"Intermarché-Wanty"},
-        {"id":11, "name":"Israel-Premier Tech"},
-        {"id":12, "name":"Lidl-Trek"},
-        {"id":13, "name":"Movistar Team"},
-        {"id":14, "name":"Soudal Quick-Step"},
-        {"id":15, "name":"Team dsm-firmenich PostNL"},
-        {"id":16, "name":"Team Jayco AlUla"},
-        {"id":17, "name":"Team Polti Kometa"},
-        {"id":18, "name":"Team Visma | Lease a Bike"},
-        {"id":19, "name":"Tudor Pro Cycling Team"},
-        {"id":20, "name":"UAE Team Emirates"},
-        {"id":21, "name":"VF Group - Bardiani CSF-Faizanè"},
-        {"id":22, "name":"Bahrain-Victorious"}
+        {"id":1, "name":"Castorama"},
+        {"id":2, "name":"Alfa Lum"},
+        {"id":3, "name":"Amore & Vita"},
+        {"id":4, "name":"Carrera Jeans - Vagabond"},
+        {"id":5, "name":"CLAS - Cajastur"},
+        {"id":6, "name":"Ariostea"},
+        {"id":7, "name":"Del Tongo"},
+        {"id":8, "name":"Diana - Colnago"},
+        {"id":9, "name":"Frank"},
+        {"id":10, "name":"Gis Gelati"},
+        {"id":11, "name":"Italbonifica"},
+        {"id":12, "name":"Jolly Componibili - Club 88"},
+        {"id":13, "name":"Malvor - Sidi"},
+        {"id":14, "name":"O.N.C.E. - Look - Mavic"},
+        {"id":15, "name":"Panasonic - Sportlife"},
+        {"id":16, "name":"RMO - Mavic - Liberia"},
+        {"id":17, "name":"Chateau d'Ax - Salotti"},
+        {"id":18, "name":"Selle Italia - Eurocar - Mosoca"},
+        {"id":19, "name":"Seur"},
+        {"id":20, "name":"7 Eleven - Hoonved"},
+        {"id":21, "name":"TVM - Toko"},
+        {"id":22, "name":"Z - Tomasso"}
+
     ],
     "gc_top10":[
-        {"place":1, "name":"TADEJ POGACAR"},
-        {"place":2, "name":"DANIEL FELIPE MARTINEZ"},
-        {"place":3, "name":"GERAINT THOMAS"},
-        {"place":4, "name":"BEN O'CONNOR"},
-        {"place":5, "name":"ANTONIO TIBERI"},
-        {"place":6, "name":"THYMEN ARENSMAN"},
-        {"place":7, "name":"EINER RUBIO"},
-        {"place":8, "name":"JAN HIRT"},
-        {"place":9, "name":"ROMAIN BARDET"},
-        {"place":10, "name":"MICHAEL STORER"},
+        {"place":1, "name":"GIANNI BUGNO"},
+        {"place":2, "name":"CHARLY MOTTET"},
+        {"place":3, "name":"MARCO GIOVANNETTI"},
+        {"place":4, "name":"VLADIMIR PULNIKOV"},
+        {"place":5, "name":"FEDERICO ECHAVE"},
+        {"place":6, "name":"FRANCO CHIOCCIOLI"},
+        {"place":7, "name":"MARINO LEJARRETA"},
+        {"place":8, "name":"PIOTR UGRUMOV"},
+        {"place":9, "name":"MASSIMILIANO LELLI"},
+        {"place":10, "name":"LEONARDO SIERRA"}
     ]
 }, {
     "_id":2,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":107,
-    "year":2023,
-    "start_date":"06-MAY-2023",
-    "end_date":"28-MAY-2023",
+    "edition":75,
+    "year":1991,
+    "start_date":"26-MAY-1991",
+    "end_date":"16-JUN-1991",
     "stages":{
         "stage_1":{
-            "date":"06-MAY-2023",
-            "length":19.6,
-            "start_city":"Fossacesia Marina",
-            "finish_city":"Ortona",
-            "winner":"REMCO EVENEPOEL"
+            "date":"26-MAY-1991",
+            "length":193,
+            "start_city":"Olbia",
+            "finish_city":"Olbia",
+            "winner":"PHILIPPE CASADO"
         },
-        "stage_2":{
-            "date":"07-MAY-2023",
-            "length":202,
-            "start_city":"Teramo",
-            "finish_city":"San Salvo",
-            "winner":"JONATHAN MILAN"
+        "stage_2a":{
+            "date":"27-MAY-1991",
+            "length":127,
+            "start_city":"Olbia",
+            "finish_city":"Sassari",
+            "winner":"GIANNI BUGNO"
+        },
+        "stage_2b":{
+            "date":"27-MAY-1991",
+            "length":7,
+            "start_city":"Sassari",
+            "finish_city":"Sassari",
+            "winner":"GIANLUCA PIEROBON"
         },
         "stage_3":{
-            "date":"08-MAY-2023",
-            "length":213,
-            "start_city":"Vasto",
-            "finish_city":"Melfi",
-            "winner":"MICHAEL MATTHEWS"
+            "date":"28-MAY-1991",
+            "length":231,
+            "start_city":"Sassari",
+            "finish_city":"Cagliari",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_4":{
-            "date":"09-MAY-2023",
-            "length":175,
-            "start_city":"Venosa",
-            "finish_city":"Lago Laceno",
-            "winner":"AURELIEN PARET-PEINTRE"
+            "date":"30-MAY-1991",
+            "length":170,
+            "start_city":"Sorrento",
+            "finish_city":"Sorrento",
+            "winner":"ERIC BOYER"
         },
         "stage_5":{
-            "date":"10-MAY-2023",
-            "length":171,
-            "start_city":"Atripalda",
-            "finish_city":"Salerno",
-            "winner":"KADEN GROVES"
+            "date":"31-MAY-1991",
+            "length":246,
+            "start_city":"Sorrento",
+            "finish_city":"Scanno",
+            "winner":"MARINO LEJARRETA"
         },
         "stage_6":{
-            "date":"11-MAY-2023",
-            "length":162,
-            "start_city":"Napoli",
-            "finish_city":"Napoli",
-            "winner":"MADS PEDERSEN"
+            "date":"01-JUN-1991",
+            "length":205,
+            "start_city":"Scanno",
+            "finish_city":"Rieti",
+            "winner":"VLADIMIR PULNIKOV"
         },
         "stage_7":{
-            "date":"12-MAY-2023",
-            "length":218,
-            "start_city":"Capua",
-            "finish_city":"Gran Sasso d'Italia (Campo Imperatore)",
-            "winner":"DAVIDE BAIS"
+            "date":"02-JUN-1991",
+            "length":179,
+            "start_city":"Rieti",
+            "finish_city":"Citta di Castello",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_8":{
-            "date":"13-MAY-2023",
-            "length":207,
-            "start_city":"Terni",
-            "finish_city":"Fossombrone",
-            "winner":"BEN HEALY"
+            "date":"03-JUN-1991",
+            "length":163,
+            "start_city":"Citta di Castello",
+            "finish_city":"Prato",
+            "winner":"DAVIDE CASSANI"
         },
         "stage_9":{
-            "date":"14-MAY-2023",
-            "length":35,
-            "start_city":"Savignano sul Rubicone",
-            "finish_city":"Cesena",
-            "winner":"REMCO EVENEPOEL"
+            "date":"04-JUN-1991",
+            "length":229,
+            "start_city":"Prato",
+            "finish_city":"Felino",
+            "winner":"MASSIMO GHIROTTO"
         },
         "stage_10":{
-            "date":"16-MAY-2023",
-            "length":196,
-            "start_city":"Scandiano",
-            "finish_city":"Viareggio",
-            "winner":"MAGNUS CORT"
+            "date":"05-JUN-1991",
+            "length":43,
+            "start_city":"Collechio",
+            "finish_city":"Langhirano",
+            "winner":"GIANNI BUGNO"
         },
         "stage_11":{
-            "date":"17-MAY-2023",
-            "length":219,
-            "start_city":"Camaiore",
-            "finish_city":"Tortona",
-            "winner":"PASCAL ACKERMANN"
+            "date":"06-JUN-1991",
+            "length":223,
+            "start_city":"Sala Baganza",
+            "finish_city":"Savona",
+            "winner":"MAXIMILIAN SCIANDRI"
         },
         "stage_12":{
-            "date":"18-MAY-2023",
-            "length":185,
-            "start_city":"Bra",
-            "finish_city":"Rivoli",
-            "winner":"NICO DENZ"
+            "date":"07-JUN-1991",
+            "length":182,
+            "start_city":"Savona",
+            "finish_city":"Pian del Re",
+            "winner":"MASSIMILIANO LELLI"
         },
         "stage_13":{
-            "date":"19-MAY-2023",
-            "length":74.6,
-            "start_city":"Le Chable",
-            "finish_city":"Crans-Montana",
-            "winner":"EINER RUBIO"
+            "date":"08-JUN-1991",
+            "length":192,
+            "start_city":"Savigliano",
+            "finish_city":"Sestriere",
+            "winner":"EDUARDO CHOZAS"
         },
         "stage_14":{
-            "date":"20-MAY-2023",
-            "length":194,
-            "start_city":"Sierre",
-            "finish_city":"Cassano Magnago",
-            "winner":"NICO DENZ"
+            "date":"09-JUN-1991",
+            "length":231,
+            "start_city":"Torino",
+            "finish_city":"Morbegno",
+            "winner":"FRANCO BALLERINI"
         },
         "stage_15":{
-            "date":"21-MAY-2023",
-            "length":195,
-            "start_city":"Seregno",
-            "finish_city":"Bergamo",
-            "winner":"BRANDON MCNULTY"
+            "date":"10-JUN-1991",
+            "length":132,
+            "start_city":"Morbegno",
+            "finish_city":"Aprica",
+            "winner":"FRANCO CHIOCCIOLI"
         },
         "stage_16":{
-            "date":"23-MAY-2023",
-            "length":203,
-            "start_city":"Sabbio Chiese",
-            "finish_city":"Monte Bondone",
-            "winner":"JOAO ALMEIDA"
+            "date":"11-JUN-1991",
+            "length":220,
+            "start_city":"Aprica",
+            "finish_city":"Wolkenstein/Selva",
+            "winner":"MASSIMILIANO LELLI"
         },
         "stage_17":{
-            "date":"24-MAY-2023",
-            "length":197,
-            "start_city":"Pergine Valsugana",
-            "finish_city":"Caorle",
-            "winner":"ALBERTO DAINESE"
+            "date":"12-JUN-1991",
+            "length":169,
+            "start_city":"Wolkenstein/Selva",
+            "finish_city":"Passo Pordoi",
+            "winner":"FRANCO CHIOCCIOLI"
         },
         "stage_18":{
-            "date":"25-MAY-2023",
-            "length":161,
-            "start_city":"Oderzo",
-            "finish_city":"Val di Zoldo (Palafavera)",
-            "winner":"FILIPPO ZANA"
+            "date":"13-JUN-1991",
+            "length":163,
+            "start_city":"Pozza di Fassa",
+            "finish_city":"Castelfranco Veneto",
+            "winner":"SILVIO MARTINELLO"
         },
         "stage_19":{
-            "date":"26-MAY-2023",
-            "length":183,
-            "start_city":"Longarone",
-            "finish_city":"Tre Cime di Lavaredo",
-            "winner":"SANTIAGO BUITRAGO"
+            "date":"14-JUN-1991",
+            "length":185,
+            "start_city":"Castelfranco Veneto",
+            "finish_city":"Brescia",
+            "winner":"GIANNI BUGNO"
         },
         "stage_20":{
-            "date":"27-MAY-2023",
-            "length":18.6,
-            "start_city":"Tarvisio",
-            "finish_city":"Monte Lussari",
-            "winner":"PRIMOZ ROGLIC"
+            "date":"15-JUN-1991",
+            "length":68,
+            "start_city":"Broni",
+            "finish_city":"Casteggio",
+            "winner":"FRANCO CHIOCCIOLI"
         },
         "stage_21":{
-            "date":"28-MAY-2023",
-            "length":126,
-            "start_city":"Roma",
-            "finish_city":"Roma",
-            "winner":"MARK CAVENDISH"
+            "date":"16-JUN-1991",
+            "length":153,
+            "start_city":"Pavia",
+            "finish_city":"Milano",
+            "winner":"MARIO CIPOLLINI"
         },
     },
-    "total_length":3354.8,
+    "total_length":3711,
     "teams":[
-        {"id":1, "name":"Soudal Quick-Step"},
-        {"id":2, "name":"AG2R Citroën Team"},
-        {"id":3, "name":"Alpecin - Deceuninck"},
-        {"id":4, "name":"Astana Qazaqstan Team"},
-        {"id":5, "name":"Bahrain - Victorious"},
-        {"id":6, "name":"BORA - hansgrohe"},
-        {"id":7, "name":"Cofidis"},
-        {"id":8, "name":"EF Education - EasyPost"},
-        {"id":9, "name":"EOLO-Kometa"},
-        {"id":10, "name":"Green Project - Bardiani CSF - Faizanè"},
-        {"id":11, "name":"Groupama - FDJ"},
-        {"id":12, "name":"INEOS Grenadiers"},
-        {"id":13, "name":"Intermarché - Circus - Wanty"},
-        {"id":14, "name":"Israel - Premier Tech"},
-        {"id":15, "name":"Jumbo-Visma"},
-        {"id":16, "name":"Movistar Team"},
-        {"id":17, "name":"Team Arkéa Samsic"},
-        {"id":18, "name":"Team Corratec - Selle Italia"},
-        {"id":19, "name":"Team DSM"},
-        {"id":20, "name":"Team Jayco AlUla"},
-        {"id":21, "name":"Trek - Segafredo"},
-        {"id":22, "name":"UAE Team Emirates"},
-],
+        {"id":1, "name":"Gatorade - Chateau d'Ax"},
+        {"id":2, "name":"Amore & Vita"},
+        {"id":3, "name":"Banesto"},
+        {"id":4, "name":"Carrera Jeans - Tassoni"},
+        {"id":5, "name":"Castorama - Raleigh"},
+        {"id":6, "name":"Ariostea"},
+        {"id":7, "name":"CLAS - Cajastur"},
+        {"id":8, "name":"Colnago-Lampre"},
+        {"id":9, "name":"Del Tongo"},
+        {"id":10, "name":"Gis Gelati - Ballan"},
+        {"id":11, "name":"Italbonifica - Navigare"},
+        {"id":12, "name":"Jolly Componibili - Club 88"},
+        {"id":13, "name":"Lotus - Festina"},
+        {"id":14, "name":"O.N.C.E. - Look - Mavic"},
+        {"id":15, "name":"Pony Malta - Avianca"},
+        {"id":16, "name":"Selle Italia - Magniarredo"},
+        {"id":17, "name":"Seur"},
+        {"id":18, "name":"TVM - Sanyo"},
+        {"id":19, "name":"ZG Mobili - Bottecchia"},
+        {"id":20, "name":"Z - Peugeot"}
+    ],
     "gc_top10":[
-        {"place":1, "name":"PRIMOZ ROGLIC"},
-        {"place":2, "name":"GERAINT THOMAS"},
-        {"place":3, "name":"JOAO ALMEIDA"},
-        {"place":4, "name":"DAMIANO CARUSO"},
-        {"place":5, "name":"THIBAUT PINOT"},
-        {"place":6, "name":"THYMEN ARENSMAN"},
-        {"place":7, "name":"EDDIE DUNBAR"},
-        {"place":8, "name":"ANDREAS LEKNESSUND"},
-        {"place":9, "name":"LENNARD KAMNA"},
-        {"place":10, "name":"LAUERNS DE PLUS"},
+        {"place":1, "name":"FRANCO CHIOCCIOLI"},
+        {"place":2, "name":"CLAUDIO CHIAPPUCCI"},
+        {"place":3, "name":"MASSIMILIANO LELLI"},
+        {"place":4, "name":"GIANNI BUGNO"},
+        {"place":5, "name":"MARINO LEJARRETA"},
+        {"place":6, "name":"ERIC BOYER"},
+        {"place":7, "name":"LEONARDO SIERRA"},
+        {"place":8, "name":"MARCO GIOVANNETTI"},
+        {"place":9, "name":"ZENON JASKUŁA"},
+        {"place":10, "name":"EDUARDO CHOZAS"}
     ]
-},  {
+}, {
     "_id":3,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":106,
-    "year":2022,
-    "start_date":"06-MAY-2022",
-    "end_date":"29-MAY-2023",
+    "edition":76,
+    "year":1992,
+    "start_date":"24-MAY-1992",
+    "end_date":"14-JUN-1992",
     "stages":{
+        "prologue":{
+            "date":"24-MAY-1992",
+            "length":8,
+            "start_city":"Genua",
+            "finish_city":"Genua",
+            "winner":"THIERRY MARIE"
+        },
         "stage_1":{
-            "date":"06-MAY-2022",
-            "length":195,
-            "start_city":"Budapest",
-            "finish_city":"Visegrad",
-            "winner":"MATHIEU VAN DER POEL"
+            "date":"25-MAY-1992",
+            "length":194,
+            "start_city":"Genua",
+            "finish_city":"Uliveto Terme",
+            "winner":"ENDRIO LEONI"
         },
         "stage_2":{
-            "date":"07-MAY-2022",
-            "length":9.2,
-            "start_city":"Budapest",
-            "finish_city":"Budapest",
-            "winner":"SIMON YATES"
+            "date":"26-MAY-1992",
+            "length":174,
+            "start_city":"Uliveto Terme",
+            "finish_city":"Arezzo",
+            "winner":"MAXIMILIAN SCIANDRI"
         },
         "stage_3":{
-            "date":"08-MAY-2022",
-            "length":201,
-            "start_city":"Kaposvar",
-            "finish_city":"Balatonfured",
-            "winner":"MARK CAVENDISH"
+            "date":"27-MAY-1992",
+            "length":38,
+            "start_city":"Arezzo",
+            "finish_city":"Sansepolcro",
+            "winner":"MIGUEL INDURAIN"
         },
         "stage_4":{
-            "date":"10-MAY-2022",
-            "length":172,
-            "start_city":"Avola",
-            "finish_city":"Etna",
-            "winner":"LENNARD KAMNA"
+            "date":"28-MAY-1992",
+            "length":198,
+            "start_city":"Sansepolcro",
+            "finish_city":"Porto Sant'Elpidio",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_5":{
-            "date":"11-MAY-2022",
-            "length":174,
-            "start_city":"Catania",
-            "finish_city":"Messina",
-            "winner":"ARNAUD DEMARE"
+            "date":"29-MAY-1992",
+            "length":223,
+            "start_city":"Porto Sant'Elpidio",
+            "finish_city":"Sulmona",
+            "winner":"FRANCO VONA"
         },
         "stage_6":{
-            "date":"12-MAY-2022",
-            "length":192,
-            "start_city":"Palmi",
-            "finish_city":"Scalea",
-            "winner":"ARNAUD DEMARE"
+            "date":"30-MAY-1992",
+            "length":232,
+            "start_city":"Roccaraso",
+            "finish_city":"Melfi",
+            "winner":"GUIDO BONTEMPI"
         },
         "stage_7":{
-            "date":"13-MAY-2022",
-            "length":196,
-            "start_city":"Diamante",
-            "finish_city":"Potenza",
-            "winner":"KOEN BOUWMAN"
+            "date":"31-MAY-1992",
+            "length":184,
+            "start_city":"Melfi",
+            "finish_city":"Aversa",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_8":{
-            "date":"14-MAY-2022",
-            "length":153,
-            "start_city":"Napoli",
-            "finish_city":"Napoli",
-            "winner":"THOMAS DE GENDT"
+            "date":"01-JUN-1992",
+            "length":165,
+            "start_city":"Aversa",
+            "finish_city":"Latina",
+            "winner":"GUIDO BONTEMPI"
         },
         "stage_9":{
-            "date":"15-MAY-2022",
-            "length":191,
-            "start_city":"Isernia",
-            "finish_city":"Blockhaus",
-            "winner":"JAI HINDLEY"
+            "date":"02-JUN-1992",
+            "length":204,
+            "start_city":"Latina",
+            "finish_city":"Monte Terminillo",
+            "winner":"LUIS ALBERTO HERRERA"
         },
         "stage_10":{
-            "date":"17-MAY-2022",
-            "length":196,
-            "start_city":"Pescara",
-            "finish_city":"Jesi",
-            "winner":"BINIAM GIRMAY"
+            "date":"03-JUN-1992",
+            "length":233,
+            "start_city":"Montepulciano",
+            "finish_city":"Imola",
+            "winner":"ROBERTO PAGNIN"
         },
         "stage_11":{
-            "date":"18-MAY-2022",
-            "length":203,
-            "start_city":"Santarcangelo di Romagna",
-            "finish_city":"Reggio Emilia",
-            "winner":"ALBERTO DAINESE"
+            "date":"04-JUN-1992",
+            "length":214,
+            "start_city":"Imola",
+            "finish_city":"Bassano del Grappa",
+            "winner":"ENDRIO LEONI"
         },
         "stage_12":{
-            "date":"19-MAY-2022",
+            "date":"05-JUN-1992",
             "length":204,
-            "start_city":"Parma",
-            "finish_city":"Genova",
-            "winner":"STEFANO OLDANI"
+            "start_city":"Bassano del Grappa",
+            "finish_city":"Kurfar/Corvara",
+            "winner":"FRANCO VONA"
         },
         "stage_13":{
-            "date":"20-MAY-2022",
-            "length":150,
-            "start_city":"Sanremo",
-            "finish_city":"Cuneo",
-            "winner":"ARNAUD DEMARE"
+            "date":"06-JUN-1992",
+            "length":205,
+            "start_city":"Kurfar/Corvara",
+            "finish_city":"Monte Bondone",
+            "winner":"GIORGIO FURLAN"
         },
         "stage_14":{
-            "date":"21-MAY-2022",
-            "length":147,
-            "start_city":"Santena",
-            "finish_city":"Torino",
-            "winner":"SIMON YATES"
+            "date":"07-JUN-1992",
+            "length":171,
+            "start_city":"Riva del Garda",
+            "finish_city":"Palazzolo sull'Oglio",
+            "winner":"FRANCOIS SIMON"
         },
         "stage_15":{
-            "date":"22-MAY-2022",
-            "length":177,
-            "start_city":"Rivarolo Canavese",
-            "finish_city":"Cogne",
-            "winner":"GIULIO CICCONE"
+            "date":"08-JUN-1992",
+            "length":166,
+            "start_city":"Palazzolo sull'Oglio",
+            "finish_city":"Sondrio",
+            "winner":"MARCO SALIGARI"
         },
         "stage_16":{
-            "date":"24-MAY-2022",
-            "length":202,
-            "start_city":"Salo",
-            "finish_city":"Aprica",
-            "winner":"JAN HIRT"
+            "date":"09-JUN-1992",
+            "length":203,
+            "start_city":"Sondrio",
+            "finish_city":"Vercelli",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_17":{
-            "date":"25-MAY-2022",
-            "length":168,
-            "start_city":"Ponte di Legno",
-            "finish_city":"Lavarone",
-            "winner":"SANTIAGO BUITRAGO"
+            "date":"10-JUN-1992",
+            "length":200,
+            "start_city":"Vercelli",
+            "finish_city":"Pian del Re",
+            "winner":"MARCO GIOVANNETTI"
         },
         "stage_18":{
-            "date":"26-MAY-2022",
-            "length":156,
-            "start_city":"Borgo Valsugana",
-            "finish_city":"Treviso",
-            "winner":"DRIES DE BONDT"
+            "date":"11-JUN-1992",
+            "length":260,
+            "start_city":"Saluzzo",
+            "finish_city":"Pila",
+            "winner":"UDO BOLTS"
         },
         "stage_19":{
-            "date":"27-MAY-2022",
-            "length":178,
-            "start_city":"Marano Lagunare",
-            "finish_city":"Santuario di Castelmonte",
-            "winner":"KOEN BOUWMAN"
+            "date":"12-JUN-1992",
+            "length":201,
+            "start_city":"Saint-Vincent",
+            "finish_city":"Verbania",
+            "winner":"FRANCO CHIOCCIOLI"
         },
         "stage_20":{
-            "date":"28-MAY-2022",
-            "length":168,
-            "start_city":"Belluno",
-            "finish_city":"Marmolada (Passo Fedaia)",
-            "winner":"ALESSANDRO COVI"
+            "date":"13-JUN-1992",
+            "length":92,
+            "start_city":"Verbania",
+            "finish_city":"Vigevano",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_21":{
-            "date":"29-MAY-2022",
-            "length":17.4,
-            "start_city":"Verona",
-            "finish_city":"Verona",
-            "winner":"MATTEO SOBRERO"
+            "date":"14-JUN-1992",
+            "length":66,
+            "start_city":"Vigevano",
+            "finish_city":"Milano",
+            "winner":"MIGUEL INDURAIN"
         },
     },
-    "total_length":3449.6,
+    "total_length":3835,
     "teams":[
-        {"id":1, "name":"INEOS Grenadiers"},
-        {"id":2, "name":"AG2R Citroën Team"},
-        {"id":3, "name":"Alpecin - Fenix"},
-        {"id":4, "name":"Astana Qazaqstan Team"},
-        {"id":5, "name":"Bahrain - Victorious"},
-        {"id":6, "name":"Bardiani-CSF-Faizanè"},
-        {"id":7, "name":"BORA - hansgrohe"},
-        {"id":8, "name":"Cofidis"},
-        {"id":9, "name":"Drone Hopper - Androni Giocattoli"},
-        {"id":10, "name":"EF Education - EasyPost"},
-        {"id":11, "name":"EOLO-Kometa"},
-        {"id":12, "name":"Groupama - FDJ"},
-        {"id":13, "name":"Intermarché - Wanty - Gobert Matériaux"},
-        {"id":14, "name":"Israel - Premier Tech"},
-        {"id":15, "name":"Jumbo-Visma"},
-        {"id":16, "name":"Lotto Soudal"},
-        {"id":17, "name":"Movistar Team"},
-        {"id":18, "name":"Quick-Step Alpha Vinyl Team"},
-        {"id":19, "name":"Team BikeExchange - Jayco"},
-        {"id":20, "name":"Team DSM"},
-        {"id":21, "name":"Trek - Segafredo"},
-        {"id":22, "name":"UAE Team Emirates"}
+        {"id":1, "name":"GB-MG Maglificio"},
+        {"id":2, "name":"Amore & Vita"},
+        {"id":3, "name":"Banesto"},
+        {"id":4, "name":"Carrera Jeans - Vagabond"},
+        {"id":5, "name":"Castorama"},
+        {"id":6, "name":"Ariostea"},
+        {"id":7, "name":"Lotus - Festina"},
+        {"id":8, "name":"Gatorade - Chateau d'Ax"},
+        {"id":9, "name":"Italbonifica"},
+        {"id":10, "name":"Jolly Componibili - Club 88"},
+        {"id":11, "name":"Lampre-Colnago"},
+        {"id":12, "name":"Mercatone Uno - Zucchini - Mendeghini"},
+        {"id":13, "name":"Motorola"},
+        {"id":14, "name":"O.N.C.E. - Look - Mavic"},
+        {"id":15, "name":"Manzana Postobón"},
+        {"id":16, "name":"Seur"},
+        {"id":17, "name":"Team Telekom"},
+        {"id":18, "name":"Tulip Computers - Koga"},
+        {"id":19, "name":"Z - Lemond"},
+        {"id":20, "name":"ZG Mobili - Selle Italia"}
     ],
     "gc_top10":[
-        {"place":1, "name":"JAI HINDLEY"},
-        {"place":2, "name":"RICHARD CARAPAZ"},
-        {"place":3, "name":"MIKEL LANDA"},
-        {"place":4, "name":"VINCENZO NIBALI"},
-        {"place":5, "name":"PELLO BILBAO"},
-        {"place":6, "name":"JAN HIRT"},
-        {"place":7, "name":"EMANUEL BUCHMANN"},
-        {"place":8, "name":"DOMENICO POZZOVIVO"},
-        {"place":9, "name":"CARTHY HUGH"},
-        {"place":10, "name":"JUAN PEDRO LOPEZ"}
+        {"place":1, "name":"MIGUEL INDURAIN"},
+        {"place":2, "name":"CLAUDIO CHIAPPUCCI"},
+        {"place":3, "name":"FRANCO CHIOCCIOLI"},
+        {"place":4, "name":"MARCO GIOVANNETTI"},
+        {"place":5, "name":"ANDREW HAMPSTEN"},
+        {"place":6, "name":"FRANCO VONA"},
+        {"place":7, "name":"PAVEL TONKOV"},
+        {"place":8, "name":"LUIS ALBERTO HERRERA"},
+        {"place":9, "name":"ROBERTO CONTI"},
+        {"place":10, "name":"BRUNO CORNILLET"}
     ]
 }, {
     "_id":4,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":105,
-    "year":2021,
-    "start_date":"08-MAY-2021",
-    "end_date":"30-MAY-2021",
+    "edition":77,
+    "year":1993,
+    "start_date":"23-MAY-1993",
+    "end_date":"13-JUN-1993",
     "stages":{
-        "stage_1":{
-            "date":"08-MAY-2021",
-            "length":8.6,
-            "start_city":"Turin",
-            "finish_city":"Turin",
-            "winner":"FILIPPO GANNA"
+        "stage_1a":{
+            "date":"23-MAY-1993",
+            "length":85,
+            "start_city":"Porto Azzurro",
+            "finish_city":"Portoferraio",
+            "winner":"MORENO ARGENTIN"
+        },
+        "stage_1b":{
+            "date":"23-MAY-1993",
+            "length":9,
+            "start_city":"Portoferraio",
+            "finish_city":"Portoferraio",
+            "winner":"MAURIZIO FONDRIEST"
         },
         "stage_2":{
-            "date":"09-MAY-2021",
-            "length":179,
-            "start_city":"Stupinigi",
-            "finish_city":"Novara",
-            "winner":"TIM MERLIER"
+            "date":"24-MAY-1993",
+            "length":224,
+            "start_city":"Grosseto",
+            "finish_city":"Rieti",
+            "winner":"ADRIANO BAFFI"
         },
         "stage_3":{
-            "date":"10-MAY-2021",
-            "length":190,
-            "start_city":"Biella",
-            "finish_city":"Canale",
-            "winner":"TACO VAN DER HOORN"
+            "date":"25-MAY-1993",
+            "length":153,
+            "start_city":"Rieti",
+            "finish_city":"Scanno",
+            "winner":"PIOTR UGRUMOV"
         },
         "stage_4":{
-            "date":"11-MAY-2021",
-            "length":187,
-            "start_city":"Piacenza",
-            "finish_city":"Sestola",
-            "winner":"JOE DOMBROWSKI"
+            "date":"26-MAY-1993",
+            "length":179,
+            "start_city":"Lago di Scanno",
+            "finish_city":"Marcianise",
+            "winner":"FABIO BALDATO"
         },
         "stage_5":{
-            "date":"12-MAY-2021",
-            "length":177,
-            "start_city":"Modena",
-            "finish_city":"Cattolica",
-            "winner":"CALEB EWAN"
+            "date":"27-MAY-1993",
+            "length":212,
+            "start_city":"Paestum",
+            "finish_city":"Terme Luigiane",
+            "winner":"DMITRI KONYCHEV"
         },
         "stage_6":{
-            "date":"13-MAY-2021",
-            "length":160,
-            "start_city":"Grotte di Frasassi",
-            "finish_city":"Ascoli Piceno (San Giacomo)",
-            "winner":"GINO MADER"
+            "date":"28-MAY-1993",
+            "length":130,
+            "start_city":"Villafranca Tirrena",
+            "finish_city":"Messina",
+            "winner":"GUIDO BONTEMPI"
         },
         "stage_7":{
-            "date":"14-MAY-2021",
-            "length":181,
-            "start_city":"Notaresco",
-            "finish_city":"Termoli",
-            "winner":"CALEB EWAN"
+            "date":"29-MAY-1993",
+            "length":242,
+            "start_city":"Capo d'Orlando",
+            "finish_city":"Agrigento",
+            "winner":"BJARNE RIIS"
         },
         "stage_8":{
-            "date":"15-MAY-2021",
-            "length":170,
-            "start_city":"Foggia",
-            "finish_city":"Guardia Sanframondi",
-            "winner":"VICTOR LAFAY"
+            "date":"30-MAY-1993",
+            "length":140,
+            "start_city":"Agrigento",
+            "finish_city":"Palermo",
+            "winner":"ADRIANO BAFFI"
         },
         "stage_9":{
-            "date":"16-MAY-2021",
-            "length":158,
-            "start_city":"Castel di Sangro",
-            "finish_city":"Campo Felice (Rocca di Cambio)",
-            "winner":"EGAN BERNAL"
+            "date":"01-JUN-1993",
+            "length":219,
+            "start_city":"Montelibretti",
+            "finish_city":"Fabriano",
+            "winner":"GIORGIO FURLAN"
         },
         "stage_10":{
-            "date":"17-MAY-2021",
-            "length":139,
-            "start_city":"L'Aquila",
-            "finish_city":"Foligno",
-            "winner":"PETER SAGAN"
+            "date":"02-JUN-1993",
+            "length":28,
+            "start_city":"Senigallia",
+            "finish_city":"Senigallia",
+            "winner":"MIGUEL INDURAIN"
         },
         "stage_11":{
-            "date":"19-MAY-2021",
-            "length":162,
-            "start_city":"Perugia",
-            "finish_city":"Montalcino",
-            "winner":"MAURO SCHMID"
+            "date":"03-JUN-1993",
+            "length":184,
+            "start_city":"Senigallia",
+            "finish_city":"Dozza",
+            "winner":"FABIANO FONTANELLI"
         },
         "stage_12":{
-            "date":"20-MAY-2021",
-            "length":212,
-            "start_city":"Siena",
-            "finish_city":"Bagno di Romagna",
-            "winner":"ANDREA VENDRAME"
+            "date":"04-JUN-1993",
+            "length":236,
+            "start_city":"Dozza",
+            "finish_city":"Asiago",
+            "winner":"DMITRI KONYCHEV"
         },
         "stage_13":{
-            "date":"21-MAY-2021",
-            "length":198,
-            "start_city":"Ravenna",
-            "finish_city":"Verona",
-            "winner":"GIACOMO NIZZOLO"
+            "date":"05-JUN-1993",
+            "length":217,
+            "start_city":"Asiago",
+            "finish_city":"Kurfar/Corvara",
+            "winner":"MORENO ARGENTIN"
         },
         "stage_14":{
-            "date":"22-MAY-2021",
-            "length":205,
-            "start_city":"Cittadella",
-            "finish_city":"Monte Zoncolan",
-            "winner":"LORENZO FORTUNATO"
+            "date":"06-JUN-1993",
+            "length":245,
+            "start_city":"Kurfar/Corvara",
+            "finish_city":"Kurfar/Corvara",
+            "winner":"CLAUDIO CHIAPPUCCI"
         },
         "stage_15":{
-            "date":"23-MAY-2021",
-            "length":147,
-            "start_city":"Grado",
-            "finish_city":"Gorizia",
-            "winner":"VICTOR CAMPENAERTS"
+            "date":"07-JUN-1993",
+            "length":263,
+            "start_city":"Kurfar/Corvara",
+            "finish_city":"Lumezzane",
+            "winner":"DAVIDE CASSANI"
         },
         "stage_16":{
-            "date":"24-MAY-2021",
-            "length":153,
-            "start_city":"Sacile",
-            "finish_city":"Cortina d'Ampezzo",
-            "winner":"EGAN BERNAL"
+            "date":"08-JUN-1993",
+            "length":181,
+            "start_city":"Lumezzane",
+            "finish_city":"Borgo Val di Taro",
+            "winner":"FABIO BALDATO"
         },
         "stage_17":{
-            "date":"26-MAY-2021",
-            "length":193,
-            "start_city":"Canazei",
-            "finish_city":"Sega di Ala",
-            "winner":"DAN MARTIN"
+            "date":"09-JUN-1993",
+            "length":223,
+            "start_city":"Varazze",
+            "finish_city":"Chianale",
+            "winner":"MARCO SALIGARI"
         },
         "stage_18":{
-            "date":"27-MAY-2021",
-            "length":231,
-            "start_city":"Rovereto",
-            "finish_city":"Stradella",
-            "winner":"ALBERTO BETTIOL"
+            "date":"10-JUN-1993",
+            "length":150,
+            "start_city":"Sampeyre",
+            "finish_city":"Fossano",
+            "winner":"ADRIANO BAFFI"
         },
         "stage_19":{
-            "date":"28-MAY-2021",
-            "length":166,
-            "start_city":"Abbiategrasso",
-            "finish_city":"Alpe di Mera (Valsesia)",
-            "winner":"SIMON YATES"
+            "date":"11-JUN-1993",
+            "length":55,
+            "start_city":"Pinerolo",
+            "finish_city":"Sestriere",
+            "winner":"MIGUEL INDURAIN"
         },
         "stage_20":{
-            "date":"29-MAY-2021",
-            "length":164,
-            "start_city":"Verbania",
-            "finish_city":"Valle Spluga-Alpe Motta",
-            "winner":"DAMIANO CARUSO"
+            "date":"12-JUN-1993",
+            "length":162,
+            "start_city":"Torino",
+            "finish_city":"Oropa",
+            "winner":"MASSIMO GHIROTTO"
         },
         "stage_21":{
-            "date":"30-MAY-2021",
-            "length":30.3,
-            "start_city":"Senago",
-            "finish_city":"Milan",
-            "winner":"FILIPPO GANNA"
+            "date":"13-JUN-1993",
+            "length":166,
+            "start_city":"Biella",
+            "finish_city":"Milano",
+            "winner":"FABIO BALDATO"
         },
     },
-    "total_length":3410.9,
+    "total_length":3703,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
+        {"id":1, "name":"Banesto"},
+        {"id":2, "name":"Amore & Vita"},
+        {"id":3, "name":"Artiach"},
+        {"id":4, "name":"Carrera Jeans - Tassoni"},
+        {"id":5, "name":"Castorama"},
+        {"id":6, "name":"Ariostea"},
+        {"id":7, "name":"Mapei - Viner"},
+        {"id":8, "name":"Festina - Lotus"},
+        {"id":9, "name":"GAN - Lemond"},
+        {"id":10, "name":"Gatorade"},
+        {"id":11, "name":"Jolly Componibili - Club 88"},
+        {"id":12, "name":"Kelme"},
+        {"id":13, "name":"Lampre-Polti"},
+        {"id":14, "name":"Mecair-Ballan"},
+        {"id":15, "name":"Mercatone Uno - Mendeghini - Zucchini"},
+        {"id":16, "name":"GB-MG Maglificio"},
+        {"id":17, "name":"Motorola"},
+        {"id":18, "name":"Navigare - Blue Storm"},
+        {"id":19, "name":"Team Telekom"},
+        {"id":20, "name":"ZG Mobili"}
     ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"MIGUEL INDURAIN"},
+        {"place":2, "name":"PIOTR UGRUMOV"},
+        {"place":3, "name":"CLAUDIO CHIAPPUCCI"},
+        {"place":4, "name":"MASSIMILIANO LELLI"},
+        {"place":5, "name":"PAVEL TONKOV"},
+        {"place":6, "name":"MORENO ARGENTIN"},
+        {"place":7, "name":"VLADIMIR PULNIKOV"},
+        {"place":8, "name":"MAURIZIO FONDRIEST"},
+        {"place":9, "name":"STEPHEN ROCHE"},
+        {"place":10, "name":"ZENON JASKUŁA"}
     ]
 }, {
     "_id":5,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":104,
-    "year":2020,
-    "start_date":"",
-    "end_date":"",
+    "edition":78,
+    "year":1994,
+    "start_date":"22-MAY-1994",
+    "end_date":"12-JUN-1994",
     "stages":{
-        "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+        "stage_1a":{
+            "date":"22-MAY-1994",
+            "length":86,
+            "start_city":"Bologna",
+            "finish_city":"Bologna",
+            "winner":"ENDRIO LEONI"
+        },
+        "stage_1b":{
+            "date":"22-MAY-1994",
+            "length":7,
+            "start_city":"Bologna",
+            "finish_city":"Bologna",
+            "winner":"ARMAND DE LAS CUEVAS"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"23-MAY-1994",
+            "length":232,
+            "start_city":"Bologna",
+            "finish_city":"Osimo",
+            "winner":"MORENO ARGENTIN"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-1994",
+            "length":185,
+            "start_city":"Osimo",
+            "finish_city":"Loreto Aprutino",
+            "winner":"GIANNI BUGNO"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-1994",
+            "length":204,
+            "start_city":"Montesilvano Marina",
+            "finish_city":"Campitello Matese",
+            "winner":"EVGENI BERZIN"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-1994",
+            "length":158,
+            "start_city":"Campobasso",
+            "finish_city":"Melfi",
+            "winner":"ENDRIO LEONI"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-1994",
+            "length":215,
+            "start_city":"Potenza",
+            "finish_city":"Caserta",
+            "winner":"MARCO SALIGARI"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-1994",
+            "length":119,
+            "start_city":"Fiuggi",
+            "finish_city":"Fiuggi",
+            "winner":"LAUDELINO CUBINO"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"29-MAY-1994",
+            "length":44,
+            "start_city":"Grosseto",
+            "finish_city":"Follonica",
+            "winner":"EVGENI BERZIN"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"30-MAY-1994",
+            "length":153,
+            "start_city":"Castiglione della Pescaia",
+            "finish_city":"Pontedera",
+            "winner":"JAN SVORADA"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"31-MAY-1994",
+            "length":115,
+            "start_city":"Marostica",
+            "finish_city":"Marostica",
+            "winner":"DJAMOLIDINE ABDUZHAPAROV"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"01-JUN-1994",
+            "length":165,
+            "start_city":"Marostica",
+            "finish_city":"Bibione",
+            "winner":"JAN SVORADA"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"02-JUN-1994",
+            "length":204,
+            "start_city":"Bibione",
+            "finish_city":"Kranj",
+            "winner":"ANDREA FERRIGATO"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"03-JUN-1994",
+            "length":234,
+            "start_city":"Kranj",
+            "finish_city":"Lienz",
+            "winner":"MICHELE BARTOLI"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"04-JUN-1994",
+            "length":235,
+            "start_city":"Lienz",
+            "finish_city":"Meran/Merano",
+            "winner":"MARCO PANTANI"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"05-JUN-1994",
+            "length":195,
+            "start_city":"Meran/Merano",
+            "finish_city":"Aprica",
+            "winner":"MARCO PANTANI"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"06-JUN-1994",
+            "length":220,
+            "start_city":"Sondrio",
+            "finish_city":"Stradella",
+            "winner":"MAXIMILIAN SCIANDRI"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"07-JUN-1994",
+            "length":200,
+            "start_city":"Santa Maria della Versa",
+            "finish_city":"Lavagna",
+            "winner":"JAN SVORADA"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-JUN-1994",
+            "length":35,
+            "start_city":"Chianale",
+            "finish_city":"Passo del Bocco",
+            "winner":"EVGENI BERZIN"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"09-JUN-1994",
+            "length":212,
+            "start_city":"Lavagna",
+            "finish_city":"Bra",
+            "winner":"MASSIMO GHIROTTO"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-JUN-1994",
+            "length":201,
+            "start_city":"Cuneo",
+            "finish_city":"Les Deux Alpes",
+            "winner":"VLADIMIR PULNIKOV"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-JUN-1994",
+            "length":121,
+            "start_city":"Les Deux Alpes",
+            "finish_city":"Sestriere",
+            "winner":"PASCAL RICHARD"
         },
+        "stage_22":{
+            "date":"12-JUN-1994",
+            "length":198,
+            "start_city":"Torino",
+            "finish_city":"Milano",
+            "winner":"STEFANO ZANINI"
+        }
     },
-    "total_length":,
+    "total_length":3738,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
+        {"id":1, "name":"Banesto"},
+        {"id":2, "name":"Amore & Vita"},
+        {"id":3, "name":"Brescialat - Refin"},
+        {"id":4, "name":"Carrera Jeans - Tassoni"},
+        {"id":5, "name":"Castorama"},
+        {"id":6, "name":"GB-MG Maglificio - Bianchi"},
+        {"id":7, "name":"Gewiss - Ballan"},
+        {"id":8, "name":"Jolly Componibili - Cage"},
+        {"id":9, "name":"Kelme"},
+        {"id":10, "name":"Lampre-Panaria"},
+        {"id":11, "name":"Mapei - Clas"},
+        {"id":12, "name":"Mercatone Uno - Bianchi"},
+        {"id":13, "name":"Motorola"},
+        {"id":14, "name":"Navigare"},
+        {"id":15, "name":"Polti - Vaporetto"},
+        {"id":16, "name":"Team Telekom"},
+        {"id":17, "name":"ZG Mobili"}
     ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"EVGENI BERZIN"},
+        {"place":2, "name":"MARCO PANTANI"},
+        {"place":3, "name":"MIGUEL INDURAIN"},
+        {"place":4, "name":"PAVEL TONKOV"},
+        {"place":5, "name":"CLAUDIO CHIAPPUCCI"},
+        {"place":6, "name":"NELSON RODRIGUEZ"},
+        {"place":7, "name":"MASSIMO PODENZANA"},
+        {"place":8, "name":"GIANNI BUGNO"},
+        {"place":9, "name":"ARMAND DE LAS CUEVAS"},
+        {"place":10, "name":"ANDREW HAMPSTEN"}
     ]
 }, {
     "_id":6,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":103,
-    "year":2019,
-    "start_date":"",
-    "end_date":"",
+    "edition":79,
+    "year":1995,
+    "start_date":"13-MAY-1995",
+    "end_date":"04-JUN-1995",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-1995",
+            "length":205,
+            "start_city":"Perugia",
+            "finish_city":"Terni",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-1995",
+            "length":19,
+            "start_city":"Foligno",
+            "finish_city":"Assisi",
+            "winner":"TONY ROMINGER"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"15-MAY-1995",
+            "length":161,
+            "start_city":"Spoleto",
+            "finish_city":"Marotta",
+            "winner":"MARIO CIPOLLINI"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"16-MAY-1995",
+            "length":192,
+            "start_city":"Mondolfo",
+            "finish_city":"Loreto",
+            "winner":"TONY ROMINGER"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-1995",
+            "length":182,
+            "start_city":"Porto Recanati",
+            "finish_city":"Tortoreto Lido",
+            "winner":"FILIPPO CASAGRANDE"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-1995",
+            "length":165,
+            "start_city":"Trani",
+            "finish_city":"Tarente",
+            "winner":"NICOLA MINALI"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-1995",
+            "length":216,
+            "start_city":"Tarente",
+            "finish_city":"Terme Luigiane",
+            "winner":"MAURIZIO FONDRIEST"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-1995",
+            "length":209,
+            "start_city":"Acquappesa",
+            "finish_city":"Monte Sirino",
+            "winner":"LAUDELINO CUBINO"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-1995",
+            "length":165,
+            "start_city":"Terme la Calda",
+            "finish_city":"Salerno",
+            "winner":"ROLF SORENSEN"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"22-MAY-1995",
+            "length":42,
+            "start_city":"Telese Terme",
+            "finish_city":"Maddaloni",
+            "winner":"TONY ROMINGER"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-1995",
+            "length":175,
+            "start_city":"Pietresanta",
+            "finish_city":"Il Ciocco",
+            "winner":"ENRICO ZAINA"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-1995",
+            "length":196,
+            "start_city":"Borgo a Mozzano",
+            "finish_city":"Cento",
+            "winner":"JAN SVORADA"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-1995",
+            "length":218,
+            "start_city":"Pieve di Cento",
+            "finish_city":"Rovereto",
+            "winner":"PASCAL RICHARD"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-1995",
+            "length":233,
+            "start_city":"Trente",
+            "finish_city":"Kurzras/Maso Corto",
+            "winner":"OLIVERIO RINCON"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-1995",
+            "length":185,
+            "start_city":"Kurzras/Maso Corto",
+            "finish_city":"Lenzerheide pass",
+            "winner":"MARIANO PICCOLI"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"29-MAY-1995",
+            "length":234,
+            "start_city":"Lenzerheide",
+            "finish_city":"Treviglio",
+            "winner":"GIUSEPPE CITTERIO"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"30-MAY-1995",
+            "length":43,
+            "start_city":"Cenate di Sotto",
+            "finish_city":"Selvino",
+            "winner":"TONY ROMINGER"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"31-MAY-1995",
+            "length":221,
+            "start_city":"Stradella",
+            "finish_city":"Santuario di Vicoforte",
+            "winner":"DENIS ZANETTE"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"01-JUN-1995",
+            "length":130,
+            "start_city":"Mondovi",
+            "finish_city":"Chianale",
+            "winner":"PASCAL RICHARD"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"02-JUN-1995",
+            "length":208,
+            "start_city":"Briancon",
+            "finish_city":"Gressoney Saint-Jean",
+            "winner":"SERHIY USHAKOV"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"03-JUN-1995",
+            "length":190,
+            "start_city":"Pont-Saint-Martin",
+            "finish_city":"Luino",
+            "winner":"EVGENI BERZIN"
         },
+        "stage_22":{
+            "date":"04-JUN-1995",
+            "length":148,
+            "start_city":"Luino",
+            "finish_city":"Milano",
+            "winner":"GIOVANNI LOMBARDI"
+        }
     },
-    "total_length":,
+    "total_length":3737,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
+        {"id":1, "name":"Gewiss - Ballan"},
+        {"id":2, "name":"AKI-Gipiemme"},
+        {"id":3, "name":"Amore & Vita"},
+        {"id":4, "name":"Banesto"},
+        {"id":5, "name":"Brescialat"},
+        {"id":6, "name":"Carrera Jeans - Tassoni"},
+        {"id":7, "name":"Castellblanch"},
+        {"id":8, "name":"Castorama"},
+        {"id":9, "name":"Refin"},
+        {"id":10, "name":"Festina - Lotus"},
+        {"id":11, "name":"Kelme"},
+        {"id":12, "name":"Lampre-Panaria"},
+        {"id":13, "name":"MG Maglificio - Technogym"},
+        {"id":14, "name":"Mapei-GB"},
+        {"id":15, "name":"Mercatone Uno - Saeco"},
+        {"id":16, "name":"Navigare - Blue Storm"},
+        {"id":17, "name":"O.N.C.E."},
+        {"id":18, "name":"Sicasal - Acral"},
+        {"id":19, "name":"Polti - Granarolo - Santini"},
+        {"id":20, "name":"Team Deutsche Telekom"},
+        {"id":21, "name":"TVM"},
+        {"id":22, "name":"ZG Mobili - Selle Italia"}
     ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"TONY ROMINGER"},
+        {"place":2, "name":"EVGENI"},
+        {"place":3, "name":"PIOTR UGRUMOV"},
+        {"place":4, "name":"CLAUDIO CHIAPPUCCI"},
+        {"place":5, "name":"OLIVERIO RINCON"},
+        {"place":6, "name":"PAVEL TONKOV"},
+        {"place":7, "name":"ENRICO ZAINA"},
+        {"place":8, "name":"HEINZ IMBODEN"},
+        {"place":9, "name":"GEORG TOTSCHNIG"},
+        {"place":10, "name":"FRANCESCO CASAGRANDE"}
     ]
 }, {
     "_id":7,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":102,
-    "year":2018,
-    "start_date":"",
-    "end_date":"",
+    "edition":80,
+    "year":1996,
+    "start_date":"18-MAY-1996",
+    "end_date":"09-JUN-1996",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-1996",
+            "length":170,
+            "start_city":"Athens",
+            "finish_city":"Athens",
+            "winner":"SILVIO MARTINELLO"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-1996",
+            "length":235,
+            "start_city":"Elefsina",
+            "finish_city":"Nafpaktos",
+            "winner":"GLENN MAGNUSSON"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-1996",
+            "length":199,
+            "start_city":"Messolongi",
+            "finish_city":"Ioanina",
+            "winner":"GIOVANNI LOMBARDI"
         },
         "stage_4":{
-            "date":"",
+            "date":"22-MAY-1996",
             "length":,
             "start_city":"",
             "finish_city":"",
@@ -1360,8 +1392,8 @@
     "_id":8,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":101,
-    "year":2017,
+    "edition":81,
+    "year":1997,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -1554,8 +1586,8 @@
     "_id":9,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":100,
-    "year":2016,
+    "edition":82,
+    "year":1998,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -1748,8 +1780,8 @@
     "_id":10,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":99,
-    "year":2015,
+    "edition":893,
+    "year":1999,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -1942,8 +1974,8 @@
     "_id":11,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":98,
-    "year":2014,
+    "edition":84,
+    "year":2000,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -2136,8 +2168,8 @@
     "_id":12,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":97,
-    "year":2013,
+    "edition":85,
+    "year":2001,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -2330,8 +2362,8 @@
     "_id":13,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":96,
-    "year":2012,
+    "edition":86,
+    "year":2002,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -2524,8 +2556,8 @@
     "_id":14,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":95,
-    "year":2011,
+    "edition":87,
+    "year":2003,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -2718,8 +2750,8 @@
     "_id":15,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":94,
-    "year":2010,
+    "edition":88,
+    "year":2004,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -2912,8 +2944,8 @@
     "_id":16,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":93,
-    "year":2009,
+    "edition":89,
+    "year":2005,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -3106,8 +3138,8 @@
     "_id":17,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":92,
-    "year":2008,
+    "edition":90,
+    "year":2006,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -3494,8 +3526,8 @@
     "_id":19,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":90,
-    "year":2006,
+    "edition":92,
+    "year":2008,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -3688,8 +3720,8 @@
     "_id":20,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":89,
-    "year":2005,
+    "edition":93,
+    "year":2009,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -3882,8 +3914,8 @@
     "_id":21,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":88,
-    "year":2004,
+    "edition":94,
+    "year":2010,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -4076,8 +4108,8 @@
     "_id":22,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":87,
-    "year":2003,
+    "edition":95,
+    "year":2011,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -4270,8 +4302,8 @@
     "_id":23,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":86,
-    "year":2002,
+    "edition":96,
+    "year":2012,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -4464,8 +4496,8 @@
     "_id":24,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":85,
-    "year":2001,
+    "edition":97,
+    "year":2013,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -4658,8 +4690,8 @@
     "_id":25,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":84,
-    "year":2000,
+    "edition":98,
+    "year":2014,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -4852,8 +4884,8 @@
     "_id":26,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":83,
-    "year":1999,
+    "edition":99,
+    "year":2015,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -5046,8 +5078,8 @@
     "_id":27,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":82,
-    "year":1998,
+    "edition":100,
+    "year":2016,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -5240,8 +5272,8 @@
     "_id":28,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":81,
-    "year":1997,
+    "edition":101,
+    "year":2017,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -5434,8 +5466,8 @@
     "_id":29,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":80,
-    "year":1996,
+    "edition":102,
+    "year":2018,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -5628,8 +5660,8 @@
     "_id":30,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":79,
-    "year":1995,
+    "edition":103,
+    "year":2019,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -5822,8 +5854,8 @@
     "_id":31,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":78,
-    "year":1994,
+    "edition":104,
+    "year":2020,
     "start_date":"",
     "end_date":"",
     "stages":{
@@ -6016,776 +6048,777 @@
     "_id":32,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":77,
-    "year":1993,
-    "start_date":"",
-    "end_date":"",
+    "edition":105,
+    "year":2021,
+    "start_date":"08-MAY-2021",
+    "end_date":"30-MAY-2021",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2021",
+            "length":8.6,
+            "start_city":"Turin",
+            "finish_city":"Turin",
+            "winner":"FILIPPO GANNA"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"09-MAY-2021",
+            "length":179,
+            "start_city":"Stupinigi",
+            "finish_city":"Novara",
+            "winner":"TIM MERLIER"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2021",
+            "length":190,
+            "start_city":"Biella",
+            "finish_city":"Canale",
+            "winner":"TACO VAN DER HOORN"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2021",
+            "length":187,
+            "start_city":"Piacenza",
+            "finish_city":"Sestola",
+            "winner":"JOE DOMBROWSKI"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2021",
+            "length":177,
+            "start_city":"Modena",
+            "finish_city":"Cattolica",
+            "winner":"CALEB EWAN"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-2021",
+            "length":160,
+            "start_city":"Grotte di Frasassi",
+            "finish_city":"Ascoli Piceno (San Giacomo)",
+            "winner":"GINO MADER"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2021",
+            "length":181,
+            "start_city":"Notaresco",
+            "finish_city":"Termoli",
+            "winner":"CALEB EWAN"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"15-MAY-2021",
+            "length":170,
+            "start_city":"Foggia",
+            "finish_city":"Guardia Sanframondi",
+            "winner":"VICTOR LAFAY"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"16-MAY-2021",
+            "length":158,
+            "start_city":"Castel di Sangro",
+            "finish_city":"Campo Felice (Rocca di Cambio)",
+            "winner":"EGAN BERNAL"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2021",
+            "length":139,
+            "start_city":"L'Aquila",
+            "finish_city":"Foligno",
+            "winner":"PETER SAGAN"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2021",
+            "length":162,
+            "start_city":"Perugia",
+            "finish_city":"Montalcino",
+            "winner":"MAURO SCHMID"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-2021",
+            "length":212,
+            "start_city":"Siena",
+            "finish_city":"Bagno di Romagna",
+            "winner":"ANDREA VENDRAME"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2021",
+            "length":198,
+            "start_city":"Ravenna",
+            "finish_city":"Verona",
+            "winner":"GIACOMO NIZZOLO"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"22-MAY-2021",
+            "length":205,
+            "start_city":"Cittadella",
+            "finish_city":"Monte Zoncolan",
+            "winner":"LORENZO FORTUNATO"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"23-MAY-2021",
+            "length":147,
+            "start_city":"Grado",
+            "finish_city":"Gorizia",
+            "winner":"VICTOR CAMPENAERTS"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2021",
+            "length":153,
+            "start_city":"Sacile",
+            "finish_city":"Cortina d'Ampezzo",
+            "winner":"EGAN BERNAL"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2021",
+            "length":193,
+            "start_city":"Canazei",
+            "finish_city":"Sega di Ala",
+            "winner":"DAN MARTIN"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-2021",
+            "length":231,
+            "start_city":"Rovereto",
+            "finish_city":"Stradella",
+            "winner":"ALBERTO BETTIOL"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-2021",
+            "length":166,
+            "start_city":"Abbiategrasso",
+            "finish_city":"Alpe di Mera (Valsesia)",
+            "winner":"SIMON YATES"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"29-MAY-2021",
+            "length":164,
+            "start_city":"Verbania",
+            "finish_city":"Valle Spluga-Alpe Motta",
+            "winner":"DAMIANO CARUSO"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"30-MAY-2021",
+            "length":30.3,
+            "start_city":"Senago",
+            "finish_city":"Milan",
+            "winner":"FILIPPO GANNA"
         },
     },
-    "total_length":,
+    "total_length":3410.9,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
+        {"id":1, "name":"INEOS Grenadiers"},
+        {"id":2, "name":"AG2R Citroën Team"},
+        {"id":3, "name":"Alpecin - Fenix"},
+        {"id":4, "name":"Androni Giocattoli - Sidermec"},
+        {"id":5, "name":"Astana - Premier Tech"},
+        {"id":6, "name":"Bahrain - Victorious"},
+        {"id":7, "name":"Bardiani-CSF-Faizanè"},
+        {"id":8, "name":"BORA - hansgrohe"},
+        {"id":9, "name":"Cofidis"},
+        {"id":10, "name":"Deceuninck - Quick Step"},
+        {"id":11, "name":"EF Education - Nippo"},
+        {"id":12, "name":"EOLO-Kometa"},
+        {"id":13, "name":"Groupama - FDJ"},
+        {"id":14, "name":"Intermarché - Wanty - Gobert Matériaux"},
+        {"id":15, "name":"Israel Start-Up Nation"},
+        {"id":16, "name":"Team Jumbo-Visma"},
+        {"id":17, "name":"Lotto Soudal"},
+        {"id":18, "name":"Movistar Team"},
+        {"id":19, "name":"Team BikeExchange"},
+        {"id":20, "name":"Team DSM"},
+        {"id":21, "name":"Team Qhubeka ASSOS"},
+        {"id":22, "name":"Trek - Segafredo"},
+        {"id":23, "name":"UAE Team Emirates"}
     ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"EGAN BERNAL"},
+        {"place":2, "name":"DAMIANO CARUSO"},
+        {"place":3, "name":"SIMON YATES"},
+        {"place":4, "name":"ALEKSANDR VLASOV"},
+        {"place":5, "name":"DANIEL FELIPE MARTINEZ"},
+        {"place":6, "name":"JOAO ALMEIDA"},
+        {"place":7, "name":"ROMAIN BARDET"},
+        {"place":8, "name":"HUGH CARTHY"},
+        {"place":9, "name":"TOBIAS FOSS"},
+        {"place":10, "name":"DAN MARTIN"}
     ]
 }, {
     "_id":33,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":76,
-    "year":1992,
-    "start_date":"",
-    "end_date":"",
+    "edition":106,
+    "year":2022,
+    "start_date":"06-MAY-2022",
+    "end_date":"29-MAY-2023",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"06-MAY-2022",
+            "length":195,
+            "start_city":"Budapest",
+            "finish_city":"Visegrad",
+            "winner":"MATHIEU VAN DER POEL"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"07-MAY-2022",
+            "length":9.2,
+            "start_city":"Budapest",
+            "finish_city":"Budapest",
+            "winner":"SIMON YATES"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2022",
+            "length":201,
+            "start_city":"Kaposvar",
+            "finish_city":"Balatonfured",
+            "winner":"MARK CAVENDISH"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2022",
+            "length":172,
+            "start_city":"Avola",
+            "finish_city":"Etna",
+            "winner":"LENNARD KAMNA"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2022",
+            "length":174,
+            "start_city":"Catania",
+            "finish_city":"Messina",
+            "winner":"ARNAUD DEMARE"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2022",
+            "length":192,
+            "start_city":"Palmi",
+            "finish_city":"Scalea",
+            "winner":"ARNAUD DEMARE"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-2022",
+            "length":196,
+            "start_city":"Diamante",
+            "finish_city":"Potenza",
+            "winner":"KOEN BOUWMAN"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2022",
+            "length":153,
+            "start_city":"Napoli",
+            "finish_city":"Napoli",
+            "winner":"THOMAS DE GENDT"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"15-MAY-2022",
+            "length":191,
+            "start_city":"Isernia",
+            "finish_city":"Blockhaus",
+            "winner":"JAI HINDLEY"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2022",
+            "length":196,
+            "start_city":"Pescara",
+            "finish_city":"Jesi",
+            "winner":"BINIAM GIRMAY"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-2022",
+            "length":203,
+            "start_city":"Santarcangelo di Romagna",
+            "finish_city":"Reggio Emilia",
+            "winner":"ALBERTO DAINESE"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2022",
+            "length":204,
+            "start_city":"Parma",
+            "finish_city":"Genova",
+            "winner":"STEFANO OLDANI"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-2022",
+            "length":150,
+            "start_city":"Sanremo",
+            "finish_city":"Cuneo",
+            "winner":"ARNAUD DEMARE"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2022",
+            "length":147,
+            "start_city":"Santena",
+            "finish_city":"Torino",
+            "winner":"SIMON YATES"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"22-MAY-2022",
+            "length":177,
+            "start_city":"Rivarolo Canavese",
+            "finish_city":"Cogne",
+            "winner":"GIULIO CICCONE"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2022",
+            "length":202,
+            "start_city":"Salo",
+            "finish_city":"Aprica",
+            "winner":"JAN HIRT"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-2022",
+            "length":168,
+            "start_city":"Ponte di Legno",
+            "finish_city":"Lavarone",
+            "winner":"SANTIAGO BUITRAGO"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2022",
+            "length":156,
+            "start_city":"Borgo Valsugana",
+            "finish_city":"Treviso",
+            "winner":"DRIES DE BONDT"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-2022",
+            "length":178,
+            "start_city":"Marano Lagunare",
+            "finish_city":"Santuario di Castelmonte",
+            "winner":"KOEN BOUWMAN"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-2022",
+            "length":168,
+            "start_city":"Belluno",
+            "finish_city":"Marmolada (Passo Fedaia)",
+            "winner":"ALESSANDRO COVI"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"29-MAY-2022",
+            "length":17.4,
+            "start_city":"Verona",
+            "finish_city":"Verona",
+            "winner":"MATTEO SOBRERO"
         },
     },
-    "total_length":,
+    "total_length":3449.6,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
+        {"id":1, "name":"INEOS Grenadiers"},
+        {"id":2, "name":"AG2R Citroën Team"},
+        {"id":3, "name":"Alpecin - Fenix"},
+        {"id":4, "name":"Astana Qazaqstan Team"},
+        {"id":5, "name":"Bahrain - Victorious"},
+        {"id":6, "name":"Bardiani-CSF-Faizanè"},
+        {"id":7, "name":"BORA - hansgrohe"},
+        {"id":8, "name":"Cofidis"},
+        {"id":9, "name":"Drone Hopper - Androni Giocattoli"},
+        {"id":10, "name":"EF Education - EasyPost"},
+        {"id":11, "name":"EOLO-Kometa"},
+        {"id":12, "name":"Groupama - FDJ"},
+        {"id":13, "name":"Intermarché - Wanty - Gobert Matériaux"},
+        {"id":14, "name":"Israel - Premier Tech"},
+        {"id":15, "name":"Jumbo-Visma"},
+        {"id":16, "name":"Lotto Soudal"},
+        {"id":17, "name":"Movistar Team"},
+        {"id":18, "name":"Quick-Step Alpha Vinyl Team"},
+        {"id":19, "name":"Team BikeExchange - Jayco"},
+        {"id":20, "name":"Team DSM"},
+        {"id":21, "name":"Trek - Segafredo"},
+        {"id":22, "name":"UAE Team Emirates"}
     ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"JAI HINDLEY"},
+        {"place":2, "name":"RICHARD CARAPAZ"},
+        {"place":3, "name":"MIKEL LANDA"},
+        {"place":4, "name":"VINCENZO NIBALI"},
+        {"place":5, "name":"PELLO BILBAO"},
+        {"place":6, "name":"JAN HIRT"},
+        {"place":7, "name":"EMANUEL BUCHMANN"},
+        {"place":8, "name":"DOMENICO POZZOVIVO"},
+        {"place":9, "name":"CARTHY HUGH"},
+        {"place":10, "name":"JUAN PEDRO LOPEZ"}
     ]
 }, {
     "_id":34,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":75,
-    "year":1991,
-    "start_date":"",
-    "end_date":"",
+    "edition":107,
+    "year":2023,
+    "start_date":"06-MAY-2023",
+    "end_date":"28-MAY-2023",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"06-MAY-2023",
+            "length":19.6,
+            "start_city":"Fossacesia Marina",
+            "finish_city":"Ortona",
+            "winner":"REMCO EVENEPOEL"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"07-MAY-2023",
+            "length":202,
+            "start_city":"Teramo",
+            "finish_city":"San Salvo",
+            "winner":"JONATHAN MILAN"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2023",
+            "length":213,
+            "start_city":"Vasto",
+            "finish_city":"Melfi",
+            "winner":"MICHAEL MATTHEWS"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"09-MAY-2023",
+            "length":175,
+            "start_city":"Venosa",
+            "finish_city":"Lago Laceno",
+            "winner":"AURELIEN PARET-PEINTRE"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2023",
+            "length":171,
+            "start_city":"Atripalda",
+            "finish_city":"Salerno",
+            "winner":"KADEN GROVES"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2023",
+            "length":162,
+            "start_city":"Napoli",
+            "finish_city":"Napoli",
+            "winner":"MADS PEDERSEN"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2023",
+            "length":218,
+            "start_city":"Capua",
+            "finish_city":"Gran Sasso d'Italia (Campo Imperatore)",
+            "winner":"DAVIDE BAIS"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"13-MAY-2023",
+            "length":207,
+            "start_city":"Terni",
+            "finish_city":"Fossombrone",
+            "winner":"BEN HEALY"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2023",
+            "length":35,
+            "start_city":"Savignano sul Rubicone",
+            "finish_city":"Cesena",
+            "winner":"REMCO EVENEPOEL"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"16-MAY-2023",
+            "length":196,
+            "start_city":"Scandiano",
+            "finish_city":"Viareggio",
+            "winner":"MAGNUS CORT"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2023",
+            "length":219,
+            "start_city":"Camaiore",
+            "finish_city":"Tortona",
+            "winner":"PASCAL ACKERMANN"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-2023",
+            "length":185,
+            "start_city":"Bra",
+            "finish_city":"Rivoli",
+            "winner":"NICO DENZ"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2023",
+            "length":74.6,
+            "start_city":"Le Chable",
+            "finish_city":"Crans-Montana",
+            "winner":"EINER RUBIO"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"20-MAY-2023",
+            "length":194,
+            "start_city":"Sierre",
+            "finish_city":"Cassano Magnago",
+            "winner":"NICO DENZ"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2023",
+            "length":195,
+            "start_city":"Seregno",
+            "finish_city":"Bergamo",
+            "winner":"BRANDON MCNULTY"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"23-MAY-2023",
+            "length":203,
+            "start_city":"Sabbio Chiese",
+            "finish_city":"Monte Bondone",
+            "winner":"JOAO ALMEIDA"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2023",
+            "length":197,
+            "start_city":"Pergine Valsugana",
+            "finish_city":"Caorle",
+            "winner":"ALBERTO DAINESE"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-2023",
+            "length":161,
+            "start_city":"Oderzo",
+            "finish_city":"Val di Zoldo (Palafavera)",
+            "winner":"FILIPPO ZANA"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2023",
+            "length":183,
+            "start_city":"Longarone",
+            "finish_city":"Tre Cime di Lavaredo",
+            "winner":"SANTIAGO BUITRAGO"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"27-MAY-2023",
+            "length":18.6,
+            "start_city":"Tarvisio",
+            "finish_city":"Monte Lussari",
+            "winner":"PRIMOZ ROGLIC"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"28-MAY-2023",
+            "length":126,
+            "start_city":"Roma",
+            "finish_city":"Roma",
+            "winner":"MARK CAVENDISH"
         },
     },
-    "total_length":,
+    "total_length":3354.8,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
-    ],
+        {"id":1, "name":"Soudal Quick-Step"},
+        {"id":2, "name":"AG2R Citroën Team"},
+        {"id":3, "name":"Alpecin - Deceuninck"},
+        {"id":4, "name":"Astana Qazaqstan Team"},
+        {"id":5, "name":"Bahrain - Victorious"},
+        {"id":6, "name":"BORA - hansgrohe"},
+        {"id":7, "name":"Cofidis"},
+        {"id":8, "name":"EF Education - EasyPost"},
+        {"id":9, "name":"EOLO-Kometa"},
+        {"id":10, "name":"Green Project - Bardiani CSF - Faizanè"},
+        {"id":11, "name":"Groupama - FDJ"},
+        {"id":12, "name":"INEOS Grenadiers"},
+        {"id":13, "name":"Intermarché - Circus - Wanty"},
+        {"id":14, "name":"Israel - Premier Tech"},
+        {"id":15, "name":"Jumbo-Visma"},
+        {"id":16, "name":"Movistar Team"},
+        {"id":17, "name":"Team Arkéa Samsic"},
+        {"id":18, "name":"Team Corratec - Selle Italia"},
+        {"id":19, "name":"Team DSM"},
+        {"id":20, "name":"Team Jayco AlUla"},
+        {"id":21, "name":"Trek - Segafredo"},
+        {"id":22, "name":"UAE Team Emirates"}
+],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"PRIMOZ ROGLIC"},
+        {"place":2, "name":"GERAINT THOMAS"},
+        {"place":3, "name":"JOAO ALMEIDA"},
+        {"place":4, "name":"DAMIANO CARUSO"},
+        {"place":5, "name":"THIBAUT PINOT"},
+        {"place":6, "name":"THYMEN ARENSMAN"},
+        {"place":7, "name":"EDDIE DUNBAR"},
+        {"place":8, "name":"ANDREAS LEKNESSUND"},
+        {"place":9, "name":"LENNARD KAMNA"},
+        {"place":10, "name":"LAUERNS DE PLUS"}
     ]
 }, {
     "_id":35,
     "race_name":"Giro d'Italia",
     "country":"Italy",
-    "edition":74,
-    "year":1990,
-    "start_date":"",
-    "end_date":"",
+    "edition":108,
+    "year":2024,
+    "start_date":"04-MAY-2024",
+    "end_date":"26-MAY-2024",
     "stages":{
         "stage_1":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"04-MAY-2024",
+            "length":140,
+            "start_city":"Venaria Reale",
+            "finish_city":"Torino",
+            "winner":"JHONATAN NARVAEZ"
         },
         "stage_2":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"05-MAY-2024",
+            "length":161,
+            "start_city":"San Francesco al Campo",
+            "finish_city":"Santuario di Oropa",
+            "winner":"TADEJ POGACAR"
         },
         "stage_3":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"06-MAY-2024",
+            "length":166.3,
+            "start_city":"Novara",
+            "finish_city":"Fossano",
+            "winner":"TIM MERLIER"
         },
         "stage_4":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"07-MAY-2024",
+            "length":190,
+            "start_city":"Acqui Terme",
+            "finish_city":"Andora",
+            "winner":"JONATHAN MILAN"
         },
         "stage_5":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"08-MAY-2024",
+            "length":178,
+            "start_city":"Genova",
+            "finish_city":"Lucca",
+            "winner":"BENJAMIN THOMAS"
         },
         "stage_6":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"09-MAY-2024",
+            "length":180,
+            "start_city":"Viareggio",
+            "finish_city":"Rapolano Terme",
+            "winner":"PELAYO SANCHEZ"
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"10-MAY-2024",
+            "length":40.6,
+            "start_city":"Foligno",
+            "finish_city":"Perugia",
+            "winner":"TADEJ POGACAR"
         },
         "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"11-MAY-2024",
+            "length":152,
+            "start_city":"Spoleto",
+            "finish_city":"Prati di Tivo",
+            "winner":"TADEJ POGACAR"
         },
         "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"12-MAY-2024",
+            "length":214,
+            "start_city":"Avezzano",
+            "finish_city":"Naples",
+            "winner":"OLAV KOOIJ"
         },
         "stage_10":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"14-MAY-2024",
+            "length":142,
+            "start_city":"Pompei",
+            "finish_city":"Bocca della Selva",
+            "winner":"VALENTIN PARET-PEINTRE"
         },
         "stage_11":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"15-MAY-2024",
+            "length":207,
+            "start_city":"Foiano di Val Fortore",
+            "finish_city":"Francavilla al Mare",
+            "winner":"JONATHAN MILAN"
         },
         "stage_12":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"16-MAY-2024",
+            "length":193,
+            "start_city":"Martinsicuro",
+            "finish_city":"Fano",
+            "winner":"JULIAN ALAPHILIPPE"
         },
         "stage_13":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"17-MAY-2024",
+            "length":179,
+            "start_city":"Riccione",
+            "finish_city":"Cento",
+            "winner":"JONATHAN MILAN"
         },
         "stage_14":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"18-MAY-2024",
+            "length":31.2,
+            "start_city":"Cstiglione delle Stiviere",
+            "finish_city":"Desenzano del Garda",
+            "winner":"FILIPPO GANNA"
         },
         "stage_15":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"19-MAY-2024",
+            "length":222,
+            "start_city":"Manerba del Garda",
+            "finish_city":"Livigno(Mottolino)",
+            "winner":"TADEJ POGACAR"
         },
         "stage_16":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"21-MAY-2024",
+            "length":118.4,
+            "start_city":"Laas",
+            "finish_city":"Santa Cristina Valgardena (Monte Pana)",
+            "winner":"TADEJ POGACAR"
         },
         "stage_17":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"22-MAY-2024",
+            "length":159,
+            "start_city":"Selva di Val Gardena",
+            "finish_city":"Passo Brocon",
+            "winner":"GEORG STEINHAUSER"
         },
         "stage_18":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"23-MAY-2024",
+            "length":178,
+            "start_city":"Fiera di Primiero",
+            "finish_city":"Padova",
+            "winner":"TIM MERLIER"
         },
         "stage_19":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"24-MAY-2024",
+            "length":157,
+            "start_city":"Mortegliano",
+            "finish_city":"Sappada",
+            "winner":"ANDREA VENDRAME"
         },
         "stage_20":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"25-MAY-2024",
+            "length":184,
+            "start_city":"Alpago",
+            "finish_city":"Bassano del Grappa",
+            "winner":"TADEJ POGACAR"
         },
         "stage_21":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
+            "date":"26-MAY-2024",
+            "length":125,
+            "start_city":"Rome",
+            "finish_city":"Rome",
+            "winner":"TIM MERLIER"
         },
     },
-    "total_length":,
+    "total_length":3317.5,
     "teams":[
-        {"id":1, "name":""},
-        {"id":2, "name":""},
-        {"id":3, "name":""},
-        {"id":4, "name":""},
-        {"id":5, "name":""},
-        {"id":6, "name":""},
-        {"id":7, "name":""},
-        {"id":8, "name":""},
-        {"id":9, "name":""},
-        {"id":10, "name":""},
-        {"id":11, "name":""},
-        {"id":12, "name":""},
-        {"id":13, "name":""},
-        {"id":14, "name":""},
-        {"id":15, "name":""},
-        {"id":16, "name":""},
-        {"id":17, "name":""},
-        {"id":18, "name":""},
-        {"id":19, "name":""},
-        {"id":20, "name":""},
-        {"id":21, "name":""},
-        {"id":22, "name":""}
+        {"id":1, "name":"INEOS Grenadiers"},
+        {"id":2, "name":"Alpecin-Deceuninck"},
+        {"id":3, "name":"Arkéa-B&B Hotels"},
+        {"id":4, "name":"Astana Qazaqstan Team"},
+        {"id":5, "name":"BORA-hansgrohe"},
+        {"id":6, "name":"Cofidis"},
+        {"id":7, "name":"Decathlon AG2R La Mondiale Team"},
+        {"id":8, "name":"EF Education-EasyPost"},
+        {"id":9, "name":"Groupama-FDJ"},
+        {"id":10, "name":"Intermarché-Wanty"},
+        {"id":11, "name":"Israel-Premier Tech"},
+        {"id":12, "name":"Lidl-Trek"},
+        {"id":13, "name":"Movistar Team"},
+        {"id":14, "name":"Soudal Quick-Step"},
+        {"id":15, "name":"Team dsm-firmenich PostNL"},
+        {"id":16, "name":"Team Jayco AlUla"},
+        {"id":17, "name":"Team Polti Kometa"},
+        {"id":18, "name":"Team Visma | Lease a Bike"},
+        {"id":19, "name":"Tudor Pro Cycling Team"},
+        {"id":20, "name":"UAE Team Emirates"},
+        {"id":21, "name":"VF Group - Bardiani CSF-Faizanè"},
+        {"id":22, "name":"Bahrain-Victorious"}
     ],
     "gc_top10":[
-        {"place":1, "name":""},
-        {"place":2, "name":""},
-        {"place":3, "name":""},
-        {"place":4, "name":""},
-        {"place":5, "name":""},
-        {"place":6, "name":""},
-        {"place":7, "name":""},
-        {"place":8, "name":""},
-        {"place":9, "name":""},
-        {"place":10, "name":""}
+        {"place":1, "name":"TADEJ POGACAR"},
+        {"place":2, "name":"DANIEL FELIPE MARTINEZ"},
+        {"place":3, "name":"GERAINT THOMAS"},
+        {"place":4, "name":"BEN O'CONNOR"},
+        {"place":5, "name":"ANTONIO TIBERI"},
+        {"place":6, "name":"THYMEN ARENSMAN"},
+        {"place":7, "name":"EINER RUBIO"},
+        {"place":8, "name":"JAN HIRT"},
+        {"place":9, "name":"ROMAIN BARDET"},
+        {"place":10, "name":"MICHAEL STORER"}
     ]
-},
+}
