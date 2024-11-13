@@ -420,6 +420,1175 @@
         {"place":10, "name":"JAROSŁAW CHOJNACKI"}
     ]
 },  {
+    "_id":5,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":51,
+    "year":1994,
+    "start_date":"04-SEP-1994",
+    "end_date":"11-SEP-1994",
+    "stages":{
+        "prolog":{
+            "date":"04-SEP-1994",
+            "length":null,
+            "start_city":"Wrocław",
+            "finish_city":"Wrocław",
+            "winner":"ZBIGNIEW SPRUCH"
+        },
+        "stage_1":{
+            "date":"05-SEP-1994",
+            "length":180,
+            "start_city":"Wrocław",
+            "finish_city":"Legnica",
+            "winner":"MARCO LIETTI"
+        },
+        "stage_2":{
+            "date":"06-SEP-1994",
+            "length":179,
+            "start_city":"Legnica",
+            "finish_city":"Polanica-Zdrój",
+            "winner":"MAURIZIO FONDRIEST"
+        },
+        "stage_3":{
+            "date":"07-SEP-1994",
+            "length":196,
+            "start_city":"Polanica-Zdrój",
+            "finish_city":"Rybnik",
+            "winner":"WALTER CASTIGNOLA"
+        },
+        "stage_4":{
+            "date":"08-SEP-1994",
+            "length":173,
+            "start_city":"Rybnik",
+            "finish_city":"Bielsko-Biała",
+            "winner":"QUINTINO RODRIGUES"
+        },
+        "stage_5":{
+            "date":"09-SEP-1994",
+            "length":169,
+            "start_city":"Olkusz",
+            "finish_city":"Kielce",
+            "winner":"JACEK MICKIEWICZ"
+        },
+        "stage_6":{
+            "date":"10-SEP-1994",
+            "length":38,
+            "start_city":"Kielce",
+            "finish_city":"Kielce",
+            "winner":"MAURIZIO FONDRIEST"
+        },
+        "stage_7":{
+            "date":"11-SEP-1994",
+            "length":175,
+            "start_city":"Końskie",
+            "finish_city":"Warszawa",
+            "winner":"FRANKIE ANDREU"
+        }
+    },
+    "total_length":1110,
+    "teams":[
+        {"id":1, "name":"Lampre - Panaria"},
+        {"id":2, "name":"Sicasal - Acral"},
+        {"id":3, "name":"Motorola"},
+        {"id":4, "name":"Collstrop - Willy Naessens"},
+        {"id":5, "name":"DEK Meble - Cyclo Korona"},
+        {"id":6, "name":"Petrochemia TP Szurkowski"},
+        {"id":7, "name":"Warta Energoinwest Victor"},
+        {"id":8, "name":"Łotwa"},
+        {"id":9, "name":"Team Isostar"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"MAURIZIO FONDRIEST"},
+        {"place":2, "name":"MARCO LIETTI"},
+        {"place":3, "name":"TOMASZ BROŻYNA"},
+        {"place":4, "name":"ROMANS VAINSTEINS"},
+        {"place":5, "name":"PIOTR WADECKI"},
+        {"place":6, "name":"DARIUSZ BIGOS"},
+        {"place":7, "name":"ZBIGNIEW SPRUCH"},
+        {"place":8, "name":"KASPARS OZERS"},
+        {"place":9, "name":"DARIUSZ BARANOWSKI"},
+        {"place":10, "name":"ZBIGNIEW PIĄTEK"}
+    ]
+},  {
+    "_id":6,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":52,
+    "year":1995,
+    "start_date":"02-SEP-1995",
+    "end_date":"10-SEP-1995",
+    "stages":{
+        "stage_1":{
+            "date":"02-SEP-1995",
+            "length":140,
+            "start_city":"Zgierz",
+            "finish_city":"Płock",
+            "winner":"STEVEN DE JONGH"
+        },
+        "stage_2":{
+            "date":"03-SEP-1995",
+            "length":150,
+            "start_city":"Skierniewice",
+            "finish_city":"Radom",
+            "winner":"ZBIGNIEW SPRUCH"
+        },
+        "stage_3":{
+            "date":"04-SEP-1995",
+            "length":134,
+            "start_city":"Urzędów",
+            "finish_city":"Zamość",
+            "winner":"ANDRIS NAUDUZS"
+        },
+        "stage_4":{
+            "date":"05-SEP-1995",
+            "length":15.5,
+            "start_city":"Zamość",
+            "finish_city":"Zamość",
+            "winner":"EDDY GRAGUS"
+        },
+        "stage_5":{
+            "date":"06-SEP-1995",
+            "length":127,
+            "start_city":"Przeworsk",
+            "finish_city":"Sanok",
+            "winner":"SŁAWOMIR CHRZANOWSKI"
+        },
+        "stage_6":{
+            "date":"07-SEP-1995",
+            "length":225,
+            "start_city":"Sanok",
+            "finish_city":"Sanok",
+            "winner":"DAVIDE BRAMATI"
+        },
+        "stage_7":{
+            "date":"08-SEP-1995",
+            "length":171,
+            "start_city":"Nowy Sącz",
+            "finish_city":"Zakopane",
+            "winner":"MARIANO PICCOLI"
+        },
+        "stage_8":{
+            "date":"09-SEP-1995",
+            "length":159,
+            "start_city":"Bielsko-Biała",
+            "finish_city":"Bielsko-Biała",
+            "winner":"QUINTINO RODRIGUES"
+        },
+        "stage_9":{
+            "date":"10-SEP-1995",
+            "length":114.3,
+            "start_city":"Warszawa",
+            "finish_city":"Warszawa",
+            "winner":"MARIANO PICCOLI"
+        }
+    },
+    "total_length":1235.8,
+    "teams":[
+        {"id":1, "name":"Lampre - Panaria"},
+        {"id":2, "name":"Navigare - Blue Storm"},
+        {"id":3, "name":"Aubervilliers '93"},
+        {"id":4, "name":"Rotan Spiessens - Hot Dog Louis"},
+        {"id":5, "name":"Montgomery Bell"},
+        {"id":6, "name":"EB Victoria Rybnik"},
+        {"id":7, "name":"DEK Meble Joko Romar"},
+        {"id":8, "name":"Łotwa"},
+        {"id":9, "name":"Sicasal - Acral"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"ZBIGNIEW SPRUCH"},
+        {"place":2, "name":"FABRIZIO GUIDI"},
+        {"place":3, "name":"DARIUSZ BARANOWSKI"},
+        {"place":4, "name":"MAREK LEŚNIEWSKI"},
+        {"place":5, "name":"TOMASZ BROŻYNA"},
+        {"place":6, "name":"ROMANS VAINSTEINS"},
+        {"place":7, "name":"GRZEGORZ GWIAZDOWSKI"},
+        {"place":8, "name":"ANDRZEJ SYPYTKOWSKI"},
+        {"place":9, "name":"JACEK BODYK"},
+        {"place":10, "name":"EDDY GRAGUS"}
+    ]
+},  {
+    "_id":7,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":53,
+    "year":1996,
+    "start_date":"08-SEP-1996",
+    "end_date":"15-SEP-1996",
+    "stages":{
+        "stage_1":{
+            "date":"08-SEP-1996",
+            "length":103,
+            "start_city":"Szczecin",
+            "finish_city":"Szczecin",
+            "winner":"VASSILI DAVIDENKO"
+        },
+        "stage_2":{
+            "date":"09-SEP-1996",
+            "length":184,
+            "start_city":"Szczecin",
+            "finish_city":"Gorzów Wielkopolski",
+            "winner":"FEDERICO COLONNA"
+        },
+        "stage_3":{
+            "date":"10-SEP-1996",
+            "length":212,
+            "start_city":"Lubniewice",
+            "finish_city":"Polkowice",
+            "winner":"VIATCHESLAV DJAVANIAN"
+        },
+        "stage_4":{
+            "date":"11-SEP-1996",
+            "length":162,
+            "start_city":"Legnica",
+            "finish_city":"Karpacz",
+            "winner":"VIATCHESLAV DJAVANIAN"
+        },
+        "stage_5":{
+            "date":"12-SEP-1996",
+            "length":179,
+            "start_city":"Karpacz",
+            "finish_city":"Karpacz",
+            "winner":"VALENTINO FOIS"
+        },
+        "stage_6":{
+            "date":"13-SEP-1996",
+            "length":140,
+            "start_city":"Kłodzko",
+            "finish_city":"Opole",
+            "winner":"YOSHIYUKI ABE"
+        },
+        "stage_7":{
+            "date":"14-SEP-1996",
+            "length":152,
+            "start_city":"Opole",
+            "finish_city":"Częstochowa",
+            "winner":"GIANPAOLO MONDINI"
+        },
+        "stage_8":{
+            "date":"15-SEP-1996",
+            "length":54,
+            "start_city":"Bełchatów",
+            "finish_city":"Bełchatów",
+            "winner":"MAURIZIO FONDRIEST"
+        }
+    },
+    "total_length":1186,
+    "teams":[
+        {"id":1, "name":"Roslotto - ZG Mobili"},
+        {"id":2, "name":"Mapei - GB"},
+        {"id":3, "name":"Panaria - Vinavil"},
+        {"id":4, "name":"Carrera Jeans"},
+        {"id":5, "name":"Mróz"},
+        {"id":6, "name":"US Postal Service"},
+        {"id":7, "name":"Pekaes Lang Rover Bianchi"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"VIATCHESLAV DJAVANIAN"},
+        {"place":2, "name":"MAURIZIO FONDRIEST"},
+        {"place":3, "name":"ANDREA NOE"},
+        {"place":4, "name":"VALENTINO FOIS"},
+        {"place":5, "name":"YOURI SOURKOV"},
+        {"place":6, "name":"FILIPPO SIMEONI"},
+        {"place":7, "name":"VASSILI DAVIDENKO"},
+        {"place":8, "name":"DARREN BAKER"},
+        {"place":9, "name":"RAIMONDAS RUMSAS"},
+        {"place":10, "name":"ZBIGNIEW PIĄTEK"}
+    ]
+},  {
+    "_id":8,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":54,
+    "year":1997,
+    "start_date":"07-SEP-1997",
+    "end_date":"14-SEP-1997",
+    "stages":{
+        "stage_1":{
+            "date":"07-SEP-1997",
+            "length":168.5,
+            "start_city":"Kołczygłowy",
+            "finish_city":"Słupsk",
+            "winner":"LAURI AUS"
+        },
+        "stage_2":{
+            "date":"08-SEP-1997",
+            "length":250,
+            "start_city":"Bytów",
+            "finish_city":"Inowrocław",
+            "winner":"EMANUELE LUPI"
+        },
+        "stage_3":{
+            "date":"09-SEP-1997",
+            "length":196,
+            "start_city":"Radziejów",
+            "finish_city":"Bełchatów",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_4":{
+            "date":"10-SEP-1997",
+            "length":234,
+            "start_city":"Radomsko",
+            "finish_city":"Jastrzębie-Zdrój",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_5":{
+            "date":"11-SEP-1997",
+            "length":163.5,
+            "start_city":"Wisła",
+            "finish_city":"Cieszyn",
+            "winner":"SIMONE BERTOLETTI"
+        },
+        "stage_6":{
+            "date":"12-SEP-1997",
+            "length":186,
+            "start_city":"Bielsko-Biała",
+            "finish_city":"Zakopane",
+            "winner":"DMITRI KONYCHEV"
+        },
+        "stage_7":{
+            "date":"13-SEP-1997",
+            "length":198,
+            "start_city":"Nowy Targ",
+            "finish_city":"Wieliczka",
+            "winner":"MARKUS ZBERG"
+        },
+        "stage_8":{
+            "date":"14-SEP-1997",
+            "length":39.5,
+            "start_city":"Kraków",
+            "finish_city":"Kraków",
+            "winner":"DARIO ANDRIOTTO"
+        }
+    },
+    "total_length":1435.5,
+    "teams":[
+        {"id":1, "name":"Roslotto-ZG Mobili"},
+        {"id":2, "name":"Mapei-GB"},
+        {"id":3, "name":"Casino - C'est votre équipe"},
+        {"id":4, "name":"Batik - Del Monte"},
+        {"id":5, "name":"Mercatone Uno"},
+        {"id":6, "name":"Amore & Vita - Forzacore"},
+        {"id":7, "name":"Cantina Tollo"},
+        {"id":8, "name":"Mróz"},
+        {"id":9, "name":"Ros Mary - Minotti Italia - Ideal"},
+        {"id":10, "name":"KRKA - Telekom Slovenije"},
+        {"id":11, "name":"Agro - Adler - Brandenburg"},
+        {"id":12, "name":"Pekaes - Irena - Zepter"},
+        {"id":13, "name":"JOKO Cycling Team"},
+        {"id":14, "name":"Team Wirsbo"},
+        {"id":15, "name":"Radenska"},
+        {"id":16, "name":"Moscow City Sports Association"},
+        {"id":17, "name":"Germany"},
+        {"id":18, "name":"Ukraine"},
+        {"id":19, "name":"K.T.K. Winiary"},
+        {"id":20, "name":"Mat Jelcz-Laskowice S.A."},
+        {"id":21, "name":"Mikomax - To i Owo"},
+        {"id":22, "name":"Weltour - Browary Tyskie"},
+        {"id":23, "name":"Legia - Romar - Warta"},
+        {"id":24, "name":"Joko - Szurkowski"}
+
+    ],
+    "gc_top10":[
+        {"place":1, "name":"ROLF JARMANN"},
+        {"place":2, "name":"ZENON JASKUŁA"},
+        {"place":3, "name":"SASA SVIBEN"},
+        {"place":4, "name":"ALEXANDRE VINOKOUROV"},
+        {"place":5, "name":"ALEXEI SIVAKOV"},
+        {"place":6, "name":"DAINIS OZOLS"},
+        {"place":7, "name":"PIOTR UGRUMOV"},
+        {"place":8, "name":"MARKUS ZBERG"},
+        {"place":9, "name":"PIOTR CHMIELEWSKI"},
+        {"place":10, "name":"GIANPAOLO MONDINI"}
+    ]
+},  {
+    "_id":9,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":55,
+    "year":1998,
+    "start_date":"06-SEP-1998",
+    "end_date":"13-SEP-1998",
+    "stages":{
+        "stage_1":{
+            "date":"06-SEP-1998",
+            "length":198,
+            "start_city":"Słupsk",
+            "finish_city":"Słupsk",
+            "winner":"ZBIGNIEW SPRUCH"
+        },
+        "stage_2":{
+            "date":"07-SEP-1998",
+            "length":250,
+            "start_city":"Bytów",
+            "finish_city":"Słupsk",
+            "winner":"DANILO HONDO"
+        },
+        "stage_3":{
+            "date":"08-SEP-1998",
+            "length":196,
+            "start_city":"Radziejów",
+            "finish_city":"Bełchatów",
+            "winner":"SŁAWOMIR CHRZANOWSKI"
+        },
+        "stage_4":{
+            "date":"09-SEP-1998",
+            "length":234,
+            "start_city":"Radomsko",
+            "finish_city":"Jastrzębie-Zdrój",
+            "winner":"ARTUR KRZESZOWIEC"
+        },
+        "stage_5":{
+            "date":"10-SEP-1998",
+            "length":175,
+            "start_city":"Wisła",
+            "finish_city":"Cieszyn",
+            "winner":"SERGEI IVANOV"
+        },
+        "stage_6":{
+            "date":"11-SEP-1998",
+            "length":186,
+            "start_city":"Bielsko-Biała",
+            "finish_city":"Zakopane",
+            "winner":"ALEXANDRE VINOKOUROV"
+        },
+        "stage_7":{
+            "date":"12-SEP-1998",
+            "length":174,
+            "start_city":"Rabka",
+            "finish_city":"Wieliczka",
+            "winner":"JACKY DURAND"
+        },
+        "stage_8":{
+            "date":"13-SEP-1998",
+            "length":30,
+            "start_city":"Wieliczka",
+            "finish_city":"Wieliczka",
+            "winner":"SERGEI IVANOV"
+        }
+    },
+    "total_length":1443,
+    "teams":[
+        {"id":1, "name":"Casino - AG2R"},
+        {"id":2, "name":"Festina - Lotus"},
+        {"id":3, "name":"Mapei - Bricobi"},
+        {"id":4, "name":"Asics - CGA"},
+        {"id":5, "name":"TVM - Farm Frites"},
+        {"id":6, "name":"Amore & Vita - Forzacore"},
+        {"id":7, "name":"Cantina Tollo - Alexia Alluminio"},
+        {"id":8, "name":"Riso Scotti - MG"},
+        {"id":9, "name":"Mroz"},
+        {"id":10, "name":"Scrigno - Gaerne"},
+        {"id":11, "name":"Agro - Adler Brandenburg"},
+        {"id":12, "name":"Team Ericsson - Villiger"},
+        {"id":13, "name":"Moscow City Sports Association"},
+        {"id":14, "name":"Poland"},
+        {"id":15, "name":"Czech Republic"},
+        {"id":16, "name":"Dukla - De Nardi"},
+        {"id":17, "name":"Pekaes - Irena - Zepter"},
+        {"id":18, "name":"Legia - Romar - Warta"},
+        {"id":19, "name":"Sprandi - Wulkan - Kol. Czesto"},
+        {"id":20, "name":"Mat Jelcz Dolny Śląsk"},
+        {"id":21, "name":"Weltour - Katowice"},
+        {"id":22, "name":"Toruński Klub Kolarski Pacific - Nestlé Fitness Cycling Team"},
+        {"id":23, "name":"Winiary - Mikomax"}
+
+    ],
+    "gc_top10":[
+        {"place":1, "name":"SERGEI IVANOV"},
+        {"place":2, "name":"JACKY DURAND"},
+        {"place":3, "name":"FABIO MALBERTI"},
+        {"place":4, "name":"CHRISTOPHE BASSONS"},
+        {"place":5, "name":"RAIMONDAS RUMSAS"},
+        {"place":6, "name":"DARIUSZ BARANOWSKI"},
+        {"place":7, "name":"ZBIGNIEW SPRUCH"},
+        {"place":8, "name":"ALEXANDRE VINOKOUROV"},
+        {"place":9, "name":"MASSIMO GIMONDI"},
+        {"place":10, "name":"VLADISLAV BOBRIK"}
+    ]
+},  {
+    "_id":10,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":56,
+    "year":1999,
+    "start_date":"06-SEP-1999",
+    "end_date":"12-SEP-1999",
+    "stages":{
+        "stage_1":{
+            "date":"06-SEP-1999",
+            "length":188,
+            "start_city":"Elbląg",
+            "finish_city":"Elbląg",
+            "winner":"GIANPAOLO MONDINI"
+        },
+        "stage_2":{
+            "date":"07-SEP-1999",
+            "length":173.5,
+            "start_city":"Malbork",
+            "finish_city":"Toruń",
+            "winner":"MASSIMO STRAZZER"
+        },
+        "stage_3":{
+            "date":"08-SEP-1999",
+            "length":200,
+            "start_city":"Ciechocinek",
+            "finish_city":"Kalisz",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_4":{
+            "date":"09-SEP-1999",
+            "length":240,
+            "start_city":"Ostrów Wielkopolski",
+            "finish_city":"Jelenia Góra",
+            "winner":"ARTUR KRASIŃSKI"
+        },
+        "stage_5":{
+            "date":"10-SEP-1999",
+            "length":168,
+            "start_city":"Szczawno-Zdrój",
+            "finish_city":"Wałbrzych",
+            "winner":"PIOTR WADECKI"
+        },
+        "stage_6":{
+            "date":"11-SEP-1999",
+            "length":171.5,
+            "start_city":"Szklarska Poręba",
+            "finish_city":"Karpacz",
+            "winner":"RAIMONDAS RUMSAS"
+        },
+        "stage_7":{
+            "date":"12-SEP-1999",
+            "length":23,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"RAIMONDAS RUMSAS"
+        }
+    },
+    "total_length":1164,
+    "teams":[
+        {"id":1, "name":"Mapei - Quickstep"},
+        {"id":2, "name":"TVM - Farm Frites"},
+        {"id":3, "name":"Crédit Agricole"},
+        {"id":4, "name":"Casino - AG2R"},
+        {"id":5, "name":"Festina - Lotus"},
+        {"id":6, "name":"Saeco - Cannondale"},
+        {"id":7, "name":"Cantina Tollo - Alexia Alluminio"},
+        {"id":8, "name":"O.N.C.E. - Deutsche Bank"},
+        {"id":9, "name":"Mróz"},
+        {"id":10, "name":"BigMat - Auber 93"},
+        {"id":11, "name":"Mobilvetta Design - Northwave"},
+        {"id":12, "name":"Agro - Adler Brandenburg"},
+        {"id":13, "name":"Amore & Vita - Beretta"},
+        {"id":14, "name":"Recer - Boavista"},
+        {"id":15, "name":"Italy"},
+        {"id":16, "name":"Lukullus - Ambra - Epoka"},
+        {"id":17, "name":"Servisco"},
+        {"id":18, "name":"Sprandi Mat Jelcz-Laskowice"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"TOMASZ BROŻYNA"},
+        {"place":2, "name":"CEZARY ZAMANA"},
+        {"place":3, "name":"JENS VOIGT"},
+        {"place":4, "name":"RAIMONDAS RUMSAS"},
+        {"place":5, "name":"PIOTR WADECKI"},
+        {"place":6, "name":"ISIDRO NOZAL"},
+        {"place":7, "name":"CHRISTOPHE MOREAU"},
+        {"place":8, "name":"BART VOSKAMP"},
+        {"place":9, "name":"DENIS LEPROUX"},
+        {"place":10, "name":"ZBIGNIEW PIĄTEK"}
+    ]
+},  {
+    "_id":11,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":57,
+    "year":2000,
+    "start_date":"04-SEP-2000",
+    "end_date":"10-SEP-2000",
+    "stages":{
+        "stage_1":{
+            "date":"04-SEP-2000",
+            "length":183,
+            "start_city":"Braniewo",
+            "finish_city":"Elbląg",
+            "winner":"PIOTR WADECKI"
+        },
+        "stage_2":{
+            "date":"05-SEP-2000",
+            "length":171.5,
+            "start_city":"Malbork",
+            "finish_city":"Toruń",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_3":{
+            "date":"06-SEP-2000",
+            "length":192.5,
+            "start_city":"Inowrocław",
+            "finish_city":"Kalisz",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_4":{
+            "date":"07-SEP-2000",
+            "length":240,
+            "start_city":"Ostrów Wielkopolski",
+            "finish_city":"Jelenia Góra",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_5":{
+            "date":"08-SEP-2000",
+            "length":188,
+            "start_city":"Szczawno-Zdrój",
+            "finish_city":"Wałbrzych",
+            "winner":"MARCO PINOTTI"
+        },
+        "stage_6":{
+            "date":"09-SEP-2000",
+            "length":173,
+            "start_city":"Szklarska Poręba",
+            "finish_city":"Karpacz",
+            "winner":"SERGEI IVANOV"
+        },
+        "stage_7":{
+            "date":"10-SEP-2000",
+            "length":23,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"SERGEI IVANOV"
+        }
+    },
+    "total_length":1171,
+    "teams":[
+        {"id":1, "name":"MAT - Ceresit - CCC"},
+        {"id":2, "name":"Mróz - Supradyn Witaminy"},
+        {"id":3, "name":"Farm Frites"},
+        {"id":4, "name":"US Postal Service"},
+        {"id":5, "name":"Vitalicio Seguros - Grupo Generali"},
+        {"id":6, "name":"Kelme - Costa Blanca"},
+        {"id":7, "name":"Lotto - Adecco"},
+        {"id":8, "name":"Alexia Alluminio"},
+        {"id":9, "name":"La Française des Jeux"},
+        {"id":10, "name":"Cantina Tollo"},
+        {"id":11, "name":"Team Deutsche Telekom"},
+        {"id":12, "name":"Atlas Lukullus Ambra"},
+        {"id":13, "name":"Festina Watches"},
+        {"id":14, "name":"AG2R Prévoyance"},
+        {"id":15, "name":"Poland"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"PIOTR PRZYDZIAŁ"},
+        {"place":2, "name":"PIOTR WADECKI"},
+        {"place":3, "name":"SERGEI IVANOV"},
+        {"place":4, "name":"VIATCHESLAV EKIMOV"},
+        {"place":5, "name":"MIGUEL ANGEL MARTIN PERDIGUERO"},
+        {"place":6, "name":"AITOR GONZALEZ"},
+        {"place":7, "name":"KURT VAN DE WOUWER"},
+        {"place":8, "name":"DARIO ANDRIOTTO"},
+        {"place":9, "name":"CEZARY ZAMANA"},
+        {"place":10, "name":"RADOSŁAW ROMANIAK"}
+    ]
+},  {
+    "_id":12,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":58,
+    "year":2001,
+    "start_date":"03-SEP-2001",
+    "end_date":"09-SEP-2001",
+    "stages":{
+        "stage_1":{
+            "date":"03-SEP-2001",
+            "length":178,
+            "start_city":"Gdańsk",
+            "finish_city":"Sopot",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_2":{
+            "date":"04-SEP-2001",
+            "length":246.5,
+            "start_city":"Gdynia",
+            "finish_city":"Koszalin",
+            "winner":"ANGELO FURLAN"
+        },
+        "stage_3":{
+            "date":"05-SEP-2001",
+            "length":178,
+            "start_city":"Kołobrzeg",
+            "finish_city":"Szczecin",
+            "winner":"BOGDAN BONDARIEW"
+        },
+        "stage_4":{
+            "date":"06-SEP-2001",
+            "length":256,
+            "start_city":"Stargard",
+            "finish_city":"Zielona Góra",
+            "winner":"ALESSANDRO PETACCHI"
+        },
+        "stage_5":{
+            "date":"07-SEP-2001",
+            "length":160.5,
+            "start_city":"Kożuchów",
+            "finish_city":"Szklarska Poręba",
+            "winner":"PIOTR CHMIELEWSKI"
+        },
+        "stage_6":{
+            "date":"08-SEP-2001",
+            "length":150,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"JENS VOIGT"
+        },
+        "stage_7":{
+            "date":"09-SEP-2001",
+            "length":61,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"VLADISLAV BORISOV"
+        },
+        "stage_7":{
+            "date":"09-SEP-2001",
+            "length":19,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"ONDREJ SOSENKA"
+        }
+    },
+    "total_length":1249,
+    "teams":[
+        {"id":1, "name":"CCC - Mat"},
+        {"id":2, "name":"Crédit Agricole"},
+        {"id":3, "name":"Fassa Bortolo"},
+        {"id":4, "name":"Domo - Farm Frites"},
+        {"id":5, "name":"Tacconi Sport - Vini Caldirola"},
+        {"id":6, "name":"Mróz - Supradyn Witaminy"},
+        {"id":7, "name":"Itera"},
+        {"id":8, "name":"Lotto - Adecco"},
+        {"id":9, "name":"Servisco"},
+        {"id":10, "name":"AG2R Prévoyance"},
+        {"id":11, "name":"Mikomax - Browar Staropolski"},
+        {"id":12, "name":"Legia - Bazyliszek"},
+        {"id":13, "name":"Cantina Tollo - Acqua e Sapone"},
+        {"id":14, "name":"Poland"},
+        {"id":15, "name":"Atlas - Ambra - Lukullus"},
+        {"id":16, "name":"Mobilvetta Design - Formaggi Trentini"},
+        {"id":17, "name":"Mapei - Quickstep"},
+        {"id":18, "name":"Lampre - Daikin"},
+        {"id":19, "name":"Alessio"},
+        {"id":20, "name":"Weltour - Radio Katowice"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"ONDREJ SOSENKA"},
+        {"place":2, "name":"JENS VOIGT"},
+        {"place":3, "name":"PIOTR PRZYDZIAŁ"},
+        {"place":4, "name":"KIM KIRCHEN"},
+        {"place":5, "name":"ROMANS VAINSTEINS"},
+        {"place":6, "name":"SYLWESTER SZMYD"},
+        {"place":7, "name":"ZBIGNIEW PIĄTEK"},
+        {"place":8, "name":"VLADIMIR KARPETS"},
+        {"place":9, "name":"SERGE BAGUET"},
+        {"place":10, "name":"VOLODYMYR GUSTOV"}
+    ]
+},  {
+    "_id":13,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":59,
+    "year":2002,
+    "start_date":"09-SEP-2002",
+    "end_date":"16-SEP-2002",
+    "stages":{
+        "stage_1":{
+            "date":"09-SEP-2002",
+            "length":178,
+            "start_city":"Gdańsk",
+            "finish_city":"Sopot",
+            "winner":"ROBERT HUNTER"
+        },
+        "stage_2":{
+            "date":"10-SEP-2002",
+            "length":246.5,
+            "start_city":"Gdynia",
+            "finish_city":"Koszalin",
+            "winner":"ANDRUS AUG"
+        },
+        "stage_3":{
+            "date":"11-SEP-2002",
+            "length":178,
+            "start_city":"Kołobrzeg",
+            "finish_city":"Szczecin",
+            "winner":"JANEK TOMBAK"
+        },
+        "stage_4":{
+            "date":"12-SEP-2002",
+            "length":256,
+            "start_city":"Stargard",
+            "finish_city":"Zielona Góra",
+            "winner":"REMIGIUS LUPEIKIS"
+        },
+        "stage_5":{
+            "date":"13-SEP-2002",
+            "length":185,
+            "start_city":"Kożuchów",
+            "finish_city":"Szklarska Poręba",
+            "winner":"FRANCO PELLIZOTTI"
+        },
+        "stage_6":{
+            "date":"14-SEP-2002",
+            "length":150,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"CEZARY ZAMANA"
+        },
+        "stage_7":{
+            "date":"15-SEP-2002",
+            "length":61,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"LAURENT BROCHARD"
+        },
+        "stage_7":{
+            "date":"15-SEP-2002",
+            "length":19,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"ONDREJ SOSENKA"
+        }
+    },
+    "total_length":1273.5,
+    "teams":[
+        {"id":1, "name":"CCC - Polsat"},
+        {"id":2, "name":"Mapei - Quickstep"},
+        {"id":3, "name":"Fassa Bortolo"},
+        {"id":4, "name":"Lotto - Adecco"},
+        {"id":5, "name":"Cofidis"},
+        {"id":6, "name":"Domo - Farm Frites"},
+        {"id":7, "name":"Alessio"},
+        {"id":8, "name":"Jean Delatour"},
+        {"id":9, "name":"Crédit Agricole"},
+        {"id":10, "name":"Team Nürnberger Versicherung"},
+        {"id":11, "name":"De Nardi - Pasta Montegrappa"},
+        {"id":12, "name":"Mróz - Supradyn Witaminy"},
+        {"id":13, "name":"Amore & Vita - Beretta"},
+        {"id":14, "name":"Mikomax - Browar Staropolski"},
+        {"id":15, "name":"Weltour - Radio Katowice"},
+        {"id":16, "name":"Legia - Bazyliszek"},
+        {"id":17, "name":"Servisco - Koop"},
+        {"id":18, "name":"Poland"}
+
+    ],
+    "gc_top10":[
+        {"place":1, "name":"LAURENT BROCHARD"},
+        {"place":2, "name":"TOMASZ BROŻYNA"},
+        {"place":3, "name":"MAREK RUTKIEWICZ"},
+        {"place":4, "name":"FRANK VANDENBROUCKE"},
+        {"place":5, "name":"ONDREJ SOSENKA"},
+        {"place":6, "name":"CEZARY ZAMANA"},
+        {"place":7, "name":"SŁAWOMIR KOHUT"},
+        {"place":8, "name":"BENOIT POILVET"},
+        {"place":9, "name":"VOLODYMYR GUSTOV"},
+        {"place":10, "name":"RICHARD VIRENQUE"}
+    ]
+},  {
+    "_id":14,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":60,
+    "year":2003,
+    "start_date":"08-SEP-2003",
+    "end_date":"14-SEP-2003",
+    "stages":{
+        "stage_1":{
+            "date":"08-SEP-2003",
+            "length":168.5,
+            "start_city":"Gdańsk",
+            "finish_city":"Gdynia",
+            "winner":"SIMONE CADAMURO"
+        },
+        "stage_2":{
+            "date":"09-SEP-2003",
+            "length":202,
+            "start_city":"Tczew",
+            "finish_city":"Olsztyn",
+            "winner":"FABIO BALDATO"
+        },
+        "stage_3":{
+            "date":"10-SEP-2003",
+            "length":204,
+            "start_city":"Ostróda",
+            "finish_city":"Bydgoszcz",
+            "winner":"DANIELE BENNATI"
+        },
+        "stage_4":{
+            "date":"11-SEP-2003",
+            "length":183,
+            "start_city":"Inowrocław",
+            "finish_city":"Kalisz",
+            "winner":"SEBASTIEN HINAULT"
+        },
+        "stage_5":{
+            "date":"12-SEP-2003",
+            "length":229,
+            "start_city":"Oleśnica",
+            "finish_city":"Szklarska Poręba",
+            "winner":"RUGGERO MARZOLI"
+        },
+        "stage_6":{
+            "date":"13-SEP-2003",
+            "length":166.5,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"CEZARY ZAMANA"
+        },
+        "stage_7":{
+            "date":"14-SEP-2003",
+            "length":61,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"HAYDEN ROULSTON"
+        },
+        "stage_7":{
+            "date":"14-SEP-2003",
+            "length":19,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"ALBERTO CONTADOR"
+        }
+    },
+    "total_length":1233,
+    "teams":[
+        {"id":1, "name":"Action - Nvidia - Mróz"},
+        {"id":2, "name":"Alessio"},
+        {"id":3, "name":"Marlux - Wincor Nixdorf"},
+        {"id":4, "name":"AG2R Prévoyance"},
+        {"id":5, "name":"Cofidis"},
+        {"id":6, "name":"L.A. Alluminios - Pecol"},
+        {"id":7, "name":"Domina Vacanze - Elitron"},
+        {"id":8, "name":"Panaria - Fiordo"},
+        {"id":9, "name":"Crédit Agricole"},
+        {"id":10, "name":"Legia - Bazyliszek"},
+        {"id":11, "name":"Formaggi Pinzolo Fiavè - Ciarrocchi Immobiliare"},
+        {"id":12, "name":"Servisco - Koop"},
+        {"id":13, "name":"Team Fakta"},
+        {"id":14, "name":"O.N.C.E. - Eroski"},
+        {"id":15, "name":"Weltour - Radio Katowice - Ambra"},
+        {"id":16, "name":"Mikomax - Browar Staropolski"},
+        {"id":17, "name":"De Nardi - Colpack"},
+        {"id":18, "name":"Bonda"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"CEZARY ZAMANA"},
+        {"place":2, "name":"ANDREA NOE"},
+        {"place":3, "name":"DAVE BRUYLANDIS"},
+        {"place":4, "name":"LAURENT BROCHARD"},
+        {"place":5, "name":"MAREK RUTKIEWICZ"},
+        {"place":6, "name":"ANDREI ZINTCHENKO"},
+        {"place":7, "name":"JON BRU"},
+        {"place":8, "name":"ZBIGNIEW PIĄTEK"},
+        {"place":9, "name":"TOMASZ BROŻYNA"},
+        {"place":10, "name":"PIOTR PRZYDZIAŁ"}
+    ]
+},  {
+    "_id":15,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":61,
+    "year":2004,
+    "start_date":"06-SEP-2004",
+    "end_date":"12-SEP-2004",
+    "stages":{
+        "stage_1":{
+            "date":"06-SEP-2004",
+            "length":174.5,
+            "start_city":"Gdańsk",
+            "finish_city":"Gdynia",
+            "winner":"FABIO BALDATO"
+        },
+        "stage_2":{
+            "date":"07-SEP-2004",
+            "length":227.5,
+            "start_city":"Tczew",
+            "finish_city":"Olsztyn",
+            "winner":"MARCIN SAPA"
+        },
+        "stage_3":{
+            "date":"08-SEP-2004",
+            "length":204,
+            "start_city":"Ostróda",
+            "finish_city":"Bydgoszcz",
+            "winner":"ALLAN DAVIS"
+        },
+        "stage_4":{
+            "date":"09-SEP-2004",
+            "length":183,
+            "start_city":"Inowrocław",
+            "finish_city":"Kalisz",
+            "winner":"FABIO BALDATO"
+        },
+        "stage_5":{
+            "date":"10-SEP-2004",
+            "length":229,
+            "start_city":"Oleśnica",
+            "finish_city":"Szklarska Poręba",
+            "winner":"RINALDO NOCENTINI"
+        },
+        "stage_6":{
+            "date":"11-SEP-2004",
+            "length":166.5,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"MAREK RUTKIEWICZ"
+        },
+        "stage_7":{
+            "date":"12-SEP-2004",
+            "length":61,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"HUGO SABIDO"
+        },
+        "stage_7":{
+            "date":"12-SEP-2004",
+            "length":19,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"ONDREJ SOSENKA"
+        }
+    },
+    "total_length":1264.5,
+    "teams":[
+        {"id":1, "name":"Chocolade Jacques - Wincor Nixdorf"},
+        {"id":2, "name":"Illes Balears - Banesto"},
+        {"id":3, "name":"Liberty Seguros"},
+        {"id":4, "name":"Alessio - Bianchi"},
+        {"id":5, "name":"De Nardi"},
+        {"id":6, "name":"Milaneza Maia"},
+        {"id":7, "name":"RAGT Semence - MG Rover"},
+        {"id":8, "name":"Domina Vacanze"},
+        {"id":9, "name":"Acqua & Sapone - Caffe Mokambo"},
+        {"id":10, "name":"Action - ATI"},
+        {"id":11, "name":"Formaggi Pinzolo Fiavè"},
+        {"id":12, "name":"Miche"},
+        {"id":13, "name":"Hoop - CCC - Polsat"},
+        {"id":14, "name":"Amore & Vita - Beretta"},
+        {"id":15, "name":"DHL - Author"},
+        {"id":16, "name":"Knauf - Mikomax"},
+        {"id":17, "name":"Legia - Bazyliszek - Sopro"},
+        {"id":18, "name":"Grupa PSB"},
+        {"id":19, "name":"Poland"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"ONDREJ SOSENKA"},
+        {"place":2, "name":"HUGO SABIDO"},
+        {"place":3, "name":"FRANCO PELLIZOTTI"},
+        {"place":4, "name":"MAREK RUTKIEWICZ"},
+        {"place":5, "name":"ALLAN DAVIS"},
+        {"place":6, "name":"FLORENT BRARD"},
+        {"place":7, "name":"TOMASZ BROŻYNA"},
+        {"place":8, "name":"DAVID BERNABEU"},
+        {"place":9, "name":"CEZARY ZAMANA"},
+        {"place":10, "name":"RUI SOUSA"}
+    ]
+},  {
+    "_id":16,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":62,
+    "year":2005,
+    "start_date":"12-SEP-2005",
+    "end_date":"19-SEP-2005",
+    "stages":{
+        "stage_1":{
+            "date":"12-SEP-2005",
+            "length":149.6,
+            "start_city":"Gdańsk",
+            "finish_city":"Elbląg",
+            "winner":"BADEN COOKE"
+        },
+        "stage_2":{
+            "date":"13-SEP-2005",
+            "length":226.5,
+            "start_city":"Tczew",
+            "finish_city":"Olsztyn",
+            "winner":"DANIELE BENNATI"
+        },
+        "stage_3":{
+            "date":"14-SEP-2005",
+            "length":212,
+            "start_city":"Ostróda",
+            "finish_city":"Bydgoszcz",
+            "winner":"JAAN KIRISPUU"
+        },
+        "stage_4":{
+            "date":"15-SEP-2005",
+            "length":213.4,
+            "start_city":"Inowrocław",
+            "finish_city":"Leszno",
+            "winner":"DANIELE BENNATI"
+        },
+        "stage_5":{
+            "date":"16-SEP-2005",
+            "length":212,
+            "start_city":"Wrocław",
+            "finish_city":"Szklarska Poręba",
+            "winner":"FABIAN WEGMANN"
+        },
+        "stage_6":{
+            "date":"17-SEP-2005",
+            "length":153,
+            "start_city":"Piechowice",
+            "finish_city":"Karpacz",
+            "winner":"PIETER WEENING"
+        },
+        "stage_7":{
+            "date":"18-SEP-2005",
+            "length":61,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"KIM KIRCHEN"
+        },
+        "stage_8":{
+            "date":"19-SEP-2005",
+            "length":19,
+            "start_city":"Jelenia Góra",
+            "finish_city":"Karpacz",
+            "winner":"THOMAS DEKKER"
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":"Fassa Bortolo"},
+        {"id":2, "name":"Rabobank ProTeam"},
+        {"id":3, "name":"Française des Jeux"},
+        {"id":4, "name":"Liquigas"},
+        {"id":5, "name":"Liberty Seguros - Würth Team"},
+        {"id":6, "name":"Intel - Action"},
+        {"id":7, "name":"Cofidis, le Crédit par Téléphone"},
+        {"id":8, "name":"Discovery Channel Pro Cycling Team"},
+        {"id":9, "name":"CSC ProTeam"},
+        {"id":10, "name":"Lampre-Caffita"},
+        {"id":11, "name":"Illes Balears - Caisse d'Epargne"},
+        {"id":12, "name":"Saunier Duval - Prodir"},
+        {"id":13, "name":"Domina Vacanze"},
+        {"id":14, "name":"Gerolsteiner"},
+        {"id":15, "name":"Bouygues Telecom"},
+        {"id":16, "name":"Quickstep - Innergetic"},
+        {"id":17, "name":"Phonak Hearing Systems"},
+        {"id":18, "name":"Euskaltel - Euskadi"},
+        {"id":19, "name":"Crédit Agricole"},
+        {"id":20, "name":"Miche"},
+        {"id":21, "name":"T-Mobile Team"}
+    ],
+    "gc_top10":[
+        {"place":1, "name":"KIM KIRCHEN"},
+        {"place":2, "name":"PIETER WEENING"},
+        {"place":3, "name":"THOMAS DEKKER"},
+        {"place":4, "name":"THOMAS LOFKVIST"},
+        {"place":5, "name":"DANILO DI LUCA"},
+        {"place":6, "name":null},
+        {"place":7, "name":"JAN HRUSKA"},
+        {"place":8, "name":"MAREK RUTKIEWICZ"},
+        {"place":9, "name":"SYLVAIN CHAVANEL"},
+        {"place":10, "name":"JOSE LUIS RUBIERA"}
+    ]
+},  {
     "_id":,
     "race_name":"Tour de Pologne",
     "country":"Poland",
@@ -471,27 +1640,6 @@
             "winner":""
         },
         "stage_7":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
-        },
-        "stage_8":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
-        },
-        "stage_9":{
-            "date":"",
-            "length":,
-            "start_city":"",
-            "finish_city":"",
-            "winner":""
-        },
-        "stage_10":{
             "date":"",
             "length":,
             "start_city":"",
@@ -593,22 +1741,97 @@
             "start_city":"",
             "finish_city":"",
             "winner":""
-        },
-        "stage_8":{
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_9":{
+        "stage_2":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_10":{
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
             "date":"",
             "length":,
             "start_city":"",
@@ -710,22 +1933,97 @@
             "start_city":"",
             "finish_city":"",
             "winner":""
-        },
-        "stage_8":{
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_9":{
+        "stage_2":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_10":{
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
             "date":"",
             "length":,
             "start_city":"",
@@ -827,22 +2125,97 @@
             "start_city":"",
             "finish_city":"",
             "winner":""
-        },
-        "stage_8":{
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_9":{
+        "stage_2":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_10":{
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
             "date":"",
             "length":,
             "start_city":"",
@@ -944,22 +2317,97 @@
             "start_city":"",
             "finish_city":"",
             "winner":""
-        },
-        "stage_8":{
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_9":{
+        "stage_2":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_10":{
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
             "date":"",
             "length":,
             "start_city":"",
@@ -1061,22 +2509,1729 @@
             "start_city":"",
             "finish_city":"",
             "winner":""
-        },
-        "stage_8":{
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_9":{
+        "stage_2":{
             "date":"",
             "length":,
             "start_city":"",
             "finish_city":"",
             "winner":""
         },
-        "stage_10":{
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        }
+    },
+    "total_length":,
+    "teams":[
+        {"id":1, "name":""},
+        {"id":2, "name":""},
+        {"id":3, "name":""},
+        {"id":4, "name":""},
+        {"id":5, "name":""},
+        {"id":6, "name":""},
+        {"id":7, "name":""},
+        {"id":8, "name":""},
+        {"id":9, "name":""},
+        {"id":10, "name":""},
+        {"id":11, "name":""},
+        {"id":12, "name":""},
+        {"id":13, "name":""},
+        {"id":14, "name":""},
+        {"id":15, "name":""},
+        {"id":16, "name":""},
+        {"id":17, "name":""},
+        {"id":18, "name":""},
+        {"id":19, "name":""},
+        {"id":20, "name":""},
+        {"id":21, "name":""},
+        {"id":22, "name":""}
+    ],
+    "gc_top10":[
+        {"place":1, "name":""},
+        {"place":2, "name":""},
+        {"place":3, "name":""},
+        {"place":4, "name":""},
+        {"place":5, "name":""},
+        {"place":6, "name":""},
+        {"place":7, "name":""},
+        {"place":8, "name":""},
+        {"place":9, "name":""},
+        {"place":10, "name":""}
+    ]
+},  {
+    "_id":,
+    "race_name":"Tour de Pologne",
+    "country":"Poland",
+    "edition":,
+    "year":,
+    "start_date":"",
+    "end_date":"",
+    "stages":{
+        "stage_1":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_2":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_3":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_4":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_5":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_6":{
+            "date":"",
+            "length":,
+            "start_city":"",
+            "finish_city":"",
+            "winner":""
+        },
+        "stage_7":{
             "date":"",
             "length":,
             "start_city":"",
