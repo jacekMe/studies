@@ -1,6 +1,7 @@
                 SQL - zapytania analityczne
 
-1. lista I
+1. lista I - zapytania analityczne
+
     - SELEKCJA KOLUMN
         - w języku SQL można pobierać dane z tabeli za pomocą instrukcji SELECT.
         - aby instrukcja była wykonalna trzeba podać jeszcze z jakiej tabeli 
@@ -72,7 +73,8 @@
             - COUNT
 
 
-2. lista II 
+2. lista II - zapytania analityczne
+
     - SORTOWANIE
         - aby posortować dane musimy użyć klauzuli ORDER BY
         - możemy sortować malejąco (DESC) lub rosnąco (ASC) - domyślnie jest ASC
@@ -130,3 +132,68 @@
                 ELSE 'small' END
                 AS geosize_group
             FROM countries; 
+
+
+3. lista III - zapytania analityczne
+
+    - ŁĄCZENIE DANYCH ZA POMOCĄ INNER JOIN
+        - pobiera tylko te wiersze, które mają dopasowanie w obu tabelach
+
+    - ŁĄCZENIE DANYCH ZA POMOCĄ LEFT JOIN
+        - instrukcja ta łączy dwie tabele
+        - łączenie to polega na pobraniu wszystkich wierszy z tabeli po lewej 
+        stronie, nawet jeśli nie mają dopasowania w tabeli po prawej stronie
+        - aby polecenie zadziałało potrzebny jest jeszcze warunek ON
+        - jeśli brak dopasowania, w kolumnach z tabeli prawej będzie NULL
+
+    - ŁĄCZENIE DANYCH ZA POMOCĄ RIGHT JOIN
+        - podobnie jak LEFT JOIN łączymy dwie tabele
+        - łączenie polega na pobraniu wszystkich wierszy, ale tym razem z prawej
+        strony, nawet jeśli nie mają dopasowania w tabeli po lewej stronie
+        - aby polecenie zadziałało potrzebny jest jeszcze warunek ON
+        - jeśli brak dopasowania, w kolumnach z tabeli prawej będą NULLe
+
+    - ŁĄCZENIE DANYCH ZA POMOCĄ FULL JOIN
+        - łączenie to polega na pobraniu wszystkich wierszy z obu tabel, nawet
+        jeśli nie mają dopasowania
+        - aby polecenie zadziałało potrzebny jest jeszcze warunek ON
+        - jeśli wiersz nie ma dopasowania, brakujące wartości są wypełnione NULL
+
+    - ŁĄCZENIE DANYCH ZA POMOCĄ CROSS JOIN
+        - łączenie w taki sposób tworzy iloczyn kartezjański, czyli łączy każdy 
+        wiersz z jednej tabeli z każdym wierszem z drugiej tabeli.
+        - nie wymaga warunku 'ON'
+
+
+4. lista IV - zapytania analityczne
+
+    - OPERACJE NA ZBIORACH UNION
+        - operacj UNION wyklucza duplikaty
+
+    - OPERACJE NA ZBIORACH UNION ALL
+        - operacja UNION ALL zawiera duplikaty
+
+    - OPERACJE NA ZBIORACH INTERSECT
+        - operacja ta zwraca w wyniku te wiersze tabel, które znajdują się
+        zarówna w lewej jak i prawej tabeli
+
+    - OPERACJE NA ZBIORACH EXCEPT
+        - operacja ta zwraca wiersze z tabeli po lewej, które nie mają swojego
+        odpowiednika w tabeli po prawej
+
+    - SEMI JOINS i ANTI JOINS
+        - pozwalają wybierać dane (lewa tabela) z wykorzystaniem warunku w 
+        klauzuli WHERE, który odnosi się do innej tabeli (prawa tabela)
+        - czyli dane z prawej tabeli decydują o tym, które rekordy z lewej tabeli
+        pojawiają się w wyniku zapytania
+
+    - ZAGNIEŻDŻANIE ZAPYTANIA W WHERE
+    - ZAGNIEŻDŻANIE ZAPYTANIA W SELECT
+        - ten sam rezultat można uzyskać korzystając z INNER JOIN
+
+    - ZAGNIEŻDŻANIE ZAPYTANIA W FROM
+
+
+5. lista sprawdzająca
+    
+    - zadania z łączenia tabel i zagnieżdżania
