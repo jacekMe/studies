@@ -36,6 +36,16 @@ w domu, z różnych przedmiotów, tj.:
     - dokumenty z zagnieżdżeniami
     - łączenie danych z różnych kolekcji, referencje
 
+  - różne zadania do wykonania na zajęciach korzystając z trzech zbiorów danych:
+    - library.json
+    - category.json
+    - emp.json
+      - wyświetlanie danych
+      - agregracja danych
+      - łączenie kolekcji
+      - modyfikacja danych
+      - usuwanie danych
+
   - projekt do samodzielnego wykonania:
       - przygotowanie pliku w strukturze JSON
       - wpisanie danych jednej kolekcji
