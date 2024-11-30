@@ -1,6 +1,6 @@
 # STUDIA
 
-Tutaj będą zamieszczać zadania i projekty, które wykonuję podczas zajęć i 
+Tutaj będę zamieszczać zadania i projekty, które wykonuję podczas zajęć i 
 w domu, z różnych przedmiotów, tj.:
   - sql
   - java
