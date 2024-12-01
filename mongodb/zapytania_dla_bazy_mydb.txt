@@ -1,0 +1,85 @@
+Zadania do wykonania podczas zajęć.
+Wykorzystane zostały trzy przykładowe zbiory danych:
+    - library.json
+    - category.json
+    - emp.json
+
+
+1. Wyświetlić nazwy wszystkich kolekcji, które są w bazie mydb.
+
+    mydb> use mydb
+    mydb> db.getCollectionNames()
+
+
+2. Wyświetlić dwa pierwsze dokumenty z kolekcji library. Wyświetlić wszystkie pola za wyjątkiem pola
+systemowego _id.
+
+    mydb> db.library.find({}, {"_id": 0}).limit(2)
+
+
+3. Wyświetlić 10 pierwszych tytułów książek (pole title) posortowanych alfabetycznie od A do Z.
+
+    mydb> db.library.find({}, {"_id": 0, "title": 1}).limit(10).sort({title: 1})
+
+
+4. Należy wyświetlić tytułu książek oraz ilości stron. Wyświetlamy tylko książki mające więcej niż 500 stron.
+
+    mydb> db.library.find({"number_of_pages": {$gte: 500}}, {"_id":0, "title": 1, "number_of_pages": 1})
+
+
+5. Należy wyświetlić tytuł książki, której autorem jest osoba, gdzie w polu `middle_name` wpisano Jenkins.
+
+    mydb> db.library.find(
+    ... {"author.middle_name": "Jenkins"},
+    ... {_id: 0, "title": 1, "author": 1}
+    ... )
+
+
+6. Należy dokonać agregacji danych w taki sposób, że posumowana zostanie ilość stron we
+wszystkich 
+zarejestrowanych w kolekcji library książek.
+
+    mydb> db.library.aggregate([
+    ... {$group: {_id: null, suma_stron: {$sum: "$number_of_pages"}}}
+    ... ])
+
+
+7. Należy dokonać agregacji danych w taki sposób, że posumowana zostanie ilość stron we
+wszystkich zarejestrowanych w kolekcji library książek z podziałem na rok wydania książki (pole year).
+
+    mydb> db.library.aggregate([
+    ... {$group: {_id: "$year", suma_stron: {$sum: "$number_of_pages"}}
+    ... }])
+
+
+8. Należy połączyć dane z kolekcji library oraz category w taki sposób, że z pierwszej z nich wyświetlamy tytuł
+książki a z drugiej nazwę kategorii, do której dana książka należy.
+
+    mydb> db.library.aggregate([
+    ... {
+    ...     $lookup:
+    ...     {
+    ...         from: "category",
+    ...         localField: "categoryId",
+    ...         foreignField: "_id",
+    ...         as: "kategoria"
+    ...     }
+    ... },
+    ... {
+    ...     $project: {"_id": 0, "title": 1, "kategoria.name": 1}
+    ... }
+    ... ])
+
+
+9. W kolekcji emp należy podnieść zarobki o 200 (pole sal) tym pracownikom, którzy zarabiają mniej 1000.
+
+mydb> db.emp.find({}, {"_id": 0, "ename": 1, "sal": 1})
+
+mydb> db.emp.updateMany({sal: {$lte: 1000}}, {$inc: {sal: 200}})
+
+
+10. Z kolekcji emp należy wykasować wszystkich pracowników pracujących na stanowisku CLERK.
+
+    mydb> db.emp.find({}, {"_id": 0, "job": 1, "ename": 1, "sal": 1})
+
+    mydb> db.emp.deleteMany({"job": "CLERK"})
