@@ -1,0 +1,788 @@
+[{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136043"
+  },
+  "title": "It Starts with Us",
+  "year": 2022,
+  "publisher": "Wydawnictwo Otwarte",
+  "author": {
+    "first_name": "Hoover",
+    "last_name": "Collen",
+    "country": "Stany Zjednoczone",
+    "year_of_birth": 1979
+  },
+  "number_of_pages": 336,
+  "parts": [
+    "It Ends with Us",
+    "It Starts with Us"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 14
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136044"
+  },
+  "title": "Przyjaciele, kochankowie i ta Wielka Straszna Rzecz",
+  "year": 2022,
+  "publisher": "Wydawnictwo W.A.B",
+  "author": {
+    "first_name": "Matthew",
+    "last_name": "Perry"
+  },
+  "number_of_pages": 320,
+  "parts": [
+    "Przyjaciele, kochankowie i ta Wielka Straszna Rzecz"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 7
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136045"
+  },
+  "title": "It Ends with Us",
+  "year": 2021,
+  "publisher": "Wydawnictwo Otwarte",
+  "author": {
+    "first_name": "Hoover",
+    "last_name": "Collen",
+    "country": "Stany Zjednoczone",
+    "year_of_birth": 1979
+  },
+  "number_of_pages": 368,
+  "parts": [
+    "It Ends with Us",
+    "It Starts with Us"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ]
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136046"
+  },
+  "title": "Dotknij mnie. Tom 1",
+  "year": 2022,
+  "publisher": "We need Ya",
+  "author": {
+    "first_name": "Mafi",
+    "last_name": "Tahereh"
+  },
+  "parts": [
+    "Dotknij mnie. Tom 1",
+    "Odkryj mnie. Tom 2",
+    "Rozbudź mnie. Tom 3"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 14
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136047"
+  },
+  "title": "Jestem dość",
+  "year": 2022,
+  "publisher": "Wydawnictwo MUZA S.A.",
+  "author": {
+    "first_name": "Magdalena",
+    "last_name": "Mikołajczak"
+  },
+  "parts": [
+    "Jestem dość"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 15
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136048"
+  },
+  "title": "Skarb. Rodzina Monet. Tom 1",
+  "year": 2022,
+  "publisher": "You&Ya",
+  "author": {
+    "first_name": "Weronika",
+    "last_name": "Marczak"
+  },
+  "number_of_pages": 416,
+  "parts": [
+    "Skarb. Rodzina Monet. Tom 1"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 3
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136049"
+  },
+  "title": "Anyway",
+  "year": 2022,
+  "publisher": "Akurat",
+  "author": {
+    "first_name": "Paulina",
+    "last_name": "Świst",
+    "country": "Polska",
+    "year_of_birth": 1986
+  },
+  "number_of_pages": 320,
+  "parts": [
+    "Anyway"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 9
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13604a"
+  },
+  "title": "Odkryj mnie. Tom 2",
+  "year": 2022,
+  "publisher": "We need Ya",
+  "author": {
+    "first_name": "Mafi",
+    "last_name": "Tahereh"
+  },
+  "parts": [
+    "Dotknij mnie. Tom 1",
+    "Odkryj mnie. Tom 2",
+    "Rozbudź mnie. Tom 3"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 3
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13604b"
+  },
+  "title": "Chołod",
+  "year": 2022,
+  "publisher": "Wydawnictwo Literackie",
+  "author": {
+    "first_name": "Szczepan",
+    "last_name": "Twardoch",
+    "country": "Polska",
+    "year_of_birth": 1979
+  },
+  "number_of_pages": 416,
+  "parts": [
+    "Chołod"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 2
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13604c"
+  },
+  "title": "Kicia Kocia i Nunuś Czekamy na święta! Kalendarz Adwentowy",
+  "year": 2022,
+  "publisher": "Media Rodzina",
+  "author": {
+    "first_name": "Anita",
+    "last_name": "Głowińska",
+    "country": "Polska"
+  },
+  "number_of_pages": 24,
+  "parts": [
+    "Kicia Kocia i Nunuś Czekamy na święta! Kalendarz Adwentowy"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 4
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13604d"
+  },
+  "title": "All Of Your Flaws. Przypomnij mi naszą przeszłość",
+  "year": 2022,
+  "publisher": "BeYA",
+  "author": {
+    "first_name": "Marta",
+    "last_name": "Łabęcka"
+  },
+  "number_of_pages": 456,
+  "parts": [
+    "All Of Your Flaws. Przypomnij mi naszą przeszłość",
+    "Flaw(less). Opowiedz mi naszą historię",
+    "Despite Your (im)perfections. Dotrzymaj złożonej mi obietnicy."
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 3
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13604e"
+  },
+  "title": "Z pierwszej piłki",
+  "year": 2022,
+  "publisher": "Wydawnictwo Filia",
+  "author": {
+    "first_name": "Remigiusz",
+    "last_name": "Mróz",
+    "country": "Polska",
+    "year_of_birth": 1987,
+    "pseudonym": "Ove Løgmansbø"
+  },
+  "parts": [
+    "Z pierwszej piłki"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 9
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13604f"
+  },
+  "title": "Dziennik radości",
+  "year": 2022,
+  "publisher": "Wydawnictwo Otwarte",
+  "author": {
+    "first_name": "Agnieszka",
+    "last_name": "Maciąg",
+    "country": "Polska",
+    "year_of_birth": 1969
+  },
+  "number_of_pages": 336,
+  "parts": [
+    "Dziennik radości"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 15
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136050"
+  },
+  "title": "Zanim wystygnie kawa",
+  "year": 2022,
+  "publisher": "Grupa Wydawcza Relacja",
+  "author": {
+    "first_name": "Kawaguchi",
+    "last_name": "Toshikazu"
+  },
+  "number_of_pages": 240,
+  "parts": [
+    "Zanim wystygnie kawa"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 1
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136051"
+  },
+  "title": "Nieoficjalna książka kucharska Harry'ego Pottera. Od kociołkowych piegusków do ambrozji: 200 magicznych przepisów dla czarodziejów i mugoli",
+  "year": 2022,
+  "publisher": "Znak Literanova",
+  "author": {
+    "first_name": "Dinah",
+    "last_name": "Bucholz"
+  },
+  "number_of_pages": 400,
+  "parts": [
+    "Nieoficjalna książka kucharska Harry'ego Pottera. Od kociołkowych piegusków do ambrozji: 200 magicznych przepisów dla czarodziejów i mugoli"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 3
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136052"
+  },
+  "title": "Kobieta w walizce",
+  "year": 2022,
+  "publisher": "Wydawnictwo MUZA S.A.",
+  "author": {
+    "first_name": "Katarzyna",
+    "last_name": "Bonda",
+    "country": "Polska",
+    "year_of_birth": 1977
+  },
+  "number_of_pages": 352,
+  "parts": [
+    "Kobieta w walizce",
+    "Zimna sprawa",
+    "Tylko martwi nie kłamią",
+    "Sprawa Niny Frank",
+    "Balwierz",
+    "Klatka dla niewinnych",
+    "Nikt nie musi wiedzieć",
+    "Florystka"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 9
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136053"
+  },
+  "title": "Morderstwo w Boże Narodzenie",
+  "year": 2020,
+  "publisher": "Wydawnictwo Dolnośląskie",
+  "author": {
+    "first_name": "Agatha",
+    "last_name": "Christie",
+    "year_of_birth": 1890
+  },
+  "number_of_pages": 240,
+  "parts": [
+    "Morderstwo w Boże Narodzenie"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 9
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136054"
+  },
+  "title": "48 praw władzy",
+  "year": 2022,
+  "publisher": "Wydawnictwo Czarna Owca",
+  "author": {
+    "first_name": "Robert",
+    "last_name": "Greene"
+  },
+  "number_of_pages": 216,
+  "parts": [
+    "48 praw władzy"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 15
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136055"
+  },
+  "title": "Cztery tysiące tygodni",
+  "year": 2022,
+  "publisher": "Wydawnictwo Insignis",
+  "author": {
+    "first_name": "Olivier",
+    "last_name": "Burkeman"
+  },
+  "parts": [
+    "Cztery tysiące tygodni"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 15
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136056"
+  },
+  "title": "The Inheritance Games. Tom 1",
+  "year": 2022,
+  "publisher": "Must Read",
+  "author": {
+    "first_name": "Barnes",
+    "middle_name": "Jennifer",
+    "last_name": "Lynn"
+  },
+  "number_of_pages": 400,
+  "parts": [
+    "The Inheritance Games. Tom 1",
+    "Dziedzictwo Hawthorne'ów. The Inheritancce Games. Tom 2."
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 3
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136057"
+  },
+  "title": "Mała Europa. Szkice polskie",
+  "year": 2022,
+  "publisher": "Znak Horyzont",
+  "author": {
+    "first_name": "Norman",
+    "last_name": "Davies"
+  },
+  "number_of_pages": 384,
+  "parts": [
+    "Mała Europa. Szkice Polskie"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 13
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136058"
+  },
+  "title": "Ashes. The Chain. Tom 3",
+  "year": 2022,
+  "publisher": "BeYA",
+  "author": {
+    "first_name": "Monika",
+    "last_name": "Rutka"
+  },
+  "number_of_pages": 400,
+  "parts": [
+    "Spark. The Chain. Tom 1",
+    "Flame. The Chain. Tom 2",
+    "Ashes. The Chain. Tom 3"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 14
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136059"
+  },
+  "title": "Ty pieronie! Biografia Franciszka Pieczki",
+  "year": 2022,
+  "publisher": "Dom Wydawniczy Rebis",
+  "author": {
+    "first_name": "Magdalena",
+    "last_name": "Jaros"
+  },
+  "number_of_pages": 256,
+  "parts": [
+    "Ty pieronie! Biografia Franciszka Pieczki"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 7
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13605a"
+  },
+  "title": "Siedmiu mężów Evelyn Hugo",
+  "year": 2019,
+  "publisher": "Czwarta Strona",
+  "author": {
+    "first_name": "Taylor",
+    "middle_name": "Jenkins",
+    "last_name": "Reid"
+  },
+  "number_of_pages": 536,
+  "parts": [
+    "Siedmiu mężów Evelyn Hugo"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 14
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13605b"
+  },
+  "title": "Świąteczna mordercza gra",
+  "year": 2022,
+  "publisher": "Wydawnictwo Kobiece",
+  "author": {
+    "first_name": "Alexandra",
+    "last_name": "Benedict"
+  },
+  "number_of_pages": 384,
+  "parts": [
+    "Świąteczna mordercza gra"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 9
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13605c"
+  },
+  "title": "Spark. The Chain. Tom 1",
+  "year": 2022,
+  "publisher": "Editio",
+  "author": {
+    "first_name": "Monika",
+    "last_name": "Rutka"
+  },
+  "number_of_pages": 544,
+  "parts": [
+    "Spark. The Chain. Tom 1",
+    "Flame. The Chain. Tom 2",
+    "Ashes. The Chain. Tom 3"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 14
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13605d"
+  },
+  "title": "Atomowe nawyki. Drobne zmiany, niezwykłe efekty",
+  "year": 2019,
+  "publisher": "Wydawnictwo Galaktyka",
+  "author": {
+    "first_name": "James",
+    "last_name": "Clear"
+  },
+  "number_of_pages": 272,
+  "parts": [
+    "Atomowe nazywki. Drobne zmiany, niezwykłe efekty"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 15
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13605e"
+  },
+  "title": "Sztuka rysowania dla dzieci",
+  "year": 2021,
+  "publisher": "Publicat",
+  "author": {
+    "first_name": "Keck",
+    "last_name": "Gecko"
+  },
+  "number_of_pages": 144,
+  "parts": [
+    "Sztuka rysowania dla dzieci",
+    "Sztuka rysowania. Twarze 15-minutowe ćwiczenia.",
+    "Sztuka rysowania. Fantasy",
+    "Sztuka rysowania. Pastele"
+  ],
+  "languages": [
+    "niemiecki",
+    "polski"
+  ],
+  "categoryId": 4
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd13605f"
+  },
+  "title": "Kaczyński i jego pajęczyna",
+  "year": 2022,
+  "publisher": "Arbitror",
+  "author": {
+    "first_name": "Tomasz",
+    "last_name": "Piątek",
+    "country": "Polska",
+    "year_of_birth": 1974
+  },
+  "number_of_pages": 544,
+  "parts": [
+    "Kaczyński i jego pajęczyna",
+    "Pokochać PiS",
+    "Rydzyk i przyjaciele. Kręte ścieżki",
+    "Reprywatyzacja warszawska. Byli urzędnicy przerywają milczenie",
+    "Ukradzione miasto. Kulisy wybuchu afery reprywatyzacyjnej"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 6
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136060"
+  },
+  "title": "Werdykt. Joanna Chyłka. Tom 16",
+  "year": 2022,
+  "publisher": "Czwarta Strona",
+  "author": {
+    "first_name": "Remigiusz",
+    "last_name": "Mróz",
+    "country": "Polska",
+    "year_of_birth": 1987,
+    "pseudonym": "Ove Løgmansbø"
+  },
+  "parts": [
+    "Kasacja. Joanna Chyłka. Tom 1",
+    "Zagnięcie. Joanna Chyłka. Tom 2",
+    "Rewizja. Joanna Chyłka. Tom 3",
+    "Immunitet. Joanna Chyłka. Tom 4",
+    "Inwigilacja. Joanna Chyłka. Tom 5",
+    "Oskarżenie. Joanna Chyłka. Tom 6",
+    "Testament. Joanna Chyłka. Tom 7",
+    "Kontratyp. Joanna Chyłka. Tom 8",
+    "Umorzenie. Joanna Chyłka. Tom 9",
+    "Wyrok. Joanna Chyłka. Tom 10",
+    "Ekstradycja. Joanna Chyłka. Tom 11",
+    "Precedens. Joanna Chyłka. Tom 12",
+    "Afekt. Joanna Chyłka. Tom 13",
+    "Egzekucja. Joanna Chyłka. Tom 14",
+    "Skazanie. Joanna Chyłka. Tom 15",
+    "Werdykt. Joanna Chyłka. Tom 16"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 9
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136061"
+  },
+  "title": "Peszkografia. Będzie się działo",
+  "year": 2022,
+  "publisher": "Wydawnictwo SQN",
+  "author": {
+    "first_name": "Sebastian",
+    "last_name": "Staniszewski"
+  },
+  "parts": [
+    "Peszkogradia. Będzie się działo"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 7
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136062"
+  },
+  "title": "Jadzia Pętelka ma gila",
+  "year": 2022,
+  "publisher": "Wydawnictwo Zielona Sowa",
+  "author": {
+    "first_name": "Barbara",
+    "last_name": "Supeł"
+  },
+  "number_of_pages": 24,
+  "parts": [
+    "Jadzia Pętelka ma gila",
+    "Rodzina Pętelków czeka na święta",
+    "Jadzia Pętelka piecze pierniki",
+    "Jadzia Pętelka idzie spać",
+    "Jadzia Pętelka bierze kąpiel",
+    "Jadzia Pętelka czuje złość",
+    "Staś Pętelka. Ferie w lesie",
+    "Jadzia Pętelka odwiedza dziadków",
+    "Na placu zabaw. Zabawy Jadzi Pętelki",
+    "Jadzia Pętelka mówi czułe słówka",
+    "Jadzia Pętelka robi siku",
+    "Jadzia Pętelka. Idzie na spacer",
+    "Jadzia Pętelka wita dzidziusia",
+    "Jadzia Pętelka nie odda łopatki",
+    "Biwak na działce. Staś Pętelka"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 4
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136063"
+  },
+  "title": "Harry Potter i Kamień Filozoficzny. Tom 1",
+  "year": 2015,
+  "publisher": "Media Rodzina",
+  "author": {
+    "pseudonym": "J.K.Rowlning"
+  },
+  "number_of_pages": 248,
+  "parts": [
+    "Harry Potter i Kamień Filozoficzny",
+    "Harry Potter i Komnata Tajemnic",
+    "Harry Potter i Więzień Azkabanu",
+    "Harry Potter i Czara Ognia",
+    "Harry Potter i Zakon Feniksa",
+    "Harry Potter i Książę Półkrwi",
+    "Harry Potter i Insygnia Śmierci. Część I",
+    "Harry Potter i Insygnia Śmierci. Część II"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 3
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136064"
+  },
+  "title": "Polski SOR",
+  "year": 2022,
+  "publisher": "Mando",
+  "author": {
+    "first_name": "Jan",
+    "last_name": "Światła"
+  },
+  "number_of_pages": 288,
+  "parts": [
+    "Polski SOR"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 6
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136065"
+  },
+  "title": "The Love Hypothesis",
+  "year": 2022,
+  "publisher": "Wydawnictwo MUZA S.A.",
+  "author": {
+    "first_name": "Ali",
+    "last_name": "Hazelwood"
+  },
+  "number_of_pages": 416,
+  "parts": [
+    "The Love Hypothesis"
+  ],
+  "languages": [
+    "angielski",
+    "polski"
+  ],
+  "categoryId": 14
+},{
+  "_id": {
+    "$oid": "639ccca4d2b4cb12fd136066"
+  },
+  "title": "Sekretna historia ludz... skarpetek",
+  "year": 2022,
+  "publisher": "Poradnia K.",
+  "author": {
+    "first_name": "Justyna",
+    "last_name": "Bednarek",
+    "country": "Polska",
+    "year_of_birth": 1970
+  },
+  "number_of_pages": 192,
+  "parts": [
+    "Sekretna historia ludz... skarpetek",
+    "Niesamowite przygody diesięciu skarpetek (czterech prawych i sześciu lewych)",
+    "Nowe przygody skarpetek (jeszcze bardziej niesamowite)",
+    "Skarpetka na tropie, czyli kto ukradł złoty guzik",
+    "Banda czarnej frotte. Skarpetki powracają.",
+    "Zielone piórko Zbigniewa. Skarpetki kontratakują!"
+  ],
+  "languages": [
+    "polski"
+  ],
+  "categoryId": 4
+}]

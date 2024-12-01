@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1,
+        "name": "literatura obca"
+    },
+    {
+        "_id": 2,
+        "name": "literatura polska"
+    },
+    {
+        "_id": 3,
+        "name": "literatura młodzieżowa"
+    },
+    {
+        "_id": 4,
+        "name": "literatura dziecięca"
+    },
+    {
+        "_id": 5,
+        "name": "poezja"
+    },
+    {
+        "_id": 6,
+        "name": "literatura faktu"
+    },
+    {
+        "_id": 7,
+        "name": "biografie"
+    },
+    {
+        "_id": 8,
+        "name": "literatura popularnonaukowa"
+    },
+    {
+        "_id": 9,
+        "name": "kryminał"
+    },
+    {
+        "_id": 10,
+        "name": "literatura dokumentalna"
+    },
+    {
+        "_id": 11,
+        "name": "literatura fantasy"
+    },
+    {
+        "_id": 12,
+        "name": "poradniki"
+    },
+    {
+        "_id": 13,
+        "name": "literatura historyczna"
+    },
+    {
+        "_id": 14,
+        "name": "literatura obyczajowa"
+    },
+    {
+        "_id": 15,
+        "name": "rozwój osobisty"
+    }
+]
