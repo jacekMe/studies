@@ -10,71 +10,71 @@
         "stage_1":{
             "date":"07-AUG-1990",
             "length":134,
-            "start_city":"Krynica",
-            "finish_city":"Krynica",
+            "start_city_id":1,
+            "finish_city_id":1,
             "winner":"ADAM SZAFRON"
         },
         "stage_2":{
             "date":"08-SEP-1990",
             "length":180,
-            "start_city":"Krynica",
-            "finish_city":"Krosno",
+            "start_city_id":1,
+            "finish_city_id":2,
             "winner":"GRIGORIJ ISCZENKO"
         },
         "stage_3":{
             "date":"09-SEP-1990",
             "length":166,
-            "start_city":"Krosno",
-            "finish_city":"Dębica",
+            "start_city_id":2,
+            "finish_city_id":3,
             "winner":"GRZEGORZ GRONKIEWICZ"
         },
         "stage_4":{
             "date":"10-SEP-1990",
             "length":155,
-            "start_city":"Dębica",
-            "finish_city":"Tarnów",
+            "start_city_id":3,
+            "finish_city_id":4,
             "winner":"ANDRZEJ MAKOWSKI"
         },
         "stage_5a":{
             "date":"11-SEP-1990",
             "length":10,
-            "start_city":"Jaworze",
-            "finish_city":"Gębiczyna",
+            "start_city_id":5,
+            "finish_city_id":6,
             "winner":"TOMASZ BROŻYNA"
         },
         "stage_5b":{
             "date":"11-SEP-1990",
             "length":88,
-            "start_city":"Dębica",
-            "finish_city":"Dębica",
+            "start_city_id":3,
+            "finish_city_id":3,
             "winner":"ROBERT DŁUGOSZ"
         },
         "stage_6":{
             "date":"12-SEP-1990",
             "length":105,
-            "start_city":"Parkosz",
-            "finish_city":"Gębiczyna",
+            "start_city_id":7,
+            "finish_city_id":6,
             "winner":"JAN LEŚNIEWSKI"
         },
         "stage_7":{
             "date":"13-SEP-1990",
             "length":186,
-            "start_city":"Dębica",
-            "finish_city":"Skarżysko-Kamienna",
+            "start_city_id":3,
+            "finish_city_id":8,
             "winner":"ANDRZEJ MAKOWSKI"
         },
         "stage_8":{
             "date":"14-SEP-1990",
             "length":153,
-            "start_city":"Kielce",
-            "finish_city":"Strachowice",
+            "start_city_id":9,
+            "finish_city_id":10,
             "winner":"IRENEUSZ MATUSIAK"
         },
         "stage_9":{
             "date":"15-SEP-1990",
             "length":30,
-            "start_city":"Wiśniówka",
-            "finish_city":"Wiśniówka",
+            "start_city_id":11,
+            "finish_city_id":11,
             "winner":"ANDRZEJ BARSZCZ"
         }
     },
@@ -112,64 +112,64 @@
         "prolog":{
             "date":"30-AUG-1991",
             "length":17.6,
-            "start_city":"Gdańsk",
-            "finish_city":"Gdańsk",
+            "start_city_id":12,
+            "finish_city_id":12,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_1":{
             "date":"31-AUG-1991",
             "length":175,
-            "start_city":"Gdańsk",
-            "finish_city":"Bytów",
+            "start_city_id":12,
+            "finish_city_id":13,
             "winner":"ZBIGNIEW PIĄTEK"
         },
         "stage_2":{
             "date":"01-SEP-1991",
             "length":176,
-            "start_city":"Bytów",
-            "finish_city":"Piła",
+            "start_city_id":13,
+            "finish_city_id":14,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_3":{
             "date":"02-SEP-1991",
             "length":161,
-            "start_city":"Piła",
-            "finish_city":"Stargard Szczeciński",
+            "start_city_id":14,
+            "finish_city_id":15,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_4":{
             "date":"03-SEP-1991",
             "length":140,
-            "start_city":"Stargard Szczeciński",
-            "finish_city":"Gorzów Wielkopolski",
+            "start_city_id":15,
+            "finish_city_id":16,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_5":{
             "date":"04-SEP-1991",
             "length":196,
-            "start_city":"Gorzów Wielkopolski",
-            "finish_city":"Zielona Góra",
+            "start_city_id":16,
+            "finish_city_id":17,
             "winner":"VLADIMIR PERELAZNY"
         },
         "stage_6":{
             "date":"05-SEP-1991",
             "length":168,
-            "start_city":"Zielona Góra",
-            "finish_city":"Legnica",
+            "start_city_id":17,
+            "finish_city_id":18,
             "winner":"OLAF MERKEL"
         },
         "stage_7":{
             "date":"06-SEP-1991",
             "length":185,
-            "start_city":"Legnica",
-            "finish_city":"Kalisz",
+            "start_city_id":18,
+            "finish_city_id":19,
             "winner":"MARIUSZ RYŚ"
         },
         "stage_8":{
             "date":"07-SEP-1991",
             "length":21,
-            "start_city":"Kalisz",
-            "finish_city":"Kalisz",
+            "start_city_id":19,
+            "finish_city_id":19,
             "winner":"DARIUSZ BARANOWSKI"
         }
     },
@@ -209,64 +209,64 @@
         "prolog":{
             "date":"29-AUG-1992",
             "length":12.6,
-            "start_city":"Częstochowa",
-            "finish_city":"Częstochowa",
+            "start_city_id":20,
+            "finish_city_id":20,
             "winner":"SAULIUS SARKAUSKAS"
         },
         "stage_1":{
             "date":"30-AUG-1992",
             "length":144,
-            "start_city":"Częstochowa",
-            "finish_city":"Częstochowa",
+            "start_city_id":20,
+            "finish_city_id":20,
             "winner":"GRZEGORZ PIWOWARSKI"
         },
         "stage_2":{
             "date":"31-AUG-1992",
             "length":205,
-            "start_city":"Częstochowa",
-            "finish_city":"Kielce",
+            "start_city_id":20,
+            "finish_city_id":9,
             "winner":"SŁAWOMIR FREJOWSKI"
         },
         "stage_3":{
             "date":"01-SEP-1992",
             "length":183,
-            "start_city":"Kielce",
-            "finish_city":"Wieliczka",
+            "start_city_id":9,
+            "finish_city_id":21,
             "winner":"RAIMONDAS RUMSAS"
         },
         "stage_4":{
             "date":"02-SEP-1992",
             "length":183,
-            "start_city":"Wieliczka",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":21,
+            "finish_city_id":22,
             "winner":"ARTUR KRZESZOWIEC"
         },
         "stage_5":{
             "date":"03-SEP-1992",
             "length":158,
-            "start_city":"Bielsko-Biała",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":22,
+            "finish_city_id":22,
             "winner":"DARIUSZ WOJCIECHOWSKI"
         },
         "stage_6":{
             "date":"04-SEP-1992",
             "length":147,
-            "start_city":"Bielsko-Biała",
-            "finish_city":"Rybnik",
+            "start_city_id":22,
+            "finish_city_id":23,
             "winner":"VITALI VEREVKO"
         },
         "stage_7":{
             "date":"05-SEP-1992",
             "length":130,
-            "start_city":"Rybnik",
-            "finish_city":"Nysa",
+            "start_city_id":23,
+            "finish_city_id":24,
             "winner":"KRYSTIAN ZAJDEL"
         },
         "stage_8":{
             "date":"06-SEP-1992",
             "length":39,
-            "start_city":"Nysa",
-            "finish_city":"Nysa",
+            "start_city_id":24,
+            "finish_city_id":24,
             "winner":"DARIUSZ BARANOWSKI"
         }
     },
@@ -305,92 +305,92 @@
         "prolog":{
             "date":"01-SEP-1993",
             "length":34.2,
-            "start_city":"Warszawa",
-            "finish_city":"Warszawa",
+            "start_city_id":25,
+            "finish_city_id":25,
             "winner":"REMIGIUS LUPEIKIS"
         },
         "stage_1":{
             "date":"02-SEP-1993",
             "length":144,
-            "start_city":"Otwock",
-            "finish_city":"Lublin",
+            "start_city_id":26,
+            "finish_city_id":27,
             "winner":"REMIGIUS LUPEIKIS"
         },
         "stage_2":{
             "date":"03-SEP-1993",
             "length":44,
-            "start_city":"Lublin",
-            "finish_city":"Kraśnik",
+            "start_city_id":27,
+            "finish_city_id":28,
             "winner":"REMIGIUS LUPEIKIS"
         },
         "stage_3":{
             "date":"04-SEP-1993",
             "length":152,
-            "start_city":"Kraśnik",
-            "finish_city":"Zamość",
+            "start_city_id":28,
+            "finish_city_id":29,
             "winner":"REMIGIUS LUPEIKIS"
         },
         "stage_4":{
             "date":"05-SEP-1993",
             "length":200,
-            "start_city":"Zamość",
-            "finish_city":"Rzeszów",
+            "start_city_id":29,
+            "finish_city_id":30,
             "winner":"MIRKO GUALDI"
         },
         "stage_5":{
             "date":"06-SEP-1993",
             "length":185,
-            "start_city":"Rzeszów",
-            "finish_city":"Nowy Sącz",
+            "start_city_id":30,
+            "finish_city_id":31,
             "winner":"FABIANO FONTANELLI"
         },
         "stage_6":{
             "date":"07-SEP-1993",
             "length":138,
-            "start_city":"Nowy Sącz",
-            "finish_city":"Zakopane",
+            "start_city_id":31,
+            "finish_city_id":32,
             "winner":"CEZARY ZAMANA"
         },
         "stage_7":{
             "date":"08-SEP-1993",
             "length":183,
-            "start_city":"Wadowice",
-            "finish_city":"Częstochowa",
+            "start_city_id":33,
+            "finish_city_id":20,
             "winner":"WALTER CASTIGNOLA"
         },
         "stage_8":{
             "date":"09-SEP-1993",
             "length":162,
-            "start_city":"Częstochowa",
-            "finish_city":"Kalisz",
+            "start_city_id":20,
+            "finish_city_id":19,
             "winner":"REMIGIUS LUPEIKIS"
         },
         "stage_9":{
             "date":"10-SEP-1993",
             "length":195,
-            "start_city":"Kalisz",
-            "finish_city":"Poznań",
+            "start_city_id":19,
+            "finish_city_id":34,
             "winner":"MAREK WRONA"
         },
         "stage_10":{
             "date":"11-SEP-1993",
             "length":46,
-            "start_city":"Gniezno",
-            "finish_city":"Gniezno",
+            "start_city_id":35,
+            "finish_city_id":35,
             "winner":"MAREK LEŚNIEWSKI"
         },
         "stage_11":{
             "date":"12-SEP-1993",
             "length":106,
-            "start_city":"Gniezno",
-            "finish_city":"Bydgoszcz",
+            "start_city_id":35,
+            "finish_city_id":36,
             "winner":"CEZARY ZAMANA"
         },
         "stage_12":{
             "date":"13-SEP-1993",
             "length":165,
-            "start_city":"Bydgoszcz",
-            "finish_city":"Płock",
+            "start_city_id":36,
+            "finish_city_id":37,
             "winner":"JONAS ROMANOVAS"
         }
     },
@@ -431,57 +431,57 @@
         "prolog":{
             "date":"04-SEP-1994",
             "length":null,
-            "start_city":"Wrocław",
-            "finish_city":"Wrocław",
+            "start_city_id":38,
+            "finish_city_id":38,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_1":{
             "date":"05-SEP-1994",
             "length":180,
-            "start_city":"Wrocław",
-            "finish_city":"Legnica",
+            "start_city_id":38,
+            "finish_city_id":18,
             "winner":"MARCO LIETTI"
         },
         "stage_2":{
             "date":"06-SEP-1994",
             "length":179,
-            "start_city":"Legnica",
-            "finish_city":"Polanica-Zdrój",
+            "start_city_id":18,
+            "finish_city_id":39,
             "winner":"MAURIZIO FONDRIEST"
         },
         "stage_3":{
             "date":"07-SEP-1994",
             "length":196,
-            "start_city":"Polanica-Zdrój",
-            "finish_city":"Rybnik",
+            "start_city_id":39,
+            "finish_city_id":23,
             "winner":"WALTER CASTIGNOLA"
         },
         "stage_4":{
             "date":"08-SEP-1994",
             "length":173,
-            "start_city":"Rybnik",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":23,
+            "finish_city_id":22,
             "winner":"QUINTINO RODRIGUES"
         },
         "stage_5":{
             "date":"09-SEP-1994",
             "length":169,
-            "start_city":"Olkusz",
-            "finish_city":"Kielce",
+            "start_city_id":40,
+            "finish_city_id":9,
             "winner":"JACEK MICKIEWICZ"
         },
         "stage_6":{
             "date":"10-SEP-1994",
             "length":38,
-            "start_city":"Kielce",
-            "finish_city":"Kielce",
+            "start_city_id":9,
+            "finish_city_id":9,
             "winner":"MAURIZIO FONDRIEST"
         },
         "stage_7":{
             "date":"11-SEP-1994",
             "length":175,
-            "start_city":"Końskie",
-            "finish_city":"Warszawa",
+            "start_city_id":41,
+            "finish_city_id":25,
             "winner":"FRANKIE ANDREU"
         }
     },
@@ -521,64 +521,64 @@
         "stage_1":{
             "date":"02-SEP-1995",
             "length":140,
-            "start_city":"Zgierz",
-            "finish_city":"Płock",
+            "start_city_id":42,
+            "finish_city_id":37,
             "winner":"STEVEN DE JONGH"
         },
         "stage_2":{
             "date":"03-SEP-1995",
             "length":150,
-            "start_city":"Skierniewice",
-            "finish_city":"Radom",
+            "start_city_id":43,
+            "finish_city_id":44,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_3":{
             "date":"04-SEP-1995",
             "length":134,
-            "start_city":"Urzędów",
-            "finish_city":"Zamość",
+            "start_city_id":45,
+            "finish_city_id":29,
             "winner":"ANDRIS NAUDUZS"
         },
         "stage_4":{
             "date":"05-SEP-1995",
             "length":15.5,
-            "start_city":"Zamość",
-            "finish_city":"Zamość",
+            "start_city_id":29,
+            "finish_city_id":29,
             "winner":"EDDY GRAGUS"
         },
         "stage_5":{
             "date":"06-SEP-1995",
             "length":127,
-            "start_city":"Przeworsk",
-            "finish_city":"Sanok",
+            "start_city_id":46,
+            "finish_city_id":47,
             "winner":"SŁAWOMIR CHRZANOWSKI"
         },
         "stage_6":{
             "date":"07-SEP-1995",
             "length":225,
-            "start_city":"Sanok",
-            "finish_city":"Sanok",
+            "start_city_id":47,
+            "finish_city_id":47,
             "winner":"DAVIDE BRAMATI"
         },
         "stage_7":{
             "date":"08-SEP-1995",
             "length":171,
-            "start_city":"Nowy Sącz",
-            "finish_city":"Zakopane",
+            "start_city_id":31,
+            "finish_city_id":32,
             "winner":"MARIANO PICCOLI"
         },
         "stage_8":{
             "date":"09-SEP-1995",
             "length":159,
-            "start_city":"Bielsko-Biała",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":22,
+            "finish_city_id":22,
             "winner":"QUINTINO RODRIGUES"
         },
         "stage_9":{
             "date":"10-SEP-1995",
             "length":114.3,
-            "start_city":"Warszawa",
-            "finish_city":"Warszawa",
+            "start_city_id":25,
+            "finish_city_id":25,
             "winner":"MARIANO PICCOLI"
         }
     },
@@ -618,57 +618,57 @@
         "stage_1":{
             "date":"08-SEP-1996",
             "length":103,
-            "start_city":"Szczecin",
-            "finish_city":"Szczecin",
+            "start_city_id":48,
+            "finish_city_id":48,
             "winner":"VASSILI DAVIDENKO"
         },
         "stage_2":{
             "date":"09-SEP-1996",
             "length":184,
-            "start_city":"Szczecin",
-            "finish_city":"Gorzów Wielkopolski",
+            "start_city_id":48,
+            "finish_city_id":16,
             "winner":"FEDERICO COLONNA"
         },
         "stage_3":{
             "date":"10-SEP-1996",
             "length":212,
-            "start_city":"Lubniewice",
-            "finish_city":"Polkowice",
+            "start_city_id":49,
+            "finish_city_id":50,
             "winner":"VIATCHESLAV DJAVANIAN"
         },
         "stage_4":{
             "date":"11-SEP-1996",
             "length":162,
-            "start_city":"Legnica",
-            "finish_city":"Karpacz",
+            "start_city_id":18,
+            "finish_city_id":51,
             "winner":"VIATCHESLAV DJAVANIAN"
         },
         "stage_5":{
             "date":"12-SEP-1996",
             "length":179,
-            "start_city":"Karpacz",
-            "finish_city":"Karpacz",
+            "start_city_id":51,
+            "finish_city_id":51,
             "winner":"VALENTINO FOIS"
         },
         "stage_6":{
             "date":"13-SEP-1996",
             "length":140,
-            "start_city":"Kłodzko",
-            "finish_city":"Opole",
+            "start_city_id":52,
+            "finish_city_id":53,
             "winner":"YOSHIYUKI ABE"
         },
         "stage_7":{
             "date":"14-SEP-1996",
             "length":152,
-            "start_city":"Opole",
-            "finish_city":"Częstochowa",
+            "start_city_id":53,
+            "finish_city_id":20,
             "winner":"GIANPAOLO MONDINI"
         },
         "stage_8":{
             "date":"15-SEP-1996",
             "length":54,
-            "start_city":"Bełchatów",
-            "finish_city":"Bełchatów",
+            "start_city_id":54,
+            "finish_city_id":54,
             "winner":"MAURIZIO FONDRIEST"
         }
     },
@@ -706,57 +706,57 @@
         "stage_1":{
             "date":"07-SEP-1997",
             "length":168.5,
-            "start_city":"Kołczygłowy",
-            "finish_city":"Słupsk",
+            "start_city_id":55,
+            "finish_city_id":56,
             "winner":"LAURI AUS"
         },
         "stage_2":{
             "date":"08-SEP-1997",
             "length":250,
-            "start_city":"Bytów",
-            "finish_city":"Inowrocław",
+            "start_city_id":13,
+            "finish_city_id":57,
             "winner":"EMANUELE LUPI"
         },
         "stage_3":{
             "date":"09-SEP-1997",
             "length":196,
-            "start_city":"Radziejów",
-            "finish_city":"Bełchatów",
+            "start_city_id":58,
+            "finish_city_id":54,
             "winner":"JAAN KIRISPUU"
         },
         "stage_4":{
             "date":"10-SEP-1997",
             "length":234,
-            "start_city":"Radomsko",
-            "finish_city":"Jastrzębie-Zdrój",
+            "start_city_id":59,
+            "finish_city_id":60,
             "winner":"JAAN KIRISPUU"
         },
         "stage_5":{
             "date":"11-SEP-1997",
             "length":163.5,
-            "start_city":"Wisła",
-            "finish_city":"Cieszyn",
+            "start_city_id":61,
+            "finish_city_id":62,
             "winner":"SIMONE BERTOLETTI"
         },
         "stage_6":{
             "date":"12-SEP-1997",
             "length":186,
-            "start_city":"Bielsko-Biała",
-            "finish_city":"Zakopane",
+            "start_city_id":22,
+            "finish_city_id":32,
             "winner":"DMITRI KONYCHEV"
         },
         "stage_7":{
             "date":"13-SEP-1997",
             "length":198,
-            "start_city":"Nowy Targ",
-            "finish_city":"Wieliczka",
+            "start_city_id":63,
+            "finish_city_id":21,
             "winner":"MARKUS ZBERG"
         },
         "stage_8":{
             "date":"14-SEP-1997",
             "length":39.5,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"DARIO ANDRIOTTO"
         }
     },
@@ -812,57 +812,57 @@
         "stage_1":{
             "date":"06-SEP-1998",
             "length":198,
-            "start_city":"Słupsk",
-            "finish_city":"Słupsk",
+            "start_city_id":56,
+            "finish_city_id":56,
             "winner":"ZBIGNIEW SPRUCH"
         },
         "stage_2":{
             "date":"07-SEP-1998",
             "length":250,
-            "start_city":"Bytów",
-            "finish_city":"Słupsk",
+            "start_city_id":13,
+            "finish_city_id":56,
             "winner":"DANILO HONDO"
         },
         "stage_3":{
             "date":"08-SEP-1998",
             "length":196,
-            "start_city":"Radziejów",
-            "finish_city":"Bełchatów",
+            "start_city_id":59,
+            "finish_city_id":54,
             "winner":"SŁAWOMIR CHRZANOWSKI"
         },
         "stage_4":{
             "date":"09-SEP-1998",
             "length":234,
-            "start_city":"Radomsko",
-            "finish_city":"Jastrzębie-Zdrój",
+            "start_city_id":59,
+            "finish_city_id":60,
             "winner":"ARTUR KRZESZOWIEC"
         },
         "stage_5":{
             "date":"10-SEP-1998",
             "length":175,
-            "start_city":"Wisła",
-            "finish_city":"Cieszyn",
+            "start_city_id":61,
+            "finish_city_id":62,
             "winner":"SERGEI IVANOV"
         },
         "stage_6":{
             "date":"11-SEP-1998",
             "length":186,
-            "start_city":"Bielsko-Biała",
-            "finish_city":"Zakopane",
+            "start_city_id":22,
+            "finish_city_id":32,
             "winner":"ALEXANDRE VINOKOUROV"
         },
         "stage_7":{
             "date":"12-SEP-1998",
             "length":174,
-            "start_city":"Rabka",
-            "finish_city":"Wieliczka",
+            "start_city_id":65,
+            "finish_city_id":21,
             "winner":"JACKY DURAND"
         },
         "stage_8":{
             "date":"13-SEP-1998",
             "length":30,
-            "start_city":"Wieliczka",
-            "finish_city":"Wieliczka",
+            "start_city_id":21,
+            "finish_city_id":21,
             "winner":"SERGEI IVANOV"
         }
     },
@@ -917,50 +917,50 @@
         "stage_1":{
             "date":"06-SEP-1999",
             "length":188,
-            "start_city":"Elbląg",
-            "finish_city":"Elbląg",
+            "start_city_id":66,
+            "finish_city_id":66,
             "winner":"GIANPAOLO MONDINI"
         },
         "stage_2":{
             "date":"07-SEP-1999",
             "length":173.5,
-            "start_city":"Malbork",
-            "finish_city":"Toruń",
+            "start_city_id":67,
+            "finish_city_id":68,
             "winner":"MASSIMO STRAZZER"
         },
         "stage_3":{
             "date":"08-SEP-1999",
             "length":200,
-            "start_city":"Ciechocinek",
-            "finish_city":"Kalisz",
+            "start_city_id":69,
+            "finish_city_id":19,
             "winner":"JAAN KIRISPUU"
         },
         "stage_4":{
             "date":"09-SEP-1999",
             "length":240,
-            "start_city":"Ostrów Wielkopolski",
-            "finish_city":"Jelenia Góra",
+            "start_city_id":70,
+            "finish_city_id":71,
             "winner":"ARTUR KRASIŃSKI"
         },
         "stage_5":{
             "date":"10-SEP-1999",
             "length":168,
-            "start_city":"Szczawno-Zdrój",
-            "finish_city":"Wałbrzych",
+            "start_city_id":72,
+            "finish_city_id":73,
             "winner":"PIOTR WADECKI"
         },
         "stage_6":{
             "date":"11-SEP-1999",
             "length":171.5,
-            "start_city":"Szklarska Poręba",
-            "finish_city":"Karpacz",
+            "start_city_id":74,
+            "finish_city_id":51,
             "winner":"RAIMONDAS RUMSAS"
         },
         "stage_7":{
             "date":"12-SEP-1999",
             "length":23,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"RAIMONDAS RUMSAS"
         }
     },
@@ -1009,50 +1009,50 @@
         "stage_1":{
             "date":"04-SEP-2000",
             "length":183,
-            "start_city":"Braniewo",
-            "finish_city":"Elbląg",
+            "start_city_id":76,
+            "finish_city_id":66,
             "winner":"PIOTR WADECKI"
         },
         "stage_2":{
             "date":"05-SEP-2000",
             "length":171.5,
-            "start_city":"Malbork",
-            "finish_city":"Toruń",
+            "start_city_id":67,
+            "finish_city_id":68,
             "winner":"JAAN KIRISPUU"
         },
         "stage_3":{
             "date":"06-SEP-2000",
             "length":192.5,
-            "start_city":"Inowrocław",
-            "finish_city":"Kalisz",
+            "start_city_id":57,
+            "finish_city_id":19,
             "winner":"JAAN KIRISPUU"
         },
         "stage_4":{
             "date":"07-SEP-2000",
             "length":240,
-            "start_city":"Ostrów Wielkopolski",
-            "finish_city":"Jelenia Góra",
+            "start_city_id":70,
+            "finish_city_id":71,
             "winner":"JAAN KIRISPUU"
         },
         "stage_5":{
             "date":"08-SEP-2000",
             "length":188,
-            "start_city":"Szczawno-Zdrój",
-            "finish_city":"Wałbrzych",
+            "start_city_id":72,
+            "finish_city_id":73,
             "winner":"MARCO PINOTTI"
         },
         "stage_6":{
             "date":"09-SEP-2000",
             "length":173,
-            "start_city":"Szklarska Poręba",
-            "finish_city":"Karpacz",
+            "start_city_id":74,
+            "finish_city_id":51,
             "winner":"SERGEI IVANOV"
         },
         "stage_7":{
             "date":"10-SEP-2000",
             "length":23,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"SERGEI IVANOV"
         }
     },
@@ -1098,57 +1098,57 @@
         "stage_1":{
             "date":"03-SEP-2001",
             "length":178,
-            "start_city":"Gdańsk",
-            "finish_city":"Sopot",
+            "start_city_id":12,
+            "finish_city_id":77,
             "winner":"JAAN KIRISPUU"
         },
         "stage_2":{
             "date":"04-SEP-2001",
             "length":246.5,
-            "start_city":"Gdynia",
-            "finish_city":"Koszalin",
+            "start_city_id":78,
+            "finish_city_id":79,
             "winner":"ANGELO FURLAN"
         },
         "stage_3":{
             "date":"05-SEP-2001",
             "length":178,
-            "start_city":"Kołobrzeg",
-            "finish_city":"Szczecin",
+            "start_city_id":80,
+            "finish_city_id":48,
             "winner":"BOGDAN BONDARIEW"
         },
         "stage_4":{
             "date":"06-SEP-2001",
             "length":256,
-            "start_city":"Stargard",
-            "finish_city":"Zielona Góra",
+            "start_city_id":81,
+            "finish_city_id":17,
             "winner":"ALESSANDRO PETACCHI"
         },
         "stage_5":{
             "date":"07-SEP-2001",
             "length":160.5,
-            "start_city":"Kożuchów",
-            "finish_city":"Szklarska Poręba",
+            "start_city_id":82,
+            "finish_city_id":74,
             "winner":"PIOTR CHMIELEWSKI"
         },
         "stage_6":{
             "date":"08-SEP-2001",
             "length":150,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"JENS VOIGT"
         },
-        "stage_7":{
+        "stage_7a":{
             "date":"09-SEP-2001",
             "length":61,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"VLADISLAV BORISOV"
         },
-        "stage_7":{
+        "stage_7b":{
             "date":"09-SEP-2001",
             "length":19,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"ONDREJ SOSENKA"
         }
     },
@@ -1199,57 +1199,57 @@
         "stage_1":{
             "date":"09-SEP-2002",
             "length":178,
-            "start_city":"Gdańsk",
-            "finish_city":"Sopot",
+            "start_city_id":12,
+            "finish_city_id":77,
             "winner":"ROBERT HUNTER"
         },
         "stage_2":{
             "date":"10-SEP-2002",
             "length":246.5,
-            "start_city":"Gdynia",
-            "finish_city":"Koszalin",
+            "start_city_id":78,
+            "finish_city_id":79,
             "winner":"ANDRUS AUG"
         },
         "stage_3":{
             "date":"11-SEP-2002",
             "length":178,
-            "start_city":"Kołobrzeg",
-            "finish_city":"Szczecin",
+            "start_city_id":80,
+            "finish_city_id":48,
             "winner":"JANEK TOMBAK"
         },
         "stage_4":{
             "date":"12-SEP-2002",
             "length":256,
-            "start_city":"Stargard",
-            "finish_city":"Zielona Góra",
+            "start_city_id":81,
+            "finish_city_id":17,
             "winner":"REMIGIUS LUPEIKIS"
         },
         "stage_5":{
             "date":"13-SEP-2002",
             "length":185,
-            "start_city":"Kożuchów",
-            "finish_city":"Szklarska Poręba",
+            "start_city_id":82,
+            "finish_city_id":74,
             "winner":"FRANCO PELLIZOTTI"
         },
         "stage_6":{
             "date":"14-SEP-2002",
             "length":150,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"CEZARY ZAMANA"
         },
-        "stage_7":{
+        "stage_7a":{
             "date":"15-SEP-2002",
             "length":61,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"LAURENT BROCHARD"
         },
-        "stage_7":{
+        "stage_7b":{
             "date":"15-SEP-2002",
             "length":19,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"ONDREJ SOSENKA"
         }
     },
@@ -1299,57 +1299,57 @@
         "stage_1":{
             "date":"08-SEP-2003",
             "length":168.5,
-            "start_city":"Gdańsk",
-            "finish_city":"Gdynia",
+            "start_city_id":12,
+            "finish_city_id":78,
             "winner":"SIMONE CADAMURO"
         },
         "stage_2":{
             "date":"09-SEP-2003",
             "length":202,
-            "start_city":"Tczew",
-            "finish_city":"Olsztyn",
+            "start_city_id":83,
+            "finish_city_id":84,
             "winner":"FABIO BALDATO"
         },
         "stage_3":{
             "date":"10-SEP-2003",
             "length":204,
-            "start_city":"Ostróda",
-            "finish_city":"Bydgoszcz",
+            "start_city_id":85,
+            "finish_city_id":36,
             "winner":"DANIELE BENNATI"
         },
         "stage_4":{
             "date":"11-SEP-2003",
             "length":183,
-            "start_city":"Inowrocław",
-            "finish_city":"Kalisz",
+            "start_city_id":57,
+            "finish_city_id":19,
             "winner":"SEBASTIEN HINAULT"
         },
         "stage_5":{
             "date":"12-SEP-2003",
             "length":229,
-            "start_city":"Oleśnica",
-            "finish_city":"Szklarska Poręba",
+            "start_city_id":86,
+            "finish_city_id":74,
             "winner":"RUGGERO MARZOLI"
         },
         "stage_6":{
             "date":"13-SEP-2003",
             "length":166.5,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"CEZARY ZAMANA"
         },
-        "stage_7":{
+        "stage_7a":{
             "date":"14-SEP-2003",
             "length":61,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"HAYDEN ROULSTON"
         },
-        "stage_7":{
+        "stage_7b":{
             "date":"14-SEP-2003",
             "length":19,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"ALBERTO CONTADOR"
         }
     },
@@ -1398,57 +1398,57 @@
         "stage_1":{
             "date":"06-SEP-2004",
             "length":174.5,
-            "start_city":"Gdańsk",
-            "finish_city":"Gdynia",
+            "start_city_id":12,
+            "finish_city_id":78,
             "winner":"FABIO BALDATO"
         },
         "stage_2":{
             "date":"07-SEP-2004",
             "length":227.5,
-            "start_city":"Tczew",
-            "finish_city":"Olsztyn",
+            "start_city_id":83,
+            "finish_city_id":84,
             "winner":"MARCIN SAPA"
         },
         "stage_3":{
             "date":"08-SEP-2004",
             "length":204,
-            "start_city":"Ostróda",
-            "finish_city":"Bydgoszcz",
+            "start_city_id":85,
+            "finish_city_id":36,
             "winner":"ALLAN DAVIS"
         },
         "stage_4":{
             "date":"09-SEP-2004",
             "length":183,
-            "start_city":"Inowrocław",
-            "finish_city":"Kalisz",
+            "start_city_id":57,
+            "finish_city_id":19,
             "winner":"FABIO BALDATO"
         },
         "stage_5":{
             "date":"10-SEP-2004",
             "length":229,
-            "start_city":"Oleśnica",
-            "finish_city":"Szklarska Poręba",
+            "start_city_id":86,
+            "finish_city_id":74,
             "winner":"RINALDO NOCENTINI"
         },
         "stage_6":{
             "date":"11-SEP-2004",
             "length":166.5,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"MAREK RUTKIEWICZ"
         },
-        "stage_7":{
+        "stage_7a":{
             "date":"12-SEP-2004",
             "length":61,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"HUGO SABIDO"
         },
-        "stage_7":{
+        "stage_7b":{
             "date":"12-SEP-2004",
             "length":19,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"ONDREJ SOSENKA"
         }
     },
@@ -1498,57 +1498,57 @@
         "stage_1":{
             "date":"12-SEP-2005",
             "length":149.6,
-            "start_city":"Gdańsk",
-            "finish_city":"Elbląg",
+            "start_city_id":12,
+            "finish_city_id":66,
             "winner":"BADEN COOKE"
         },
         "stage_2":{
             "date":"13-SEP-2005",
             "length":226.5,
-            "start_city":"Tczew",
-            "finish_city":"Olsztyn",
+            "start_city_id":83,
+            "finish_city_id":84,
             "winner":"DANIELE BENNATI"
         },
         "stage_3":{
             "date":"14-SEP-2005",
             "length":212,
-            "start_city":"Ostróda",
-            "finish_city":"Bydgoszcz",
+            "start_city_id":85,
+            "finish_city_id":36,
             "winner":"JAAN KIRISPUU"
         },
         "stage_4":{
             "date":"15-SEP-2005",
             "length":213.4,
-            "start_city":"Inowrocław",
-            "finish_city":"Leszno",
+            "start_city_id":57,
+            "finish_city_id":87,
             "winner":"DANIELE BENNATI"
         },
         "stage_5":{
             "date":"16-SEP-2005",
             "length":212,
-            "start_city":"Wrocław",
-            "finish_city":"Szklarska Poręba",
+            "start_city_id":38,
+            "finish_city_id":74,
             "winner":"FABIAN WEGMANN"
         },
         "stage_6":{
             "date":"17-SEP-2005",
             "length":153,
-            "start_city":"Piechowice",
-            "finish_city":"Karpacz",
+            "start_city_id":75,
+            "finish_city_id":51,
             "winner":"PIETER WEENING"
         },
-        "stage_7":{
+        "stage_7a":{
             "date":"18-SEP-2005",
             "length":61,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"KIM KIRCHEN"
         },
-        "stage_8":{
-            "date":"19-SEP-2005",
+        "stage_7b":{
+            "date":"18-SEP-2005",
             "length":19,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"THOMAS DEKKER"
         }
     },
@@ -1600,50 +1600,50 @@
         "stage_1":{
             "date":"04-SEP-2006",
             "length":214,
-            "start_city":"Pułtusk",
-            "finish_city":"Olsztyn",
+            "start_city_id":88,
+            "finish_city_id":84,
             "winner":"MAX VAN HEESWIJK"
         },
         "stage_2":{
             "date":"05-SEP-2006",
             "length":119.6,
-            "start_city":"Ostróda",
-            "finish_city":"Elbląg",
+            "start_city_id":85,
+            "finish_city_id":66,
             "winner":"DANIELE BENNATI"
         },
         "stage_3":{
             "date":"06-SEP-2006",
             "length":225.5,
-            "start_city":"Gdańsk",
-            "finish_city":"Toruń",
+            "start_city_id":12,
+            "finish_city_id":68,
             "winner":"FABRIZIO GUIDI"
         },
         "stage_4":{
             "date":"07-SEP-2006",
             "length":182,
-            "start_city":"Bydgoszcz",
-            "finish_city":"Poznań",
+            "start_city_id":36,
+            "finish_city_id":34,
             "winner":"DANIELE BENNATI"
         },
         "stage_5":{
             "date":"08-SEP-2006",
             "length":192,
-            "start_city":"Legnica",
-            "finish_city":"Jelenia Góra",
+            "start_city_id":18,
+            "finish_city_id":71,
             "winner":"STEPHANE AUGE"
         },
         "stage_6":{
             "date":"09-SEP-2006",
             "length":162.4,
-            "start_city":"Szczawno-Zdrój",
-            "finish_city":"Karpacz",
+            "start_city_id":72,
+            "finish_city_id":51,
             "winner":"STEFAN SCHUMACHER"
         },
         "stage_7":{
             "date":"10-SEP-2006",
             "length":126,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"STEFAN SCHUMACHER"
         }
     },
@@ -1697,50 +1697,50 @@
         "stage_1":{
             "date":"09-SEP-2007",
             "length":3,
-            "start_city":"Warszawa",
-            "finish_city":"Warszawa",
+            "start_city_id":25,
+            "finish_city_id":25,
             "winner":"Lampre-Fondital"
         },
         "stage_2":{
             "date":"10-SEP-2007",
             "length":202,
-            "start_city":"Płońsk",
-            "finish_city":"Olsztyn",
+            "start_city_id":89,
+            "finish_city_id":84,
             "winner":"GRAEME ALLEN BROWN"
         },
         "stage_3":{
             "date":"11-SEP-2007",
             "length":192,
-            "start_city":"Ostróda",
-            "finish_city":"Gdańsk",
+            "start_city_id":85,
+            "finish_city_id":12,
             "winner":"DAVID KOPP"
         },
         "stage_4":{
             "date":"12-SEP-2007",
             "length":242,
-            "start_city":"Chojnice",
-            "finish_city":"Poznań",
+            "start_city_id":90,
+            "finish_city_id":34,
             "winner":"DANILO NAPOLITANO"
         },
         "stage_5":{
             "date":"13-SEP-2007",
             "length":256,
-            "start_city":"Września",
-            "finish_city":"Świdnica",
+            "start_city_id":91,
+            "finish_city_id":92,
             "winner":"MURILO ANTONIO FISCHER"
         },
         "stage_6":{
             "date":"14-SEP-2007",
             "length":181,
-            "start_city":"Dzierżoniów",
-            "finish_city":"Jelenia Góra",
+            "start_city_id":93,
+            "finish_city_id":71,
             "winner":"FILIPPO POZZATO"
         },
         "stage_7":{
             "date":"15-SEP-2007",
             "length":148,
-            "start_city":"Jelenia Góra",
-            "finish_city":"Karpacz",
+            "start_city_id":71,
+            "finish_city_id":51,
             "winner":"JOHAN VANSUMMEREN"
         }
     },
@@ -1793,43 +1793,43 @@
         "stage_1":{
             "date":"14-SEP-2008",
             "length":4,
-            "start_city":"Warszawa",
-            "finish_city":"Warszawa",
+            "start_city_id":25,
+            "finish_city_id":25,
             "winner":"Team CSC SaxoBank"
         },
         "stage_2":{
             "date":"15-SEP-2008",
             "length":231.2,
-            "start_city":"Płock",
-            "finish_city":"Olsztyn",
+            "start_city_id":37,
+            "finish_city_id":84,
             "winner":"ALLAN DAVIS"
         },
         "stage_3":{
             "date":"16-SEP-2008",
             "length":184.8,
-            "start_city":"Mikołajki",
-            "finish_city":"Białystok",
+            "start_city_id":94,
+            "finish_city_id":98,
             "winner":"ANGELO FURLAN"
         },
         "stage_4":{
             "date":"18-SEP-2008",
             "length":239.7,
-            "start_city":"Nałęczów",
-            "finish_city":"Rzeszów",
+            "start_city_id":95,
+            "finish_city_id":30,
             "winner":"JURGEN ROELANDTS"
         },
         "stage_5":{
             "date":"19-SEP-2008",
             "length":118,
-            "start_city":"Krynica Górska",
-            "finish_city":"Zakopane",
+            "start_city_id":96,
+            "finish_city_id":32,
             "winner":"JENS VOIGT"
         },
         "stage_6":{
             "date":"20-SEP-2008",
             "length":95.4,
-            "start_city":"Rabka",
-            "finish_city":"Kraków",
+            "start_city_id":65,
+            "finish_city_id":64,
             "winner":"ROBERT FORSTER"
         }
     },
@@ -1884,50 +1884,50 @@
         "stage_1":{
             "date":"02-AUG-2009",
             "length":108,
-            "start_city":"Warszawa",
-            "finish_city":"Warszawa",
+            "start_city_id":25,
+            "finish_city_id":25,
             "winner":"BORUT BOZIC"
         },
         "stage_2":{
             "date":"03-AUG-2009",
             "length":219.1,
-            "start_city":"Serock",
-            "finish_city":"Białystok",
+            "start_city_id":97,
+            "finish_city_id":98,
             "winner":"ANGELO FURLAN"
         },
         "stage_3":{
             "date":"04-AUG-2009",
             "length":225.1,
-            "start_city":"Bielsk Podlaski",
-            "finish_city":"Lublin",
+            "start_city_id":99,
+            "finish_city_id":27,
             "winner":"JACOPO GUARNIERI"
         },
         "stage_4":{
             "date":"05-AUG-2009",
             "length":239.7,
-            "start_city":"Nałęczów",
-            "finish_city":"Rzeszów",
+            "start_city_id":95,
+            "finish_city_id":30,
             "winner":"EDVALD BOASSON HAGEN"
         },
         "stage_5":{
             "date":"06-AUG-2009",
             "length":171.5,
-            "start_city":"Strzyżów",
-            "finish_city":"Krynica-Zdrój",
+            "start_city_id":100,
+            "finish_city_id":101,
             "winner":"ALESSANDRO BALLAN"
         },
         "stage_6":{
             "date":"07-AUG-2009",
             "length":162.2,
-            "start_city":"Krościenko nad Dunajcem",
-            "finish_city":"Zakopane",
+            "start_city_id":102,
+            "finish_city_id":32,
             "winner":"EDVALD BOASSON HAGEN"
         },
         "stage_7":{
             "date":"08-AUG-2009",
             "length":136.5,
-            "start_city":"Rabka Zdrój",
-            "finish_city":"Kraków",
+            "start_city_id":103,
+            "finish_city_id":64,
             "winner":"ANDRE GREIPEL"
         }
     },
@@ -1981,51 +1981,51 @@
         "stage_1":{
             "date":"01-AUG-2010",
             "length":175.1,
-            "start_city":"Sochaczew",
-            "finish_city":"Warszawa",
+            "start_city_id":104,
+            "finish_city_id":25,
             "winner":"JACOPO GUARNIERI"
         },
         "stage_2":{
             "date":"02-AUG-2010",
             "length":240,
-            "start_city":"Rawa Mazowiecka",
-            "finish_city":"Częstochowa",
+            "start_city_id":105,
+            "finish_city_id":20,
             "winner":"ANDRE GREIPEL"
         },
         "stage_3":{
             "date":"03-AUG-2010",
             "length":122.1,
-            "start_city":"Sosnowiec",
-            "finish_city":"Katowice",
+            "start_city_id":106,
+            "finish_city_id":107,
             "winner":"YAUHENI HUTAROVICH"
         },
         "stage_4":{
             "date":"04-AUG-2010",
             "length":177.9,
-            "start_city":"Tychy",
-            "finish_city":"Cieszyn",
+            "start_city_id":108,
+            "finish_city_id":62,
             "winner":"MIRCO LORENZETTO"
         },
         "stage_5":{
             "date":"05-AUG-2010",
             "length":149,
-            "start_city":"Jastrzębie-Zdrój",
-            "finish_city":"Ustroń",
+            "start_city_id":60,
+            "finish_city_id":109,
             "winner":"DAN MARTIN"
         },
         "stage_6":{
             "date":"06-AUG-2010",
             "length":228.5,
-            "start_city":"Oświęcim",
-            "finish_city":"Bukowina Tatrzańska",
-            "winner":""
+            "start_city_id":110,
+            "finish_city_id":111,
+            "winner":"BAUKE MOLLEMA"
         },
         "stage_7":{
             "date":"07-AUG-2010",
             "length":163.9,
-            "start_city":"Nowy Targ",
-            "finish_city":"Kraków",
-            "winner":""
+            "start_city_id":63,
+            "finish_city_id":64,
+            "winner":"ANDRE GREIPEL"
         }
     },
     "total_length":1256.5,
@@ -2079,50 +2079,50 @@
         "stage_1":{
             "date":"31-JUL-2011",
             "length":101.5,
-            "start_city":"Pruszków",
-            "finish_city":"Warszawa",
+            "start_city_id":112,
+            "finish_city_id":25,
             "winner":"MARCEL KITTEL"
         },
         "stage_2":{
             "date":"01-AUG-2011",
             "length":159.6,
-            "start_city":"Częstochowa",
-            "finish_city":"Dąbrowa Górnicza",
+            "start_city_id":20,
+            "finish_city_id":113,
             "winner":"MARCEL KITTEL"
         },
         "stage_3":{
             "date":"02-AUG-2011",
             "length":135.7,
-            "start_city":"Będzin",
-            "finish_city":"Katowice",
+            "start_city_id":114,
+            "finish_city_id":107,
             "winner":"MARCEL KITTEL"
         },
         "stage_4":{
             "date":"03-AUG-2011",
             "length":176.9,
-            "start_city":"Oświęcim",
-            "finish_city":"Cieszyn",
+            "start_city_id":110,
+            "finish_city_id":62,
             "winner":"PETER SAGAN"
         },
         "stage_5":{
             "date":"04-AUG-2011",
             "length":201.5,
-            "start_city":"Zakopane",
-            "finish_city":"Zakopane",
+            "start_city_id":32,
+            "finish_city_id":32,
             "winner":"PETER SAGAN"
         },
         "stage_6":{
             "date":"05-AUG-2011",
             "length":207.7,
-            "start_city":"Terma Bukowina",
-            "finish_city":"Terma Bukowina",
+            "start_city_id":115,
+            "finish_city_id":115,
             "winner":"DAN MARTIN"
         },
         "stage_7":{
             "date":"06-AUG-2011",
             "length":128,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"MARCEL KITTEL"
         }
     },
@@ -2176,50 +2176,50 @@
         "stage_1":{
             "date":"10-JUL-2012",
             "length":179.5,
-            "start_city":"Karpacz",
-            "finish_city":"Jelenia Góra",
+            "start_city_id":51,
+            "finish_city_id":71,
             "winner":"MORENO MOSER"
         },
         "stage_2":{
             "date":"11-JUL-2012",
             "length":239.4,
-            "start_city":"Wałbrzych",
-            "finish_city":"Opole",
+            "start_city_id":73,
+            "finish_city_id":53,
             "winner":"BEN SWIFT"
         },
         "stage_3":{
             "date":"12-JUL-2012",
             "length":201.7,
-            "start_city":"Kędzierzyn Koźle",
-            "finish_city":"Cieszyn",
+            "start_city_id":116,
+            "finish_city_id":62,
             "winner":"ZDENEK STYBAR"
         },
         "stage_4":{
             "date":"13-JUL-2012",
             "length":124.7,
-            "start_city":"Będzin",
-            "finish_city":"Katowice",
+            "start_city_id":114,
+            "finish_city_id":107,
             "winner":"AIDIS KRUOPIS"
         },
         "stage_5":{
             "date":"14-JUL-2012",
             "length":163.1,
-            "start_city":"Rabka",
-            "finish_city":"Zakopane",
+            "start_city_id":65,
+            "finish_city_id":32,
             "winner":"BEN SWIFT"
         },
         "stage_6":{
             "date":"15-JUL-2012",
             "length":191.8,
-            "start_city":"Terma Bukowina",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":115,
+            "finish_city_id":111,
             "winner":"MORENO MOSER"
         },
         "stage_7":{
             "date":"16-JUL-2012",
             "length":131.4,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"JOHN DEGENKOLB"
         }
     },
@@ -2276,50 +2276,50 @@
         "stage_1":{
             "date":"27-JUL-2013",
             "length":183.5,
-            "start_city":"Rovereto",
-            "finish_city":"Madonna di Campiglio",
+            "start_city_id":117,
+            "finish_city_id":118,
             "winner":"DIEGO ULISSI"
         },
         "stage_2":{
             "date":"28-JUL-2013",
             "length":195.5,
-            "start_city":"Marilleva Val di Sole",
-            "finish_city":"Passo Pordoi",
+            "start_city_id":118,
+            "finish_city_id":120,
             "winner":"CHRISTOPHE RIBLON"
         },
         "stage_3":{
             "date":"30-JUL-2013",
             "length":226,
-            "start_city":"Kraków",
-            "finish_city":"Rzeszów",
+            "start_city_id":64,
+            "finish_city_id":30,
             "winner":"THOR HUSHOVD"
         },
         "stage_4":{
             "date":"31-JUL-2013",
             "length":231,
-            "start_city":"Tarnów",
-            "finish_city":"Katowice",
+            "start_city_id":4,
+            "finish_city_id":107,
             "winner":"TAYLOR PHINNEY"
         },
         "stage_5":{
             "date":"01-AUG-2013",
             "length":160,
-            "start_city":"Nowy Targ",
-            "finish_city":"Zakopane",
+            "start_city_id":63,
+            "finish_city_id":32,
             "winner":"THOR HUSHOVD"
         },
         "stage_6":{
             "date":"02-AUG-2013",
             "length":192,
-            "start_city":"Bukovina Terma Hotel Spa",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":121,
+            "finish_city_id":111,
             "winner":"DARWIN ATAPUMA"
         },
         "stage_7":{
             "date":"03-AUG-2013",
             "length":37,
-            "start_city":"Wieliczka",
-            "finish_city":"Kraków",
+            "start_city_id":21,
+            "finish_city_id":64,
             "winner":"BRADLEY WIGGINS"
         }
     },
@@ -2374,50 +2374,50 @@
         "stage_1":{
             "date":"03-AUG-2014",
             "length":226,
-            "start_city":"Gdańsk",
-            "finish_city":"Bydgoszcz",
+            "start_city_id":12,
+            "finish_city_id":36,
             "winner":"YAUHENI HUTAROVICH"
         },
         "stage_2":{
             "date":"04-AUG-2014",
             "length":226,
-            "start_city":"Toruń",
-            "finish_city":"Warszawa",
+            "start_city_id":68,
+            "finish_city_id":25,
             "winner":"PETR VAKOC"
         },
         "stage_3":{
             "date":"05-AUG-2014",
             "length":174,
-            "start_city":"Kielce",
-            "finish_city":"Rzeszów",
+            "start_city_id":9,
+            "finish_city_id":30,
             "winner":"THEO BOS"
         },
         "stage_4":{
             "date":"06-AUG-2014",
             "length":236,
-            "start_city":"Tarnów",
-            "finish_city":"Katowice",
+            "start_city_id":4,
+            "finish_city_id":107,
             "winner":"JONAS VAN GENECHTEN"
         },
         "stage_5":{
             "date":"07-AUG-2014",
             "length":190,
-            "start_city":"Zakopane",
-            "finish_city":"Strbske Pleso",
+            "start_city_id":32,
+            "finish_city_id":147,
             "winner":"RAFAŁ MAJKA"
         },
         "stage_6":{
             "date":"08-AUG-2014",
             "length":174,
-            "start_city":"Bukovina Terma Hotel Spa",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":121,
+            "finish_city_id":111,
             "winner":"RAFAŁ MAJKA"
         },
         "stage_7":{
             "date":"09-AUG-2014",
             "length":25,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"KRISTOF VANDEWALLE"
         }
     },
@@ -2470,50 +2470,50 @@
         "stage_1":{
             "date":"02-AUG-2015",
             "length":122,
-            "start_city":"Warszawa",
-            "finish_city":"Warszawa",
+            "start_city_id":25,
+            "finish_city_id":25,
             "winner":"MARCEL KITTEL"
         },
         "stage_2":{
             "date":"03-AUG-2015",
             "length":146,
-            "start_city":"Częstochowa",
-            "finish_city":"Dąbrowa Górnicza",
+            "start_city_id":20,
+            "finish_city_id":113,
             "winner":"MATTEO PELUCCHI"
         },
         "stage_3":{
             "date":"04-AUG-2015",
             "length":166,
-            "start_city":"Zawiercie",
-            "finish_city":"Katowice",
+            "start_city_id":122,
+            "finish_city_id":128,
             "winner":"MATTEO PELUCCHI"
         },
         "stage_4":{
             "date":"05-AUG-2015",
             "length":220,
-            "start_city":"Jaworzno",
-            "finish_city":"Nowy Sącz",
+            "start_city_id":123,
+            "finish_city_id":31,
             "winner":"MACIEJ BODNAR"
         },
         "stage_5":{
             "date":"06-AUG-2015",
             "length":223,
-            "start_city":"Nowy Sącz",
-            "finish_city":"Zakopane",
+            "start_city_id":31,
+            "finish_city_id":32,
             "winner":"BART DE CLERCQ"
         },
         "stage_6":{
             "date":"07-AUG-2015",
             "length":174,
-            "start_city":"Bukovina Terma Hotel Spa",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":121,
+            "finish_city_id":111,
             "winner":"SERGIO HENAO"
         },
         "stage_7":{
             "date":"08-AUG-2015",
             "length":25,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"MARCIN BIAŁOBŁOCKI"
         }
     },
@@ -2563,50 +2563,50 @@
         "stage_1":{
             "date":"12-JUL-2016",
             "length":138,
-            "start_city":"Radzymin",
-            "finish_city":"Warszawa",
+            "start_city_id":124,
+            "finish_city_id":25,
             "winner":"DAVIDE MARTINELLI"
         },
         "stage_2":{
             "date":"13-JUL-2016",
             "length":128,
-            "start_city":"Tarnowskie Góry",
-            "finish_city":"Katowice",
+            "start_city_id":125,
+            "finish_city_id":107,
             "winner":"FERNANDO GAVIRIA"
         },
         "stage_3":{
             "date":"14-JUL-2016",
             "length":240,
-            "start_city":"Zawiercie",
-            "finish_city":"Nowy Sącz",
+            "start_city_id":122,
+            "finish_city_id":31,
             "winner":"NICCOLO BONIFAZIO"
         },
         "stage_4":{
             "date":"15-JUL-2016",
             "length":218,
-            "start_city":"Nowy Sącz",
-            "finish_city":"Rzeszów",
+            "start_city_id":31,
+            "finish_city_id":30,
             "winner":"FERNANDO GAVIRIA"
         },
         "stage_5":{
             "date":"16-JUL-2016",
             "length":225,
-            "start_city":"Wieliczka",
-            "finish_city":"Zakopane",
+            "start_city_id":21,
+            "finish_city_id":32,
             "winner":"TIM WELLENS"
         },
         "stage_6":{
             "date":"17-JUL-2016",
             "length":194,
-            "start_city":"Bukovina Resort",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":126,
+            "finish_city_id":111,
             "winner":null
         },
         "stage_7":{
             "date":"18-JUL-2016",
             "length":25,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"ALEX DOWSETT"
         }
     },
@@ -2662,50 +2662,50 @@
         "stage_1":{
             "date":"29-JUL-2017",
             "length":130,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"PETER SAGAN"
         },
         "stage_2":{
             "date":"30-JUL-2017",
             "length":142,
-            "start_city":"Tarnowskie Góry",
-            "finish_city":"Katowice",
+            "start_city_id":125,
+            "finish_city_id":107,
             "winner":"SACHA MODOLO"
         },
         "stage_3":{
             "date":"31-JUL-2017",
             "length":161,
-            "start_city":"Jaworzno",
-            "finish_city":"Szczyrk",
+            "start_city_id":123,
+            "finish_city_id":127,
             "winner":"DYLAN TEUNS"
         },
         "stage_4":{
             "date":"01-AUG-2017",
             "length":238,
-            "start_city":"Zawiercie",
-            "finish_city":"Zabrze",
+            "start_city_id":122,
+            "finish_city_id":128,
             "winner":"CALEB EWAN"
         },
         "stage_5":{
             "date":"02-AUG-2017",
             "length":130,
-            "start_city":"Olimp Nagawczyna",
-            "finish_city":"Rzeszów",
+            "start_city_id":129,
+            "finish_city_id":30,
             "winner":"DANNY VAN POPPEL"
         },
         "stage_6":{
             "date":"03-AUG-2017",
             "length":189,
-            "start_city":"Wieliczka",
-            "finish_city":"Zakopane",
+            "start_city_id":21,
+            "finish_city_id":32,
             "winner":"JACK HAIG"
         },
         "stage_7":{
             "date":"04-AUG-2017",
             "length":132.5,
-            "start_city":"Bukowina Tatrzańska",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":111,
+            "finish_city_id":111,
             "winner":"WOUT POELS"
         }
     },
@@ -2758,50 +2758,50 @@
         "stage_1":{
             "date":"04-AUG-2018",
             "length":134,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"PASCAL ACKERMANN"
         },
         "stage_2":{
             "date":"05-AUG-2018",
             "length":144.4,
-            "start_city":"Tarnowskie Góry",
-            "finish_city":"Katowice",
+            "start_city_id":125,
+            "finish_city_id":107,
             "winner":"PASCAL ACKERMANN"
         },
         "stage_3":{
             "date":"06-AUG-2018",
             "length":139,
-            "start_city":"Stadion Śląski",
-            "finish_city":"Zabrze",
+            "start_city_id":130,
+            "finish_city_id":128,
             "winner":"ALVARO JOSE HODEG"
         },
         "stage_4":{
             "date":"07-AUG-2018",
             "length":179,
-            "start_city":"Jaworzno",
-            "finish_city":"Szczyrk",
+            "start_city_id":123,
+            "finish_city_id":127,
             "winner":"MICHAŁ KWIATKOWSKI"
         },
         "stage_5":{
             "date":"08-AUG-2018",
             "length":152,
-            "start_city":"Wieliczka",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":21,
+            "finish_city_id":22,
             "winner":"MICHAŁ KWIATKOWSKI"
         },
         "stage_6":{
             "date":"09-AUG-2018",
             "length":129,
-            "start_city":"Zakopane",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":32,
+            "finish_city_id":111,
             "winner":"GEORG PREIDLER"
         },
         "stage_7":{
             "date":"10-AUG-2018",
             "length":136,
-            "start_city":"Bukowina Tatrzańska",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":111,
+            "finish_city_id":111,
             "winner":"SIMON YATES"
         }
     },
@@ -2854,50 +2854,50 @@
         "stage_1":{
             "date":"03-AUG-2019",
             "length":132.3,
-            "start_city":"Kraków",
-            "finish_city":"Kraków",
+            "start_city_id":64,
+            "finish_city_id":64,
             "winner":"PASCAL ACKERMANN"
         },
         "stage_2":{
             "date":"04-AUG-2019",
             "length":152.7,
-            "start_city":"Tarnowskie Góry",
-            "finish_city":"Katowice",
+            "start_city_id":125,
+            "finish_city_id":107,
             "winner":"LUKA MEZGEC"
         },
         "stage_3":{
             "date":"05-AUG-2019",
             "length":150.5,
-            "start_city":"Chorzów",
-            "finish_city":"Zabrze",
+            "start_city_id":131,
+            "finish_city_id":128,
             "winner":"PASCAL ACKERMANN"
         },
         "stage_4":{
             "date":"06-AUG-2019",
             "length":133.7,
-            "start_city":"Jaworzno",
-            "finish_city":"Kocierz",
+            "start_city_id":123,
+            "finish_city_id":132,
             "winner":null
         },
         "stage_5":{
             "date":"07-AUG-2019",
             "length":153.8,
-            "start_city":"Wieliczka",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":21,
+            "finish_city_id":22,
             "winner":"LUKA MEZGEC"
         },
         "stage_6":{
             "date":"08-AUG-2019",
             "length":160,
-            "start_city":"Zakopane",
-            "finish_city":"Kościelisko",
+            "start_city_id":32,
+            "finish_city_id":133,
             "winner":"JONAS VINGEGAARD"
         },
         "stage_7":{
             "date":"09-AUG-2019",
             "length":153.3,
-            "start_city":"Bukovina Resort",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":126,
+            "finish_city_id":111,
             "winner":"MATEJ MOHORIC"
         }
     },
@@ -2950,36 +2950,36 @@
         "stage_1":{
             "date":"05-AUG-2020",
             "length":195.8,
-            "start_city":"Stadion Śląski",
-            "finish_city":"Katowice",
+            "start_city_id":130,
+            "finish_city_id":107,
             "winner":"FABIO JAKOBSEN"
         },
         "stage_2":{
             "date":"06-AUG-2020",
             "length":151.5,
-            "start_city":"Opole",
-            "finish_city":"Zabrze",
+            "start_city_id":53,
+            "finish_city_id":128,
             "winner":"MADS PEDERSEN"
         },
         "stage_3":{
             "date":"07-AUG-2020",
             "length":203.1,
-            "start_city":"Wadowice",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":33,
+            "finish_city_id":22,
             "winner":"RICHARD CARAPAZ"
         },
         "stage_4":{
             "date":"08-AUG-2020",
             "length":152.9,
-            "start_city":"Bukovina Resort",
-            "finish_city":"Bukowina Tatrzańska",
+            "start_city_id":126,
+            "finish_city_id":111,
             "winner":"REMCO EVENEPOEL"
         },
         "stage_5":{
             "date":"09-AUG-2020",
             "length":188,
-            "start_city":"Zakopane",
-            "finish_city":"Kraków",
+            "start_city_id":32,
+            "finish_city_id":64,
             "winner":"DAVIDE BALLERINI"
         }
     },
@@ -3032,50 +3032,50 @@
         "stage_1":{
             "date":"09-AUG-2021",
             "length":216.4,
-            "start_city":"Lublin",
-            "finish_city":"Chełm",
+            "start_city_id":27,
+            "finish_city_id":134,
             "winner":"PHIL BAUHAUS"
         },
         "stage_2":{
             "date":"10-AUG-2021",
             "length":200.8,
-            "start_city":"Zamość",
-            "finish_city":"Przemyśl",
+            "start_city_id":29,
+            "finish_city_id":135,
             "winner":"JOAO ALMEIDA"
         },
         "stage_3":{
             "date":"11-AUG-2021",
             "length":226.4,
-            "start_city":"Sanok",
-            "finish_city":"Rzeszów",
+            "start_city_id":47,
+            "finish_city_id":30,
             "winner":"FERNANDO GAVIRIA"
         },
         "stage_4":{
             "date":"12-AUG-2021",
             "length":159.9,
-            "start_city":"Tarnów",
-            "finish_city":"Bukovina Resort",
+            "start_city_id":4,
+            "finish_city_id":126,
             "winner":"JOAO ALMEIDA"
         },
         "stage_5":{
             "date":"13-AUG-2021",
             "length":172.8,
-            "start_city":"Chochołów",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":136,
+            "finish_city_id":22,
             "winner":"NIKIAS ARNDT"
         },
         "stage_6":{
             "date":"14-AUG-2021",
             "length":19.1,
-            "start_city":"Katowice",
-            "finish_city":"Katowice",
+            "start_city_id":107,
+            "finish_city_id":107,
             "winner":"REMI CAVAGNA"
         },
         "stage_7":{
             "date":"15-AUG-2021",
             "length":144.9,
-            "start_city":"Zabrze",
-            "finish_city":"Kraków",
+            "start_city_id":128,
+            "finish_city_id":64,
             "winner":"JULIUS VAN DEN BERG"
         }
     },
@@ -3128,50 +3128,50 @@
         "stage_1":{
             "date":"30-JUL-2022",
             "length":218.8,
-            "start_city":"Kielce",
-            "finish_city":"Lublin",
+            "start_city_id":9,
+            "finish_city_id":27,
             "winner":"OLAV KOOIJ"
         },
         "stage_2":{
             "date":"31-JUL-2022",
             "length":205.6,
-            "start_city":"Chełm",
-            "finish_city":"Zamość",
+            "start_city_id":134,
+            "finish_city_id":29,
             "winner":"GERBEN THIJSSEN"
         },
         "stage_3":{
             "date":"01-AUG-2022",
             "length":237.9,
-            "start_city":"Kraśnik",
-            "finish_city":"Przemyśl",
+            "start_city_id":28,
+            "finish_city_id":135,
             "winner":"SERGIO HIGUITA"
         },
         "stage_4":{
             "date":"02-AUG-2022",
             "length":179.4,
-            "start_city":"Lesko",
-            "finish_city":"Sanok",
+            "start_city_id":137,
+            "finish_city_id":47,
             "winner":"PASCAL ACKERMANN"
         },
         "stage_5":{
             "date":"03-AUG-2022",
             "length":178.1,
-            "start_city":"Łańcut",
-            "finish_city":"Rzeszów",
+            "start_city_id":138,
+            "finish_city_id":30,
             "winner":"PHIL BAUHAUS"
         },
         "stage_6":{
             "date":"04-AUG-2022",
             "length":11.8,
-            "start_city":"Nowy Targ (Gronków)",
-            "finish_city":"Stacja Narciarska Rusiński",
+            "start_city_id":63,
+            "finish_city_id":139,
             "winner":"THYMEN ARENSMAN"
         },
         "stage_7":{
             "date":"05-AUG-2022",
             "length":177.8,
-            "start_city":"Valsir",
-            "finish_city":"Kraków",
+            "start_city_id":140,
+            "finish_city_id":64,
             "winner":"ARNAUD DEMARE"
         }
     },
@@ -3225,50 +3225,50 @@
         "stage_1":{
             "date":"29-JUL-2023",
             "length":183.7,
-            "start_city":"Poznań",
-            "finish_city":"Poznań",
+            "start_city_id":34,
+            "finish_city_id":34,
             "winner":"TIM MERLIER"
         },
         "stage_2":{
             "date":"30-JUL-2023",
             "length":202.9,
-            "start_city":"Leszno",
-            "finish_city":"Karpacz",
+            "start_city_id":87,
+            "finish_city_id":51,
             "winner":"MATEJ MOHORIC"
         },
         "stage_3":{
             "date":"31-JUL-2023",
             "length":162.3,
-            "start_city":"Wałbrzych",
-            "finish_city":"Duszniki-Zdrój",
+            "start_city_id":73,
+            "finish_city_id":141,
             "winner":"RAFAŁ MAJKA"
         },
         "stage_4":{
             "date":"01-AUG-2023",
             "length":199.1,
-            "start_city":"Strzelin",
-            "finish_city":"Opole",
+            "start_city_id":142,
+            "finish_city_id":53,
             "winner":"OLAV KOOIJ"
         },
         "stage_5":{
             "date":"02-AUG-2023",
             "length":198.8,
-            "start_city":"Pszczyna",
-            "finish_city":"Bielsko-Biała",
+            "start_city_id":143,
+            "finish_city_id":22,
             "winner":"MARIJN VAN DEN BERG"
         },
         "stage_6":{
             "date":"03-AUG-2023",
             "length":16.6,
-            "start_city":"Katowice",
-            "finish_city":"Katowice",
+            "start_city_id":107,
+            "finish_city_id":107,
             "winner":"MATTIA CATTANEO"
         },
         "stage_7":{
             "date":"04-AUG-2023",
             "length":166.6,
-            "start_city":"Zabrze",
-            "finish_city":"Kraków",
+            "start_city_id":128,
+            "finish_city_id":64,
             "winner":"TIM MERLIER"
         }
     },
@@ -3323,50 +3323,50 @@
         "stage_1":{
             "date":"12-AUG-2024",
             "length":156.1,
-            "start_city":"Wrocław",
-            "finish_city":"Karpacz",
+            "start_city_id":38,
+            "finish_city_id":51,
             "winner":"THIBAU NYS"
         },
         "stage_2":{
             "date":"13-AUG-2024",
             "length":15.4,
-            "start_city":"Mysłakowice",
-            "finish_city":"Karpacz",
+            "start_city_id":144,
+            "finish_city_id":51,
             "winner":"TIM WELLENS"
         },
         "stage_3":{
             "date":"14-AUG-2024",
             "length":156.5,
-            "start_city":"Wałbrzych",
-            "finish_city":"Duszniki-Zdrój",
+            "start_city_id":73,
+            "finish_city_id":141,
             "winner":"THIBAU NYS"
         },
         "stage_4":{
             "date":"15-AUG-2024",
             "length":195.3,
-            "start_city":"Kudowa-Zdrój",
-            "finish_city":"Prudnik",
+            "start_city_id":145,
+            "finish_city_id":146,
             "winner":"OLAV KOOIJ"
         },
         "stage_5":{
             "date":"16-AUG-2024",
             "length":187.6,
-            "start_city":"Katowice",
-            "finish_city":"Katowice",
+            "start_city_id":107,
+            "finish_city_id":107,
             "winner":"TIM MERLIER"
         },
         "stage_6":{
             "date":"17-AUG-2024",
             "length":183.2,
-            "start_city":"Wadowice",
-            "finish_city":"Bukovina Resort",
+            "start_city_id":33,
+            "finish_city_id":126,
             "winner":"THIBAU NYS"
         },
         "stage_7":{
             "date":"18-AUG-2024",
             "length":142.1,
-            "start_city":"Wieliczka",
-            "finish_city":"Kraków",
+            "start_city_id":21,
+            "finish_city_id":64,
             "winner":"OLAV KOOIJ"
         }
     },
