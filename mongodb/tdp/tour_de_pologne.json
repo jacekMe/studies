@@ -1,4 +1,5 @@
-{
+[
+    {
     "_id":1,
     "race_name":"Tour de Pologne",
     "country":"Poland",
@@ -3407,4 +3408,4 @@
         {"place":9, "name":"MIKKEL FROLICH HONORE"},
         {"place":10, "name":"OSCAR ONLEY"}
     ]
-}
+}]

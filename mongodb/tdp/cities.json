@@ -1,4 +1,5 @@
-{
+[
+    {
     "cityId": 1,
     "name":"Krynica"
 }, {
@@ -440,3 +441,4 @@
     "cityId": 147,
     "name":"Strbske Pleso"
 }
+]
