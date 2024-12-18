@@ -1,0 +1,55 @@
+# CEL PROJEKTU
+    
+    - min. 12 - 15 węzłów
+    - min. 20 - 25 relacji między węzłami
+    - każdy węzeł powinien mieć przypisaną sensowną etykietę
+    - powinny być zdefiniowane 2 - 3 różne etykiety
+    - sensowne 2 - 3 właściwości dla każdego węzła oraz dla każdej relacji
+
+    - wykonać min. 10 zapytań wyświetlających dane
+    - użyć funkcji agregujących
+    - wykonać min. 10 poleceń zmieniających dane:
+        - modyfikacja
+        - dodawanie
+        - kasowanie
+
+# STRUKTURA PROJEKTU
+
+    ## NODES
+
+        - RACES    - nazwy wyścigów kolarskich z 2024 
+        - PERSON   - imię i nazwisko kolarza z 1 lub 2 ekip kolarskich 
+        - STAGES   - numer etapu dla danego wyścigu, jeśli są 
+
+    ## RELATIONSHIPS
+
+        - PARTICIPATED
+        - WINNER
+        - STAGE
+
+    ## LABELS
+
+        - PERSON
+        - RACES
+        - STAGES
+
+    ## PROPERTIES
+
+        - PERSON
+            - name
+            - born
+            - nationality
+            - team
+
+        - RACES
+            - name
+            - year
+            - country
+            - category
+            - distance
+
+        - STAGES
+            - name
+            - number_stage
+            - date
+            - distance
