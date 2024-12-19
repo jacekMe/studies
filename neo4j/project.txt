@@ -17,9 +17,19 @@
 
     ## NODES
 
-        - RACES    - nazwy wyścigów kolarskich z 2024 
-        - PERSON   - imię i nazwisko kolarza z 1 lub 2 ekip kolarskich 
-        - STAGES   - numer etapu dla danego wyścigu, jeśli są 
+        - RACES     - nazwy wyścigów kolarskich z 2024 
+                        - 3 Grand Tour
+                            - Giro d'Italia
+                            - Tour de France
+                            - La Vuelta Espana
+                        - 5 Monuments 
+                            - Milan - Sanremo
+                            - Ronde van Vlaanderen
+                            - Paris - Roubix
+                            - Liege - Bastogne - Liege
+                            - Il Lombardia
+        - PERSON    - imię i nazwisko kolarza z 5 - 10 ekip kolarskich 
+        - STAGES    - etapy rozgrywane podczas Grand Tour
 
     ## RELATIONSHIPS
 
