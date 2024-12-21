@@ -1,0 +1,186 @@
+1. Zapoznanie się z bazą Neo4j
+
+    :help
+
+2. Kasowanie wszystkich obiektów (węzły i relacje)
+
+    MATCH (n) DETACH DELETE n;
+
+3. Sprawdzenie czy baza jest pusta
+
+    MATCH (n) RETURN n;
+
+## STWORZENIE NAJPROSTSZEGO MODELU
+
+4. Stworzenie dwóch węzłów i dwóch relacji między nimi
+
+    CREATE (ann:Person {name: 'Ann', born: '2000-09-30'})
+    CREATE (dan:Person {name: 'Dan', born: '1999-02-12'})
+    CREATE (ann)-[:IS_MARRID_TO {since: '2019-09-30'}]->(dan)
+    CREATE (ann)-[:LIVES_WITH {since: '2018-01-01'}]->(dan);
+
+    - sprawdzenie co powstało
+
+        MATCH (n) RETURN n;
+
+5. Modyfikowanie właściwości węzła
+
+    MATCH (n {name: 'Dan'})
+    SET n.born = '1999-02-22'
+    RETURN n.name, n.born;
+
+6. Usuwanie właściwości węzła
+    
+    MATCH (n {name: 'Dan'})
+    SET n.born = null
+    RETURN n.name, n.born;
+
+7. Dodanie właściwości węzła
+
+    MATCH (p {name: 'Ann'})
+    SET p.email = 'ann@email.com';
+
+8. Usuwnanie węzła
+    * nie można wykasować węzła, gdy są zdefiniowane dla niego jakieś relacje
+
+    MATCH (n:Person {name: 'Ann'})
+    DELETE n;
+
+9. Usuwanie ralacji
+
+    MATCH (n {name: 'Ann'})-[r:LIVES_WITH]->()
+    DELETE r;
+
+    MATCH (n {name: 'Ann'})-[r:IS_MARRID_TO]->()
+    DELETE r;
+
+10. Polecenie do kasowania węzła wraz ze wszystkimi relacjami
+    * jest to polecenie dość niebezpieczne i trzeba je używać z rozwagą i 
+      zawsze świadomie
+
+        MATCH (n {name: 'Ann'})
+        DETACH DELETE n;
+
+## MODELE DEMONSTRACYJNE
+    
+    a) Movie Graph
+        - 171 węzłów (38 filmów oraz 133 osobby)
+        - 253 relacje [ACTED_IN(172), DIRECTED(44), PRODUCED(15), WROTE(10), FOLLOWS(3), REVIEWED(9)]
+        - 564 właściwości
+    b) Northwind Graph
+
+11. Wywołanie bazy 'Movie Graph'
+
+    :play movie graph
+
+12. Wyświetlić wszystkie filmy, w których grał Tom Hanks
+
+    MATCH (tom:Person {name: "Tom Hanks"})-[:ACTED_IN]->(tomHanksMovies)
+    RETURN tom, tomHanksMovies.title
+
+13. Usuwamy wszystkie obiekty jakie mamy w bazie danych i wybieramy tylko mały fragment skryptu.
+
+    MATCH (n) DETACH DELETE n;
+
+    * poniższe polecenia muszą być wykonane w całości jako jedno zapytanie, aby poprawnie stworzyć model 
+
+    CREATE (HelenH:Person {name:'Helen Hunt', born:1963})
+    CREATE (TomH:Person {name:'Tom Hanks', born:1956})
+    CREATE (RobertZ:Person {name:'Robert Zemeckis', born:1951})
+    CREATE (CastAway:Movie {title:'Cast Away', released:2000, tagline:'At the edge of the world, his journey begins.'})
+    CREATE (ThatThingYouDo:Movie {title:'That Thing You Do', released:1996,
+    tagline:'In every life ...'})
+    CREATE (ThePolarExpress:Movie {title:'The Polar Express', released:2004, tagline:'This Holiday Season... Believe'})
+
+    CREATE
+            (TomH)-[:ACTED_IN {roles:['Chuck Noland']}]->(CastAway),
+            (HelenH)-[:ACTED_IN {roles:['Kelly Frears']}]->(CastAway),
+            (RobertZ)-[:DIRECTED]->(CastAway),
+            (TomH)-[:ACTED_IN {roles:['Mr. White']}]->(ThatThingYouDo),
+            (TomH)-[:DIRECTED]->(ThatThingYouDo),
+            (TomH)-[:ACTED_IN {roles:['Hero Boy', 'Father', 'Conductor', 'Hobo', 'Scrooge', 'Santa Claus']}]->(ThePolarExpress),
+            (RobertZ)-[:DIRECTED]->(ThePolarExpress);
+
+
+    ** jeśli chcemy najpierw stworzyć węzły, a później nadać im właściwe relacje to musimy wykorzystać polecenie MATCH (jest to dłuższa wersja)
+
+    CREATE (HelenH:Person {name:'Helen Hunt', born:1963})
+    CREATE (TomH:Person {name:'Tom Hanks', born:1956})
+    CREATE (RobertZ:Person {name:'Robert Zemeckis', born:1951})
+
+    CREATE (CastAway:Movie {title:'Cast Away', released:2000, tagline:'At the edge of the world, his journey begins.'})
+    CREATE (ThatThingYouDo:Movie {title:'That Thing You Do', released:1996,
+    tagline:'In every life ...'})
+    CREATE (ThePolarExpress:Movie {title:'The Polar Express', released:2004, tagline:'This Holiday Season... Believe'})
+
+    MATCH
+        (a:Person {name: 'Tom Hanks'}),
+        (b:Movie {title: 'Cast Away'})
+    CREATE (a)-[:ACTED_IN {roles:['Chuck Noland']}]->(b);
+
+    MATCH
+        (a:Person {name: 'Helen Hunt'}),
+        (b:Movie {title: 'Cast Away'})
+    CREATE (a)-[:ACTED_IN {roles:['Kelly Frears']}]->(b);
+
+    MATCH
+        (a:Person {name: 'Robert Zemeckis'}),
+        (b:Movie {title: 'Cast Away'})
+    CREATE (a)-[:DIRECTED]->(b);
+
+    MATCH
+        (a:Person {name: 'Tom Hanks'}),
+        (b:Movie {title: 'That Thing You Do'})
+    CREATE (a)-[:ACTED_IN {roles:['Mr. White']}]->(b);
+
+    MATCH
+        (a:Person {name: 'Tom Hanks'}),
+        (b:Movie {title: 'That Thing You Do'})
+    CREATE (a)-[:DIRECTED]->(b);
+
+    MATCH
+        (a:Person {name: 'Tom Hanks'}),
+        (b:Movie {title: 'The Polar Express'})
+    CREATE (a)-[:ACTED_IN {roles:['Hero Boy', 'Father', 'Conductor', 'Hobo', 'Scrooge', 'Santa Claus']}]->(b);
+
+    MATCH
+        (a:Person {name: 'Robert Zemeckis'}),
+        (b:Movie {title: 'The Polar Express'})
+    CREATE (a)-[:DIRECTED]->(b);
+
+
+    *** można również tworzyć relacje z użyciem klauzuli WHERE jak w SQL
+
+    MATCH
+        (a:Person),
+        (b:Movie)
+    WHERE
+        a.name = 'Tom Hanks' AND 
+        b.title = 'Cast Away'
+    CREATE (a)-[:ACTED_IN {roles:['Chuck Noland']}]->(b);
+
+
+14. Zwraca tytuły wszystkich filmów
+
+    MATCH (movie:Movie) RETURN movie.title;
+
+15. Zwraca wszystkie filmy reżyserowane przez Roberta Zemeckisa
+
+    MATCH (director {name: 'Robert Zemeckis'})--(movie) RETURN movie.title;
+
+16. Zwraca wszystkie węzły połączone z :Person równą 'Tom Hanks'
+
+    MATCH (:Person {name: 'Tom Hanks'})--(movie:Movie) RETURN movie.title;
+
+17. Jak wyżej, ale tym razem jawnie wskazujemy kierunek relacji
+
+    MATCH (:Person {name: 'Tom Hanks'})-->(movie) RETURN movie.title;
+
+18. Tym razem zwracamy rodzaj relacji (ACTED IN lub DIRECTED)
+
+    MATCH (:Person {name: 'Tom Hanks'})-[r]->(movie) RETURN type(r);
+
+19. Zwraca wszystkich aktorów, którzy grali w filmie 'Cast Away'
+
+    MATCH (CastAway:Movie {title: 'Cast Away'})<-[:ACTED_IN]-(actor)
+    RETURN actor.name;
