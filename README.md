@@ -24,7 +24,8 @@ w domu, z różnych przedmiotów, tj.:
   - baza danych, która przechowuje kolekcje dokumentów
     - lista zadań do wykonania podczas zajęć i w domu na bazie 'scott', która od 
   zawsze była obecna w relacyjnej bazie danych ORACLE. 
-    - lista zadań do wykonania na zajęciach, która wykorzystuje dane z trzech zbiorów:
+    - lista zadań do wykonania na zajęciach, która wykorzystuje utworzoną bazę 
+    danych "mydb", w której znajdują się trzy zbiory:
       - library.json
       - category.json
       - emp.json
