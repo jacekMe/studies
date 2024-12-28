@@ -1,0 +1,340 @@
+CREATE (MilanSanremo:Race {name: "Milan - Sanremo", country: "Italy", start_date: "16-03-2024", finish_date: "16-03-2024", total_stages: null, total_length: 288})
+CREATE (RondeVanVlaanderen:Race {name: "Ronde van Vlaanderen", country: "Belgium", start_date: "31-03-2024", finish_date: "31-03-2024", total_stages: null, total_length: 270.8})
+CREATE (ParisRoubaix:Race {name: "Paris - Roubaix", country: "France", start_date: "07-04-2024", finish_date: "07-04-2024", total_stages: null, total_length: 259.7})
+CREATE (LiegeBastogneLiege:Race {name: "Liege-Bastogne-Liege", country: "Belgium", start_date: "21-04-2024", finish_date: "21-04-2024", total_stages: null, total_length: 254.5})
+CREATE (Giro:Race {name: "Giro d'Italia", country: "Italy", start_date: "04-05-2024", finish_date: "26-05-2024", total_stages: 21, total_length: 3317.5})
+CREATE (TDF:Race {name: "Tour de France", country: "France", start_date: "29-06-2024", finish_date: "21-07-2024", total_stages: 21, total_length: 3498})
+CREATE (LaVuelta:Race {name: "La Vuelta Ciclista a Espana", country: "Spain", start_date: "17-08-2024", finish_date: "08-09-2024", total_stages: 21, total_length: 3293.3})
+CREATE (IlLombardia:Race {name: "Il Lombardia", country: "Italy", start_date: "12-10-2024", finish_date: "12-10-2024", total_stages: null, total_length: 255})
+CREATE (stage1Giro:StageGiro {name: "Venaria Reale - Torino", name_race: "Giro d'Italia", number_stage: 1, date: "04-05-2024", distance: 140})
+CREATE (stage2Giro:StageGiro {name: "San Francesco al Campo - Santuario di Oropa", name_race: "Giro d'Italia", number_stage: 2, date: "05-05-2024", distance: 161})
+CREATE (stage3Giro:StageGiro {name: "Novara - Fossano", name_race: "Giro d'Italia", number_stage: 3, date: "06-05-2024", distance: 166.3})
+CREATE (stage4Giro:StageGiro {name: "Acqui Terme - Andora", name_race: "Giro d'Italia", number_stage: 4, date: "07-05-2024", distance: 190})
+CREATE (stage5Giro:StageGiro {name: "Genova - Lucca", name_race: "Giro d'Italia", number_stage: 5, date: "08-05-2024", distance: 178})
+CREATE (stage6Giro:StageGiro {name: "Viareggio - Rapolano Terme", name_race: "Giro d'Italia", number_stage: 6, date: "09-05-2024", distance: 180})
+CREATE (stage7Giro:StageGiro {name: "Foligno - Perugia", name_race: "Giro d'Italia", number_stage: 7, date: "10-05-2024", distance: 40.6})
+CREATE (stage8Giro:StageGiro {name: "Spoleto - Prati di Tivo", name_race: "Giro d'Italia", number_stage: 8, date: "11-05-2024", distance: 152})
+CREATE (stage9Giro:StageGiro {name: "Avezzano - Naples", name_race: "Giro d'Italia", number_stage: 9, date: "12-05-2024", distance: 214})
+CREATE (stage10Giro:StageGiro {name: "Pompei - Bocca della Selva", name_race: "Giro d'Italia", number_stage: 10, date: "14-05-2024", distance: 142})
+CREATE (stage11Giro:StageGiro {name: "Foiano di Val Fortore - Prancavilla al Mare", name_race: "Giro d'Italia", number_stage: 11, date: "15-05-2024", distance: 207})
+CREATE (stage12Giro:StageGiro {name: "Martinsicuro - Fano", name_race: "Giro d'Italia", number_stage: 12, date: "16-05-2024", distance: 193})
+CREATE (stage13Giro:StageGiro {name: "Riccione - Cento", name_race: "Giro d'Italia", number_stage: 13, date: "17-05-2024", distance: 179})
+CREATE (stage14Giro:StageGiro {name: "Castiglione delle Stiviere - Desenzano del Garda", name_race: "Giro d'Italia", number_stage: 14, date: "18-05-2024", distance: 31.2})
+CREATE (stage15Giro:StageGiro {name: "Manerba del Garda - Livigno (Mottolino)", name_race: "Giro d'Italia", number_stage: 15, date: "19-05-2024", distance: 222})
+CREATE (stage16Giro:StageGiro {name: "Laas - Santa Cristina Valgardena (Monte Pana)", name_race: "Giro d'Italia", number_stage: 16, date: "21-05-2024", distance: 118.4})
+CREATE (stage17Giro:StageGiro {name: "Selva di Val Gardena - Passo Brocon", name_race: "Giro d'Italia", number_stage: 17, date: "22-05-2024", distance: 159})
+CREATE (stage18Giro:StageGiro {name: "Fiera di Primiero - Padova", name_race: "Giro d'Italia", number_stage: 18, date: "23-05-2024", distance: 178})
+CREATE (stage19Giro:StageGiro {name: "Moregliano - Sappada", name_race: "Giro d'Italia", number_stage: 19, date: "24-05-2024", distance: 157})
+CREATE (stage20Giro:StageGiro {name: "Alpago - Bassano del Grappa", name_race: "Giro d'Italia", number_stage: 20, date: "25-05-2024", distance: 184})
+CREATE (stage21Giro:StageGiro {name: "Rome - Rome", name_race: "Giro d'Italia", number_stage: 21, date: "26-05-2024", distance: 125})
+CREATE (stage1TDF:StageTDF {name: "Firenze - Rimini", name_race: "Tour de France", number_stage: 1, date: "29-06-2024", distance: 206})
+CREATE (stage2TDF:StageTDF {name: "Cesenatico - Bologna", name_race: "Tour de France", number_stage: 2, date: "30-06-2024", distance: 199.2})
+CREATE (stage3TDF:StageTDF {name: "Piacenza - Torino", name_race: "Tour de France", number_stage: 3, date: "01-07-2024", distance: 230.8})
+CREATE (stage4TDF:StageTDF {name: "Pinerolo - Valloire", name_race: "Tour de France", number_stage: 4, date: "02-07-2024", distance: 139.6})
+CREATE (stage5TDF:StageTDF {name: "Saint-Jean-de-Maurienne - Saint Vulbas", name_race: "Tour de France", number_stage: 5, date: "03-07-2024", distance: 177.4})
+CREATE (stage6TDF:StageTDF {name: "Macon - Dijon", name_race: "Tour de France", number_stage: 6, date: "04-07-2024", distance: 163.5})
+CREATE (stage7TDF:StageTDF {name: "Nuits-Saint-Georges - Gevrey-Chambertin", name_race: "Tour de France", number_stage: 7, date: "05-07-2024", distance: 25.3})
+CREATE (stage8TDF:StageTDF {name: "Semur-en-Auxois - Colombey-les-Deux-Eglises", name_race: "Tour de France", number_stage: 8, date: "06-07-2024", distance: 183.4})
+CREATE (stage9TDF:StageTDF {name: "Troyes - Troyes", name_race: "Tour de France", number_stage: 9, date: "07-07-2024", distance: 199})
+CREATE (stage10TDF:StageTDF {name: "Orleans - Saint-Amand-Montrond", name_race: "Tour de France", number_stage: 10, date: "09-07-2024", distance: 187.3})
+CREATE (stage11TDF:StageTDF {name: "Evaus-les-Bains - Le Lioran", name_race: "Tour de France", number_stage: 11, date: "10-07-2024", distance: 211})
+CREATE (stage12TDF:StageTDF {name: "Aurillac - Villeneuve-sur-Lot", name_race: "Tour de France", number_stage: 12, date: "11-07-2024", distance: 203.6})
+CREATE (stage13TDF:StageTDF {name: "Agen - Pau", name_race: "Tour de France", number_stage: 13, date: "12-07-2024", distance: 165.3})
+CREATE (stage14TDF:StageTDF {name: "Pau - Saint-Lary-Soulan Pla d'Adet", name_race: "Tour de France", number_stage: 14, date: "13-07-2024", distance: 151.9})
+CREATE (stage15TDF:StageTDF {name: "Loudenvielle - Plateau de Beille", name_race: "Tour de France", number_stage: 15, date: "14-07-2024", distance: 197.7})
+CREATE (stage16TDF:StageTDF {name: "Gruissan - Nimes", name_race: "Tour de France", number_stage: 16, date: "16-07-2024", distance: 188.6})
+CREATE (stage17TDF:StageTDF {name: "Saint-Paul-Trois-Chateaux - Superdevoluy", name_race: "Tour de France", number_stage: 17, date: "17-07-2024", distance: 177.8})
+CREATE (stage18TDF:StageTDF {name: "Gap - Bacelonnette", name_race: "Tour de France", number_stage: 18, date: "18-07-2024", distance: 179.5})
+CREATE (stage19TDF:StageTDF {name: "Embrun - Isola 2000", name_race: "Tour de France", number_stage: 19, date: "19-07-2024", distance: 144.6})
+CREATE (stage20TDF:StageTDF {name: "Nice - Col de la Couillole", name_race: "Tour de France", number_stage: 20, date: "20-07-2024", distance: 132.8})
+CREATE (stage21TDF:StageTDF {name: "Monaco - Nice", name_race: "Tour de France", number_stage: 21, date: "21-07-2024", distance: 33.7})
+CREATE (stage1Vuelta:StageVuelta {name: "Lisbon - Oeiras", name_race: "La Vuelta Ciclista a Espana", number_stage: 1, date: "17-08-2024", distance: 12})
+CREATE (stage2Vuelta:StageVuelta {name: "Cascais - Ourem", name_race: "La Vuelta Ciclista a Espana", number_stage: 2, date: "18-08-2024", distance: 194})
+CREATE (stage3Vuelta:StageVuelta {name: "Lousa - Castelo Branco", name_race: "La Vuelta Ciclista a Espana", number_stage: 3, date: "19-08-2024", distance: 191.2})
+CREATE (stage4Vuelta:StageVuelta {name: "Plasencia - Pico Villuercas", name_race: "La Vuelta Ciclista a Espana", number_stage: 4, date: "20-08-2024", distance: 170.5})
+CREATE (stage5Vuelta:StageVuelta {name: "Fuente del Maestre - Sevilla", name_race: "La Vuelta Ciclista a Espana", number_stage: 5, date: "21-08-2024", distance: 177})
+CREATE (stage6Vuelta:StageVuelta {name: "Jerez de la Frontera - Yunquera", name_race: "La Vuelta Ciclista a Espana", number_stage: 6, date: "22-08-2024", distance: 185.5})
+CREATE (stage7Vuelta:StageVuelta {name: "Archidona - Cordoba", name_race: "La Vuelta Ciclista a Espana", number_stage: 7, date: "23-08-2024", distance: 180.5})
+CREATE (stage8Vuelta:StageVuelta {name: "Ubeda - Cazorla", name_race: "La Vuelta Ciclista a Espana", number_stage: 8, date: "24-08-2024", distance: 159})
+CREATE (stage9Vuelta:StageVuelta {name: "Motril - Granada", name_race: "La Vuelta Ciclista a Espana", number_stage: 9, date: "25-08-2024", distance: 178.5})
+CREATE (stage10Vuelta:StageVuelta {name: "Ponteareas - Baiona", name_race: "La Vuelta Ciclista a Espana", number_stage: 10, date: "27-08-2024", distance: 160})
+CREATE (stage11Vuelta:StageVuelta {name: "Campu Tecnologico Cortizo Padron - Campus Tecnologico Cortizo Padron", name_race: "La Vuelta Ciclista a Espana", number_stage: 11, date: "28-08-2024", distance: 164.2})
+CREATE (stage12Vuelta:StageVuelta {name: "Ourense Termal - Estacion de Montana de Manzaneda", name_race: "La Vuelta Ciclista a Espana", number_stage: 12, date: "29-08-2024", distance: 137.5})
+CREATE (stage13Vuelta:StageVuelta {name: "Lugo - Puerto de Ancares", name_race: "La Vuelta Ciclista a Espana", number_stage: 13, date: "30-08-2024", distance: 176})
+CREATE (stage14Vuelta:StageVuelta {name: "Villafranca del Bierzo - Villablino", name_race: "La Vuelta Ciclista a Espana", number_stage: 14, date: "31-08-2024", distance: 200.5})
+CREATE (stage15Vuelta:StageVuelta {name: "Infiesto - Valgrande-Pajares Cuitu Negru", name_race: "La Vuelta Ciclista a Espana", number_stage: 15, date: "01-09-2024", distance: 143})
+CREATE (stage16Vuelta:StageVuelta {name: "Luanco - Lagos de Covadonga", name_race: "La Vuelta Ciclista a Espana", number_stage: 16, date: "03-09-2024", distance: 181.5})
+CREATE (stage17Vuelta:StageVuelta {name: "Arnuero - Santander", name_race: "La Vuelta Ciclista a Espana", number_stage: 17, date: "04-09-2024", distance: 141.5})
+CREATE (stage18Vuelta:StageVuelta {name: "Vitoria-Gasteiz - Maestu-Parque Natural de Izki", name_race: "La Vuelta Ciclista a Espana", number_stage: 18, date: "05-09-2024", distance: 179.5})
+CREATE (stage19Vuelta:StageVuelta {name: "Logrono - Alto de Moncalvillo", name_race: "La Vuelta Ciclista a Espana", number_stage: 19, date: "06-09-2024", distance: 164.8})
+CREATE (stage20Vuelta:StageVuelta {name: "Villarcayo - Picon Blanco", name_race: "La Vuelta Ciclista a Espana", number_stage: 20, date: "07-09-2024", distance: 172})
+CREATE (stage21Vuelta:StageVuelta {name: "Madrid - Madrid", name_race: "La Vuelta Ciclista a Espana", number_stage: 21, date: "08-09-2024", distance: 24.6})
+CREATE (UAE:Team {name: "UAE Team Emirates", license_country: "United Arab Emirates", bike: "Colnago", jersey: "white"})
+CREATE (AlmeidaJ:Person {name: "Joao Almeida", born: "05-08-1998", nationality: "Portugal", speciality: "general classification", height: 178, weight: 63})
+CREATE (ArrietaI:Person {name: "Igor Arrieta", born: "08-12-2002", nationality: "Spain", speciality: "climber", height: 182, weight: 64})
+CREATE (AyusoJ:Person {name: "Juan Ayuso", born: "16-09-2002", nationality: "Spain", speciality: "climber", height: 183, weight: 65})
+CREATE (BaronciniF:Person {name: "Filippo Baroncini", born: "26-08-2000", nationality: "Italy", speciality: "oneday", height: 188, weight: 74})
+CREATE (BaxS:Person {name: "Sjoerd Bax", born: "06-01-1996", nationality: "Netherlands", speciality: "general classification", height: 185, weight: 78})
+CREATE (BjergM:Person {name: "Mikkel Bjerg", born: "03-11-1998", nationality: "Denmark", speciality: "time trial", height: 190, weight: 78})
+CREATE (ChristenJ:Person {name: "Jan Christen", born: "26-07-2004", nationality: "Switzerland", speciality: "oneday", height: 183, weight: 60})
+CREATE (CoviA:Person {name: "Alessandro Covi", born: "28-09-1998", nationality: "Italy", speciality: "oneday", height: 180, weight: 60})
+CREATE (DelToroI:Person {name: "Isaac del Toro", born: "27-11-2003", nationality: "Mexico", speciality: "general classification", height: 180, weight: null})
+CREATE (FisherBlackF:Person {name: "Finn Fisher-Black", born: "21-12-2001", nationality: "New Zealand", speciality: "general classification", height: 189, weight: 73})
+CREATE (GrossschartnerF:Person {name: "Felix Großschartner", born: "23-12-1993", nationality: "Austria", speciality: "general classification", height: 184, weight: 64})
+CREATE (HirschiM:Person {name: "Marc Hirschi", born: "24-08-1998", nationality: "Switzerland", speciality: "oneday", height: 174, weight: 61})
+CREATE (HodegAJ:Person {name: "Alvaro Jose Hodeg", born: "16-09-1996", nationality: "Colombia", speciality: "sprint", height: 186, weight: 76})
+CREATE (LaengenVS:Person {name: "Vegard Stake Laengen", born: "07-02-1989", nationality: "Norway", speciality: "general classification", height: 195, weight: 79})
+CREATE (MajkaR:Person {name: "Rafał Majka", born: "12-09-1989", nationality: "Poland", speciality: "climber", height: 173, weight: 62})
+CREATE (McNultyB:Person {name: "Brandon McNulty", born: "02-04-1998", nationality: "United States", speciality: "general classification", height: 183, weight: 69})
+CREATE (MolanoJS:Person {name: "Juan Sebastian Molano", born: "04-11-1994", nationality: "Colombia", speciality: "sprint", height: 180, weight: 74})
+CREATE (MorgadoA:Person {name: "Antonio Morgado", born: "28-01-2004", nationality: "Portugal", speciality: "oneday", height: 180, weight: 71})
+CREATE (NovakD:Person {name: "Domen Novak", born: "12-07-1995", nationality: "Slovenia", speciality: "general classification", height: 181, weight: 70})
+CREATE (OliveiraI:Person {name: "Ivo Oliveira", born: "05-09-1996", nationality: "Portugal", speciality: "time trial", height: 185, weight: 68})
+CREATE (OliveiraR:Person {name: "Rui Oliveira", born: "05-09-1996", nationality: "Portugal", speciality: "hills", height: 183, weight: 66})
+CREATE (PogacarT:Person {name: "Tadej Pogacar", born: "21-09-1998", nationality: "Slovenia", speciality: "climber", height: 177, weight: 66})
+CREATE (PolittN:Person {name: "Nils Politt", born: "06-03-1994", nationality: "Germany", speciality: "oneday", height: 192, weight: 80})
+CREATE (SivakovP:Person {name: "Pavel Sivakov", born: "11-07-1997", nationality: "France", speciality: "general classification", height: 188, weight: 70})
+CREATE (SolerM:Person {name: "Marc Soler", born: "22-11-1993", nationality: "Spain", speciality: "climber", height: 186, weight: 68})
+CREATE (UlissiD:Person {name: "Diego Ulissi", born: "15-07-1989", nationality: "Italy", speciality: "general classification", height: 175, weight: 63})
+CREATE (VineJ:Person {name: "Jay Vine", born: "16-11-1995", nationality: "Australia", speciality: "climber", height: 184, weight: 69})
+CREATE (VinkM:Person {name: "Michael Vink", born: "22-11-1991", nationality: "New Zealand", speciality: "time trial", height: 190, weight: 73})
+CREATE (WellensT:Person {name: "Tim Wellens", born: "10-05-1991", nationality: "Belgium", speciality: "general classification", height: 182, weight: 71})
+CREATE (YatesA:Person {name: "Adam Yates", born: "07-08-1992", nationality: "Great Britain", speciality: "climber", height: 173, weight: 58})
+CREATE (GianettiM:Person {name: "Mauro Gianetti", nationality: "Switzerland", born: "16-03-1964"})
+CREATE (FernandezJA:Person {name: "Jose Antonio Fernandez", nationality: "Spain", born: "22-12-1970"})
+CREATE (HauptmanA:Person {name: "Andrej Hauptman", nationality: "Slovenia", born: "05-05-1975"})
+CREATE (VicinoB:Person {name: "Bruno Vicino", nationality: "Italy", born: "07-09-1952"})
+CREATE (BaldatoF:Person {name: "Fabio Baldato", nationality: "Italy", born: "13-06-1968"})
+CREATE (GuidiF:Person {name: "Fabrizio Guidi", nationality: "Italy", born: "13-04-1972"})
+CREATE (PolancJ:Person {name: "Jan Polanc", nationality: "Slovenia", born: "06-05-1992"})
+CREATE (TeixeiraJ:Person {name: "Jose Teixeira", nationality: "Spain", born: "06-07-1957"})
+CREATE (MoriM:Person {name: "Manuele Mori", nationality: "Italy", born: "09-08-1980"})
+CREATE (MarcatoM:Person {name: "Marco Marcato", nationality: "Italy", born: "11-02-1984"})
+CREATE (MarzanoM:Person {name: "Marco Marzano", nationality: "Italy", born: "10-06-1980"})
+CREATE (GarciaR:Person {name: "Roberto San Emeterio Garcia", nationality: "Spain", born: "10-09-1982"})
+CREATE (PedrazziniS:Person {name: "Simone Pedrazzini", nationality: "Switzerland", born: "02-05-1967"})
+CREATE (MartinezT:Person {name: "Tomas Aurelio Gil Martinez", nationality: "Colombia", born: "23-05-1977"})
+CREATE (MirzaY:Person {name: "Yousif Mirza", nationality: "United Arab Emirates", born: "08-10-1988"})
+CREATE
+        (stage1Giro)-[:STAGE_IN {stage_nr:1}]->(Giro),
+        (stage2Giro)-[:STAGE_IN {stage_nr:2}]->(Giro),
+        (stage3Giro)-[:STAGE_IN {stage_nr:3}]->(Giro),
+        (stage4Giro)-[:STAGE_IN {stage_nr:4}]->(Giro),
+        (stage5Giro)-[:STAGE_IN {stage_nr:5}]->(Giro),
+        (stage6Giro)-[:STAGE_IN {stage_nr:6}]->(Giro),
+        (stage7Giro)-[:STAGE_IN {stage_nr:7}]->(Giro),
+        (stage8Giro)-[:STAGE_IN {stage_nr:8}]->(Giro),
+        (stage9Giro)-[:STAGE_IN {stage_nr:9}]->(Giro),
+        (stage10Giro)-[:STAGE_IN {stage_nr:10}]->(Giro),
+        (stage11Giro)-[:STAGE_IN {stage_nr:11}]->(Giro),
+        (stage12Giro)-[:STAGE_IN {stage_nr:12}]->(Giro),
+        (stage13Giro)-[:STAGE_IN {stage_nr:13}]->(Giro),
+        (stage14Giro)-[:STAGE_IN {stage_nr:14}]->(Giro),
+        (stage15Giro)-[:STAGE_IN {stage_nr:15}]->(Giro),
+        (stage16Giro)-[:STAGE_IN {stage_nr:16}]->(Giro),
+        (stage17Giro)-[:STAGE_IN {stage_nr:17}]->(Giro),
+        (stage18Giro)-[:STAGE_IN {stage_nr:18}]->(Giro),
+        (stage19Giro)-[:STAGE_IN {stage_nr:19}]->(Giro),
+        (stage20Giro)-[:STAGE_IN {stage_nr:20}]->(Giro),
+        (stage21Giro)-[:STAGE_IN {stage_nr:21}]->(Giro),
+        (stage1TDF)-[:STAGE_IN {stage_nr:1}]->(TDF),
+        (stage2TDF)-[:STAGE_IN {stage_nr:2}]->(TDF),
+        (stage3TDF)-[:STAGE_IN {stage_nr:3}]->(TDF),
+        (stage4TDF)-[:STAGE_IN {stage_nr:4}]->(TDF),
+        (stage5TDF)-[:STAGE_IN {stage_nr:5}]->(TDF),
+        (stage6TDF)-[:STAGE_IN {stage_nr:6}]->(TDF),
+        (stage7TDF)-[:STAGE_IN {stage_nr:7}]->(TDF),
+        (stage8TDF)-[:STAGE_IN {stage_nr:8}]->(TDF),
+        (stage9TDF)-[:STAGE_IN {stage_nr:9}]->(TDF),
+        (stage10TDF)-[:STAGE_IN {stage_nr:10}]->(TDF),
+        (stage11TDF)-[:STAGE_IN {stage_nr:11}]->(TDF),
+        (stage12TDF)-[:STAGE_IN {stage_nr:12}]->(TDF),
+        (stage13TDF)-[:STAGE_IN {stage_nr:13}]->(TDF),
+        (stage14TDF)-[:STAGE_IN {stage_nr:14}]->(TDF),
+        (stage15TDF)-[:STAGE_IN {stage_nr:15}]->(TDF),
+        (stage16TDF)-[:STAGE_IN {stage_nr:16}]->(TDF),
+        (stage17TDF)-[:STAGE_IN {stage_nr:17}]->(TDF),
+        (stage18TDF)-[:STAGE_IN {stage_nr:18}]->(TDF),
+        (stage19TDF)-[:STAGE_IN {stage_nr:19}]->(TDF),
+        (stage20TDF)-[:STAGE_IN {stage_nr:20}]->(TDF),
+        (stage21TDF)-[:STAGE_IN {stage_nr:21}]->(TDF),
+        (stage1Vuelta)-[:STAGE_IN {stage_nr:1}]->(LaVuelta),
+        (stage2Vuelta)-[:STAGE_IN {stage_nr:2}]->(LaVuelta),
+        (stage3Vuelta)-[:STAGE_IN {stage_nr:3}]->(LaVuelta),
+        (stage4Vuelta)-[:STAGE_IN {stage_nr:4}]->(LaVuelta),
+        (stage5Vuelta)-[:STAGE_IN {stage_nr:5}]->(LaVuelta),
+        (stage6Vuelta)-[:STAGE_IN {stage_nr:6}]->(LaVuelta),
+        (stage7Vuelta)-[:STAGE_IN {stage_nr:7}]->(LaVuelta),
+        (stage8Vuelta)-[:STAGE_IN {stage_nr:8}]->(LaVuelta),
+        (stage9Vuelta)-[:STAGE_IN {stage_nr:9}]->(LaVuelta),
+        (stage10Vuelta)-[:STAGE_IN {stage_nr:10}]->(LaVuelta),
+        (stage11Vuelta)-[:STAGE_IN {stage_nr:11}]->(LaVuelta),
+        (stage12Vuelta)-[:STAGE_IN {stage_nr:12}]->(LaVuelta),
+        (stage13Vuelta)-[:STAGE_IN {stage_nr:13}]->(LaVuelta),
+        (stage14Vuelta)-[:STAGE_IN {stage_nr:14}]->(LaVuelta),
+        (stage15Vuelta)-[:STAGE_IN {stage_nr:15}]->(LaVuelta),
+        (stage16Vuelta)-[:STAGE_IN {stage_nr:16}]->(LaVuelta),
+        (stage17Vuelta)-[:STAGE_IN {stage_nr:17}]->(LaVuelta),
+        (stage18Vuelta)-[:STAGE_IN {stage_nr:18}]->(LaVuelta),
+        (stage19Vuelta)-[:STAGE_IN {stage_nr:19}]->(LaVuelta),
+        (stage20Vuelta)-[:STAGE_IN {stage_nr:20}]->(LaVuelta),
+        (stage21Vuelta)-[:STAGE_IN {stage_nr:21}]->(LaVuelta),
+        (AlmeidaJ)-[:CYCLIST {year_joined:2022}]->(UAE),
+        (AlmeidaJ)-[:PARTICIPATED_IN {time:"6:17:40"}]->(LiegeBastogneLiege),
+        (AlmeidaJ)-[:FINISHED_AT {place:29}]->(LiegeBastogneLiege),
+        (AlmeidaJ)-[:PARTICIPATED_IN {time:"83:57:5"}]->(TDF),
+        (AlmeidaJ)-[:FINISHED_AT {place:4}]->(TDF),
+        (ArrietaI)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (AyusoJ)-[:CYCLIST {year_joined:2021}]->(UAE),
+        (BaronciniF)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (BaronciniF)-[:PARTICIPATED_IN {time:"84:55:3"}]->(LaVuelta),
+        (BaronciniF)-[:FINISHED_AT {place:66}]->(LaVuelta),
+        (BaxS)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (BaxS)-[:PARTICIPATED_IN {time:null}]->(LiegeBastogneLiege),
+        (BaxS)-[:FINISHED_AT {place:null}]->(LiegeBastogneLiege),
+        (BjergM)-[:CYCLIST {year_joined:2020}]->(UAE),
+        (BjergM)-[:PARTICIPATED_IN {time:"6:06:19"}]->(RondeVanVlaanderen),
+        (BjergM)-[:FINISHED_AT {place:4}]->(RondeVanVlaanderen),
+        (BjergM)-[:PARTICIPATED_IN {time:"5:35:32"}]->(ParisRoubaix),
+        (BjergM)-[:FINISHED_AT {place:51}]->(ParisRoubaix),
+        (BjergM)-[:PARTICIPATED_IN {time:"84:06:14"}]->(Giro),
+        (BjergM)-[:FINISHED_AT {place:108}]->(Giro),
+        (ChristenJ)-[:CYCLIST {year_joined:2022}]->(UAE),
+        (ChristenJ)-[:PARTICIPATED_IN {time:null}]->(IlLombardia),
+        (ChristenJ)-[:FINISHED_AT {place:null}]->(IlLombardia),
+        (CoviA)-[:CYCLIST {year_joined:2020}]->(UAE),
+        (CoviA)-[:PARTICIPATED_IN {time:"6:19:24"}]->(MilanSanremo),
+        (CoviA)-[:FINISHED_AT {place:115}]->(MilanSanremo),
+        (CoviA)-[:PARTICIPATED_IN {time:null}]->(RondeVanVlaanderen),
+        (CoviA)-[:FINISHED_AT {place:null}]->(RondeVanVlaanderen),
+        (DelToroI)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (DelToroI)-[:PARTICIPATED_IN {time:"6:17:09"}]->(MilanSanremo),
+        (DelToroI)-[:FINISHED_AT {place:73}]->(MilanSanremo),
+        (DelToroI)-[:PARTICIPATED_IN {time:"83:46:45"}]->(LaVuelta),
+        (DelToroI)-[:FINISHED_AT {place:36}]->(LaVuelta),
+        (FisherBlackF)-[:CYCLIST {year_joined:2021}]->(UAE),
+        (FisherBlackF)-[:PARTICIPATED_IN {time:null}]->(LiegeBastogneLiege),
+        (FisherBlackF)-[:FINISHED_AT {place:null}]->(LiegeBastogneLiege),
+        (FisherBlackF)-[:PARTICIPATED_IN {time:null}]->(IlLombardia),
+        (FisherBlackF)-[:FINISHED_AT {place:null}]->(IlLombardia),
+        (GrossschartnerF)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (GrossschartnerF)-[:PARTICIPATED_IN {time:"81:10:09"}]->(Giro),
+        (GrossschartnerF)-[:FINISHED_AT {place:31}]->(Giro),
+        (HirschiM)-[:CYCLIST {year_joined:2021}]->(UAE),
+        (HirschiM)-[:PARTICIPATED_IN {time:"6:19:24"}]->(MilanSanremo),
+        (HirschiM)-[:FINISHED_AT {place:112}]->(MilanSanremo),
+        (HirschiM)-[:PARTICIPATED_IN {time:null}]->(RondeVanVlaanderen),
+        (HirschiM)-[:FINISHED_AT {place:null}]->(RondeVanVlaanderen),
+        (HirschiM)-[:PARTICIPATED_IN {time:"6:15:50"}]->(LiegeBastogneLiege),
+        (HirschiM)-[:FINISHED_AT {place:17}]->(LiegeBastogneLiege),
+        (HirschiM)-[:PARTICIPATED_IN {time:"6:16:21"}]->(IlLombardia),
+        (HirschiM)-[:FINISHED_AT {place:44}]->(IlLombardia),
+        (HodegAJ)-[:CYCLIST {year_joined:2022}]->(UAE),
+        (HodegAJ)-[:PARTICIPATED_IN {time:null}]->(ParisRoubaix),
+        (HodegAJ)-[:FINISHED_AT {place:null}]->(ParisRoubaix),
+        (LaengenVS)-[:CYCLIST {year_joined:2017}]->(UAE),
+        (LaengenVS)-[:PARTICIPATED_IN {time:null}]->(RondeVanVlaanderen),
+        (LaengenVS)-[:FINISHED_AT {place:null}]->(RondeVanVlaanderen),
+        (LaengenVS)-[:PARTICIPATED_IN {time:"83:11:01"}]->(Giro),
+        (LaengenVS)-[:FINISHED_AT {place:75}]->(Giro),
+        (MajkaR)-[:CYCLIST {year_joined:2021}]->(UAE),
+        (MajkaR)-[:PARTICIPATED_IN {time:"79:51:08"}]->(Giro),
+        (MajkaR)-[:FINISHED_AT {place:15}]->(Giro),
+        (MajkaR)-[:PARTICIPATED_IN {time:"6:23:10"}]->(IlLombardia),
+        (MajkaR)-[:FINISHED_AT {place:80}]->(IlLombardia),
+        (McNultyB)-[:CYCLIST {year_joined:2020}]->(UAE),
+        (McNultyB)-[:PARTICIPATED_IN {time:"84:27:02"}]->(LaVuelta),
+        (McNultyB)-[:FINISHED_AT {place:54}]->(LaVuelta),
+        (MolanoJS)-[:CYCLIST {year_joined:2019}]->(UAE),
+        (MolanoJS)-[:PARTICIPATED_IN {time:"5:37:58"}]->(ParisRoubaix),
+        (MolanoJS)-[:FINISHED_AT {place:76}]->(ParisRoubaix),
+        (MolanoJS)-[:PARTICIPATED_IN {time:"84:39:11"}]->(Giro),
+        (MolanoJS)-[:FINISHED_AT {place:125}]->(Giro),
+        (MorgadoA)-[:CYCLIST {year_joined:2024}]->(UAE),
+        (MorgadoA)-[:PARTICIPATED_IN {time:"6:06:19"}]->(RondeVanVlaanderen),
+        (MorgadoA)-[:FINISHED_AT {place:5}]->(RondeVanVlaanderen),
+        (MorgadoA)-[:PARTICIPATED_IN {time:"5:41:01"}]->(ParisRoubaix),
+        (MorgadoA)-[:FINISHED_AT {place:87}]->(ParisRoubaix),
+        (NovakD)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (NovakD)-[:PARTICIPATED_IN {time:"6:22:21"}]->(MilanSanremo),
+        (NovakD)-[:FINISHED_AT {place:125}]->(MilanSanremo),
+        (NovakD)-[:PARTICIPATED_IN {time:"6:26:58"}]->(LiegeBastogneLiege),
+        (NovakD)-[:FINISHED_AT {place:60}]->(LiegeBastogneLiege),
+        (NovakD)-[:PARTICIPATED_IN {time:"82:50:48"}]->(Giro),
+        (NovakD)-[:FINISHED_AT {place:67}]->(Giro),
+        (OliveiraI)-[:CYCLIST {year_joined:2019}]->(UAE),
+        (OliveiraR)-[:CYCLIST {year_joined:2019}]->(UAE),
+        (OliveiraR)-[:PARTICIPATED_IN {time:"84:35:08"}]->(Giro),
+        (OliveiraR)-[:FINISHED_AT {place:121}]->(Giro),
+        (PogacarT)-[:CYCLIST {year_joined:2019}]->(UAE),
+        (PogacarT)-[:PARTICIPATED_IN {time:"6:14:44"}]->(MilanSanremo),
+        (PogacarT)-[:FINISHED_AT {place:3}]->(MilanSanremo),
+        (PogacarT)-[:PARTICIPATED_IN {time:"6:13:48"}]->(LiegeBastogneLiege),
+        (PogacarT)-[:FINISHED_AT {place:1}]->(LiegeBastogneLiege),
+        (PogacarT)-[:PARTICIPATED_IN {time:"79:14:03"}]->(Giro),
+        (PogacarT)-[:FINISHED_AT {place:1}]->(Giro),
+        (PogacarT)-[:PARTICIPATED_IN {time:"83:38:56"}]->(TDF),
+        (PogacarT)-[:FINISHED_AT {place:1}]->(TDF),
+        (PogacarT)-[:PARTICIPATED_IN {time:"6:04:58"}]->(IlLombardia),
+        (PogacarT)-[:FINISHED_AT {place:1}]->(IlLombardia),
+        (PolittN)-[:CYCLIST {year_joined:2024}]->(UAE),
+        (PolittN)-[:PARTICIPATED_IN {time:"6:06:19"}]->(RondeVanVlaanderen),
+        (PolittN)-[:FINISHED_AT {place:3}]->(RondeVanVlaanderen),
+        (PolittN)-[:PARTICIPATED_IN {time:"5:28:58"}]->(ParisRoubaix),
+        (PolittN)-[:FINISHED_AT {place:4}]->(ParisRoubaix),
+        (PolittN)-[:PARTICIPATED_IN {time:"87:42:17"}]->(TDF),
+        (PolittN)-[:FINISHED_AT {place:75}]->(TDF),
+        (SivakovP)-[:CYCLIST {year_joined:2024}]->(UAE),
+        (SivakovP)-[:PARTICIPATED_IN {time:"85:53:17"}]->(TDF),
+        (SivakovP)-[:FINISHED_AT {place:32}]->(TDF),
+        (SivakovP)-[:PARTICIPATED_IN {time:"81:59:22"}]->(LaVuelta),
+        (SivakovP)-[:FINISHED_AT {place:9}]->(LaVuelta),
+        (SivakovP)-[:PARTICIPATED_IN {time:"6:09:32"}]->(IlLombardia),
+        (SivakovP)-[:FINISHED_AT {place:6}]->(IlLombardia),
+        (SolerM)-[:CYCLIST {year_joined:2022}]->(UAE),
+        (SolerM)-[:PARTICIPATED_IN {time:"86:34:43"}]->(TDF),
+        (SolerM)-[:FINISHED_AT {place:44}]->(TDF),
+        (SolerM)-[:PARTICIPATED_IN {time:"83:59:55"}]->(LaVuelta),
+        (SolerM)-[:FINISHED_AT {place:41}]->(LaVuelta),
+        (UlissiD)-[:CYCLIST {year_joined:2017}]->(UAE),
+        (UlissiD)-[:PARTICIPATED_IN {time:"6:16:45"}]->(MilanSanremo),
+        (UlissiD)-[:FINISHED_AT {place:71}]->(MilanSanremo),
+        (UlissiD)-[:PARTICIPATED_IN {time:null}]->(LiegeBastogneLiege),
+        (UlissiD)-[:FINISHED_AT {place:null}]->(LiegeBastogneLiege),
+        (VineJ)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (VineJ)-[:PARTICIPATED_IN {time:"84:31:31"}]->(LaVuelta),
+        (VineJ)-[:FINISHED_AT {place:57}]->(LaVuelta),
+        (VinkM)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (VinkM)-[:PARTICIPATED_IN {time:null}]->(ParisRoubaix),
+        (VinkM)-[:FINISHED_AT {place:null}]->(ParisRoubaix),
+        (WellensT)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (WellensT)-[:PARTICIPATED_IN {time:"6:16:16"}]->(MilanSanremo),
+        (WellensT)-[:FINISHED_AT {place:56}]->(MilanSanremo),
+        (WellensT)-[:PARTICIPATED_IN {time:"6:06:33"}]->(RondeVanVlaanderen),
+        (WellensT)-[:FINISHED_AT {place:12}]->(RondeVanVlaanderen),
+        (WellensT)-[:PARTICIPATED_IN {time:"5:30:45"}]->(ParisRoubaix),
+        (WellensT)-[:FINISHED_AT {place:15}]->(ParisRoubaix),
+        (WellensT)-[:PARTICIPATED_IN {time:"87:59:45"}]->(TDF),
+        (WellensT)-[:FINISHED_AT {place:80}]->(TDF),
+        (YatesA)-[:CYCLIST {year_joined:2023}]->(UAE),
+        (YatesA)-[:PARTICIPATED_IN {time:"84:03:03"}]->(TDF),
+        (YatesA)-[:FINISHED_AT {place:6}]->(TDF),
+        (YatesA)-[:PARTICIPATED_IN {time:"82:04:58"}]->(LaVuelta),
+        (YatesA)-[:FINISHED_AT {place:12}]->(LaVuelta),
+        (YatesA)-[:PARTICIPATED_IN {time:"6:23:10"}]->(IlLombardia),
+        (YatesA)-[:FINISHED_AT {place:81}]->(IlLombardia),
+        (GianettiM)-[:GENERAL_MANAGER]->(UAE),
+        (FernandezJA)-[:SPORTS_DIRECTOR]->(UAE),
+        (HauptmanA)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (VicinoB)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (BaldatoF)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (GuidiF)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (PolancJ)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (TeixeiraJ)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (MoriM)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (MarcatoM)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (MarzanoM)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (GarciaR)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (PedrazziniS)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (MartinezT)-[:ASS_SPORTS_DIRECTOR]->(UAE),
+        (MirzaY)-[:ASS_SPORTS_DIRECTOR]->(UAE);
