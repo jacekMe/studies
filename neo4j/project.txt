@@ -28,20 +28,28 @@
                             - Paris - Roubix
                             - Liege - Bastogne - Liege
                             - Il Lombardia
-        - PERSON    - imię i nazwisko kolarza z 5 - 10 ekip kolarskich 
-        - STAGES    - etapy rozgrywane podczas Grand Tour
+        - TEAM      - nazwa drużyny (UAE)
+        - PERSON    - imię i nazwisko kolarza/członka sztabu
+        - STAGES    - nazwa etapu (start city - finish city)
 
     ## RELATIONSHIPS
 
-        - PARTICIPATED
-        - WINNER
-        - STAGE
+        - PARTICIPATED_IN   {time:[]}
+        - FINISHED_AT       {place:[]}
+        - STAGE_IN          {stage_nr:[]}
+        - CYCLIST           {year_joined:[]}
+        - GENERAL_MANAGER
+        - SPORTS_DIRECTOR
+        - ASS_SPORTS_DIRECTOR
+        - COACH
+        - STAFF
 
     ## LABELS
 
         - PERSON
-        - RACES
-        - STAGES
+        - RACE
+        - STAGE
+        - TEAM
 
     ## PROPERTIES
 
@@ -49,7 +57,14 @@
             - name
             - born
             - nationality
-            - team
+            - speciality
+            - height
+            - weight
+
+        - TEAM
+            - name
+            - licence country
+            - bike
 
         - RACES
             - name
