@@ -1,0 +1,34 @@
+
+# WYBÓR BAZY
+
+    use tdp
+
+# WYŚWIETLANIE DANYCH
+
+    db.getCollectionNames()
+
+    db.tour_de_pologne.find().count()
+
+    db.cities.find().count()
+
+    db.tour_de_pologne.find().limit(1)
+
+    db.cities.find(
+      {},
+      {_id: 0, name:1}
+    ).sort({name: -1})
+
+# WSTAWIANIE DANYCH
+
+    db.cities.insertOne({"cityId": 148, "name":"Lubin", "country":"Poland"})
+
+    db.tour_de_pologne.insertOne(
+    {"_id":36,
+     "race_name":"Tour de Pologne",
+     "country":"Poland",
+     "edition":82,
+     "year":2025})
+
+# MODYFIKOWANIE DANYCH
+
+    
