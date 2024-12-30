@@ -1,0 +1,38 @@
+1. Wyświetlanie wszystkich danych 
+
+    MATCH (n) RETURN n;
+
+2. Zliczenie wszystkich węzłów w bazie danych
+
+    MATCH (n) RETURN count(n);
+
+3. Wyświetlenie nazw wszystkich wyścigów
+
+    MATCH (race:Race) RETURN race.name;
+
+4. Wyświetlenie wszystkich kolarzy drużyny UAE Team z informacją, w którym roku 
+    dołączyli do zespoły, posortowanych wg roku.
+
+    MATCH (uae:Team {name:'UAE Team Emirates'})<-[r:CYCLIST]-(cyclist)
+    RETURN cyclist.name AS cyclistName, r.year_joined AS yearJoined
+    ORDER BY yearJoined;
+
+5. Wyświetlenie wszystkich wyścigów, w których brał udział Tadej Pogacar, 
+    posortowanych wg daty startu wyścigu
+
+    MATCH (p:Person {name:'Tadej Pogacar'})-[r:PARTICIPATED_IN]->(race:Race)
+    RETURN race.name AS raceName, race.start_date AS startDate
+    ORDER BY race.startDate;
+
+6. Wyświetlenie wszystkich zawodników biorących udział w wyścigu Giro d'Italia i
+    posortowanych wg zajętego miejsca
+
+    MATCH (p:Person)-[r:FINISHED_AT]->(race:Race{name:"Giro d'Italia"})
+    RETURN p.name AS cyclistName, r.place AS generalClassification
+    ORDER BY generalClassification;
+
+7. Wyświetlenie łącznego czasu Tadeja Pogacara we wszystkich wyścigach w których
+    brał udział.
+
+    MATCH (p:Person {name:'Tadej Pogacar'})-[r:PARTICIPATED_IN]->(race)
+    RETURN p.name AS cyclistName, sum(r.time) AS totalTime;
