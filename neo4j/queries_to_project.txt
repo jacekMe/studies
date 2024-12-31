@@ -1,38 +1,186 @@
-1. Wyświetlanie wszystkich danych 
+1. Jakie są dane w bazie?
+    Wyświetla wszystkie dane jakie są w bazie:
 
     MATCH (n) RETURN n;
 
-2. Zliczenie wszystkich węzłów w bazie danych
+2. Ile jest wszystkich węzłów?
+    Wyświetla liczbę wszystkich węzłów w bazie:
 
     MATCH (n) RETURN count(n);
 
-3. Wyświetlenie nazw wszystkich wyścigów
+3. Jakie i ile relacje jest przypisanych do węzła 'Tadej Pogacar'
+    Wyświetla wszystkie relacje dla węzła 'Tadej Pogacar':
+
+    MATCH (p:Person {name: "Tadej Pogacar"})-[r]-(cyclist)
+    RETURN type(r) AS relationType, count(r) AS relationCount;
+
+4. Jakie wyścigi znajdują się w bazie danych?
+    Wyświetla nazwy wszystkich wyścigów:
 
     MATCH (race:Race) RETURN race.name;
 
-4. Wyświetlenie wszystkich kolarzy drużyny UAE Team z informacją, w którym roku 
-    dołączyli do zespoły, posortowanych wg roku.
+5. Kto jeździ dla UAE Team Emirates?
+    Wyświetla wszystkich kolarzy drużyny UAE Team Emirates z informacją, w którym roku dołączyli do zespołu i posortowanych wg roku:
 
     MATCH (uae:Team {name:'UAE Team Emirates'})<-[r:CYCLIST]-(cyclist)
     RETURN cyclist.name AS cyclistName, r.year_joined AS yearJoined
     ORDER BY yearJoined;
 
-5. Wyświetlenie wszystkich wyścigów, w których brał udział Tadej Pogacar, 
-    posortowanych wg daty startu wyścigu
+6. W jakich wyścigach brał udział Tadej Pogacar?
+    Wyświetla wszystkie wyścigi, w których brał udział Tadej Pogacar i posortowane wg daty startu:
 
     MATCH (p:Person {name:'Tadej Pogacar'})-[r:PARTICIPATED_IN]->(race:Race)
     RETURN race.name AS raceName, race.start_date AS startDate
     ORDER BY race.startDate;
 
-6. Wyświetlenie wszystkich zawodników biorących udział w wyścigu Giro d'Italia i
-    posortowanych wg zajętego miejsca
+7. Którzy zawodnicy z drużyny UAE Team brali udział w Giro d'Italia?
+    Wyświetla wszystkich zawodników biorących udział w wyścigu Giro d'Italia i posortowanych wg zajętego miejsca:
 
     MATCH (p:Person)-[r:FINISHED_AT]->(race:Race{name:"Giro d'Italia"})
     RETURN p.name AS cyclistName, r.place AS generalClassification
     ORDER BY generalClassification;
 
-7. Wyświetlenie łącznego czasu Tadeja Pogacara we wszystkich wyścigach w których
-    brał udział.
+8.  Jaki jest łączny czas Tadeja Pogacara we wszystkich wyścigach?
+    Wyświetla całkowity czas Tadeja Pogacara we wszystkich wyścigach:
 
     MATCH (p:Person {name:'Tadej Pogacar'})-[r:PARTICIPATED_IN]->(race)
     RETURN p.name AS cyclistName, sum(r.time) AS totalTime;
+
+9. Który zawodnik był najlepszy w każdym wyścigu? 
+    Wyświetla nazwę wyścigu, nazwę zawodnika i miejsce, które zajął:
+
+    MATCH (p:Person)-[r:FINISHED_AT]->(race:Race)
+    WITH race.name AS raceName, min(r.place) AS bestPlace
+    MATCH (p:Person)-[r:FINISHED_AT]->(race:Race {name: raceName})
+    WHERE r.place = bestPlace
+    RETURN race.name AS raceName, p.name AS cyclistName, r.place AS theBestPlace;
+
+10. Jaki wyścig jest najdłuższy?
+    Wyświetla najdłuższy wyścig ze wszystkich w bazie:
+
+    MATCH (race:Race)
+    WITH max(race.total_length) AS maxLength
+    MATCH (race:Race)
+    WHERE race.total_length = maxLength
+    RETURN race.name, race.total_length AS longestRace;
+
+11. Który i jak nazywa się najkrótszy etapy dla wyścigu, w którym jest więcej niż jeden etap?
+    Wyświetla najkrótszy etap dla danego wyścigu:
+
+    MATCH (s:Stage)-[r:STAGE_IN]->(race:Race)
+    WHERE race.total_stages IS NOT NULL
+    WITH race.name AS raceName, min(s.distance) AS minLength
+    MATCH (s:Stage)-[r:STAGE_IN]->(race:Race)
+    WHERE s.distance = minLength
+    RETURN raceName, s.name AS stageName, r.stage_nr AS stageNumber, s.distance AS shortestStage;
+
+12. Jaka jest średnia wieku kolarzy w drużynie UAE?
+    Wyświetla średnią wieku kolarzy w drużynie UAE:
+
+    MATCH (p:Person)-[r:CYCLIST]->(t:Team)
+    WHERE p.born IS NOT NULL
+    WITH duration.between(p.born, date({year:2024, month:12, day:30})) AS ageDuration
+    MATCH (p:Person)-[r:CYCLIST]->(t:Team)
+    RETURN avg(ageDuration.years) AS avgAge;
+
+
+13. Jaka jest średnia waga kolarzy w drużynie UAE?
+    Wyświetla średnią wagę kolarzy w drużynie UAE:
+
+    MATCH (p:Person)-[r:CYCLIST]-(cyclist)
+    RETURN avg(p.weight);
+
+14. Który kolarz w drużynie jest najwyższy i ile ma wzrostu?
+    Wyświetla najwyższego kolarza wraz z wzrostem:
+
+    MATCH (p:Person)-[r:CYCLIST]->(cyclist)
+    WITH max(p.height) AS maxHeight
+    MATCH (p:Person)-[r:CYCLIST]->(cyclist)
+    WHERE p.height = maxHeight
+    RETURN p.name AS cyclistName, maxHeight;
+
+15. Który kolarz w drużynie jest najlżejszy i ile waży?
+    Wyświetla najlżejszego kolarza wraz w wagą:
+
+    MATCH (p:Person)-[r:CYCLIST]->(cyclist)
+    WITH min(p.weight) AS minWeight
+    MATCH (p:Person)-[r:CYCLIST]->(cyclist)
+    WHERE p.weight = minWeight
+    RETURN p.name AS cyclistName, minWeight;
+
+16. Ilu jest kolarzy, a ilu członków sztabu drużyny UAE Team Emirates?
+    Wyświetla ilość kolarzy i członków sztabu:
+
+    MATCH (p:Person)-[r]->(t:Team)
+    RETURN type(r) AS relationType, count(r) AS relationCount;
+
+17. Modyfikowanie imienia i nazwiska polskiego kolarza - Rafał Majka:
+
+    MATCH (p:Person {name: "Rafa� Majka"})
+    SET p.name = "Rafał Majka"
+    RETURN p;
+
+18. Usuwanie właściwości (weight) kolarza - Rafał Majka:
+
+    MATCH (p:Person {name: "Rafał Majka"})
+    SET p.weight = null
+    RETURN p.name AS cyclistName, p.weight AS cyclistWeight;
+
+19. Dodanie właściwości (weight) kolarza - Rafał Majka:
+
+    MATCH (p:Person {name: "Rafał Majka"})
+    SET p.weight = 62
+    RETURN p.name AS cyclistName, p.weight AS cyclistWeight;
+
+20. Dodanie właściwości (birth_place) dla kolarza - Rafał Majka:
+
+    MATCH (p:Person {name: "Rafał Majka"})
+    SET p.birth_place = "Zegartowice"
+    RETURN p;
+
+21. Usuwanie węzła
+
+    MATCH (p:Person {name: "Diego Ulissi"})
+    DELETE p;
+
+    * najpierw trzeba usunąć wszystkie relacje jakie są przypisane do tego węzła
+    
+22. Sprawdzenie jakie relacje są dla tego węzła:
+
+    MATCH (p:Person {name: "Diego Ulissi"})-[r]-(cyclist)
+    RETURN type(r);
+
+23. Usunięcie pierwszej relacji:
+
+    MATCH (p:Person {name: "Diego Ulissi"})-[r:PARTICIPATED_IN]->()
+    DELETE r;
+
+24. Usunięcie drugiej relacji:
+
+    MATCH (p:Person {name: "Diego Ulissi"})-[r:FINISHED_AT]->()
+    DELETE r;
+
+25. Usunięcie trzeciej relacji:
+
+    MATCH (p:Person {name: "Diego Ulissi"})-[r:CYCLIST]->()
+    DELETE r;
+
+26. Usunięcie węzła:
+
+    MATCH (p:Person {name: "Diego Ulissi"})
+    DELETE p;
+
+27. Dodanie nowego węzła i relacji do bazy danych:
+
+    CREATE (MeresJ:Person {name: "Jacek Meres", born: date("1988-08-18"), nationality: "Poland", speciality: "climber", height: 178, weight: 75})
+    CREATE (MeresJ)-[:CYCLIST {year_joined:2024}]->(UAE);
+
+28. Sprawdzenie czy nowy węzeł został dodany:
+
+    MATCH (p:Person {name: "Jacek Meres"})
+    RETURN p;
+
+29. Sprawdzenie jakie i ile relacji należy do nowego węzła:
+
+    MATCH (p:Person {name: "Jacek Meres"})-[r]-(cyclist)
+    RETURN type(r) AS relationType, count(r) AS relationCount;
