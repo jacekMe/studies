@@ -90,16 +90,56 @@
         {"id":7, "name":"Romet Bydgoszcz"}
     ],
     "gc_top10":[
-        {"place":1, "name":"MIECZYSŁAW KARŁOWICZ"},
-        {"place":2, "name":"GRIGORIJ ISCZENKO"},
-        {"place":3, "name":"TOMASZ BROŻYNA"},
-        {"place":4, "name":"PIOTR KORAB"},
-        {"place":5, "name":"ZBIGNIEW PIĄTEK"},
-        {"place":6, "name":"ARTUR KRASIŃSKI"},
-        {"place":7, "name":"VALNTIN TARAN"},
-        {"place":8, "name":"ADAM WOLAŃSKI"},
-        {"place":9, "name":"MARIUSZ BILEWSKI"},
-        {"place":10, "name":"SŁAWOMIR FREJOWSKI"}
+        {"place":1, "name":"MIECZYSŁAW KARŁOWICZ", "time": {
+            "hours":29,
+            "minutes":38,
+            "seconds":47
+        }},
+        {"place":2, "name":"GRIGORIJ ISCZENKO", "time": {
+            "hours":29,
+            "minutes":39,
+            "seconds":11
+        }},
+        {"place":3, "name":"TOMASZ BROŻYNA", "time": {
+            "hours":29,
+            "minutes":39,
+            "seconds":31
+        }},
+        {"place":4, "name":"PIOTR KORAB", "time": {
+            "hours":29,
+            "minutes":39,
+            "seconds":47
+        }},
+        {"place":5, "name":"ZBIGNIEW PIĄTEK", "time": {
+            "hours":29,
+            "minutes":39,
+            "seconds":49
+        }},
+        {"place":6, "name":"ARTUR KRASIŃSKI", "time": {
+            "hours":29,
+            "minutes":42,
+            "seconds":22
+        }},
+        {"place":7, "name":"VALNTIN TARAN", "time": {
+            "hours":29,
+            "minutes":42,
+            "seconds":38
+        }},
+        {"place":8, "name":"ADAM WOLAŃSKI", "time": {
+            "hours":29,
+            "minutes":42,
+            "seconds":38
+        }},
+        {"place":9, "name":"MARIUSZ BILEWSKI", "time": {
+            "hours":29,
+            "minutes":42,
+            "seconds":53
+        }},
+        {"place":10, "name":"SŁAWOMIR FREJOWSKI", "time": {
+            "hours":29,
+            "minutes":43,
+            "seconds":27
+        }}
     ]
 }, {
     "_id":2,
@@ -187,16 +227,56 @@
         {"id":9, "name":"Górnik Polkowice"}
     ],
     "gc_top10":[
-        {"place":1, "name":"DARIUSZ BARANOWSKI"},
-        {"place":2, "name":"MARIUSZ BILEWSKI"},
-        {"place":3, "name":"MAREK KAMIŃSKI"},
-        {"place":4, "name":"JERZY SIKORA"},
-        {"place":5, "name":"VLADIMIR PERELAZNY"},
-        {"place":6, "name":"MARIUSZ WALENTYN"},
-        {"place":7, "name":"ZBIGNIEW SPRUCH"},
-        {"place":8, "name":"ADAM WOLAŃSKI"},
-        {"place":9, "name":"PIOTR KOSMALA"},
-        {"place":10, "name":"MARIUSZ RYŚ"}
+        {"place":1, "name":"DARIUSZ BARANOWSKI", "time": {
+            "hours":28,
+            "minutes":31,
+            "seconds":33
+        }},
+        {"place":2, "name":"MARIUSZ BILEWSKI", "time": {
+            "hours":28,
+            "minutes":32,
+            "seconds":25
+        }},
+        {"place":3, "name":"MAREK KAMIŃSKI", "time": {
+            "hours":28,
+            "minutes":32,
+            "seconds":31
+        }},
+        {"place":4, "name":"JERZY SIKORA", "time": {
+            "hours":28,
+            "minutes":32,
+            "seconds":54
+        }},
+        {"place":5, "name":"VLADIMIR PERELAZNY", "time": {
+            "hours":28,
+            "minutes":33,
+            "seconds":12
+        }},
+        {"place":6, "name":"MARIUSZ WALENTYN", "time": {
+            "hours":28,
+            "minutes":33,
+            "seconds":21
+        }},
+        {"place":7, "name":"ZBIGNIEW SPRUCH", "time": {
+            "hours":28,
+            "minutes":33,
+            "seconds":32
+        }},
+        {"place":8, "name":"ADAM WOLAŃSKI", "time": {
+            "hours":28,
+            "minutes":33,
+            "seconds":38
+        }},
+        {"place":9, "name":"PIOTR KOSMALA", "time": {
+            "hours":28,
+            "minutes":33,
+            "seconds":39
+        }},
+        {"place":10, "name":"MARIUSZ RYŚ", "time": {
+            "hours":28,
+            "minutes":33,
+            "seconds":51
+        }}
     ]
 },  {
     "_id":3,
@@ -283,16 +363,56 @@
         {"id":8, "name":"Ukraina"}
     ],
     "gc_top10":[
-        {"place":1, "name":"DARIUSZ BARANOWSKI"},
-        {"place":2, "name":"RAIMONDAS RUMSAS"},
-        {"place":3, "name":"IGOR PASTAUKHOWICZ"},
-        {"place":4, "name":"GRZEGORZ PIWOWARSKI"},
-        {"place":5, "name":"PIOTR KORAB"},
-        {"place":6, "name":"OLEG GAŁKIN"},
-        {"place":7, "name":"MARIUSZ BILEWSKI"},
-        {"place":8, "name":"PIOTR WADECKI"},
-        {"place":9, "name":"KESTUTIS STAKENAS"},
-        {"place":10, "name":"ALEKSANDER SZARAPOW"}
+        {"place":1, "name":"DARIUSZ BARANOWSKI", "time": {
+            "hours":29,
+            "minutes":11,
+            "seconds":5
+        }},
+        {"place":2, "name":"RAIMONDAS RUMSAS", "time": {
+            "hours":29,
+            "minutes":11,
+            "seconds":14
+        }},
+        {"place":3, "name":"IGOR PASTAUKHOWICZ", "time": {
+            "hours":29,
+            "minutes":12,
+            "seconds":45
+        }},
+        {"place":4, "name":"GRZEGORZ PIWOWARSKI", "time": {
+            "hours":29,
+            "minutes":12,
+            "seconds":49
+        }},
+        {"place":5, "name":"PIOTR KORAB", "time": {
+            "hours":29,
+            "minutes":14,
+            "seconds":10
+        }},
+        {"place":6, "name":"OLEG GAŁKIN", "time": {
+            "hours":29,
+            "minutes":14,
+            "seconds":36
+        }},
+        {"place":7, "name":"MARIUSZ BILEWSKI", "time": {
+            "hours":29,
+            "minutes":15,
+            "seconds":42
+        }},
+        {"place":8, "name":"PIOTR WADECKI", "time": {
+            "hours":29,
+            "minutes":16,
+            "seconds":9
+        }},
+        {"place":9, "name":"KESTUTIS STAKENAS", "time": {
+            "hours":29,
+            "minutes":16,
+            "seconds":54
+        }},
+        {"place":10, "name":"ALEKSANDER SZARAPOW", "time": {
+            "hours":29,
+            "minutes":17,
+            "seconds":36
+        }}
     ]
 },  {
     "_id":4,
@@ -409,16 +529,56 @@
         {"id":10, "name":"Ukraina"}
     ],
     "gc_top10":[
-        {"place":1, "name":"DARIUSZ BARANOWSKI"},
-        {"place":2, "name":"MAREK LEŚNIEWSKI"},
-        {"place":3, "name":"JONAS ROMANOVAS"},
-        {"place":4, "name":"ANDRZEJ SYPYTKOWSKI"},
-        {"place":5, "name":"ZBIGNIEW PIĄTEK"},
-        {"place":6, "name":"ZBIGNIEW SPRUCH"},
-        {"place":7, "name":"REMIGIUS LUPEIKIS"},
-        {"place":8, "name":"ARTURAS KASPUTIS"},
-        {"place":9, "name":"CEZARY ZAMANA"},
-        {"place":10, "name":"JAROSŁAW CHOJNACKI"}
+        {"place":1, "name":"DARIUSZ BARANOWSKI", "time": {
+            "hours":41,
+            "minutes":59,
+            "seconds":56
+        }},
+        {"place":2, "name":"MAREK LEŚNIEWSKI", "time": {
+            "hours":42,
+            "minutes":0,
+            "seconds":52
+        }},
+        {"place":3, "name":"JONAS ROMANOVAS", "time": {
+            "hours":42,
+            "minutes":1,
+            "seconds":13
+        }},
+        {"place":4, "name":"ANDRZEJ SYPYTKOWSKI", "time": {
+            "hours":42,
+            "minutes":1,
+            "seconds":28
+        }},
+        {"place":5, "name":"ZBIGNIEW PIĄTEK", "time": {
+            "hours":42,
+            "minutes":1,
+            "seconds":48
+        }},
+        {"place":6, "name":"ZBIGNIEW SPRUCH", "time": {
+            "hours":42,
+            "minutes":2,
+            "seconds":6
+        }},
+        {"place":7, "name":"REMIGIUS LUPEIKIS", "time": {
+            "hours":42,
+            "minutes":2,
+            "seconds":25
+        }},
+        {"place":8, "name":"ARTURAS KASPUTIS", "time": {
+            "hours":42,
+            "minutes":3,
+            "seconds":28
+        }},
+        {"place":9, "name":"CEZARY ZAMANA", "time": {
+            "hours":42,
+            "minutes":4,
+            "seconds":18
+        }},
+        {"place":10, "name":"JAROSŁAW CHOJNACKI", "time": {
+            "hours":42,
+            "minutes":4,
+            "seconds":47
+        }}
     ]
 },  {
     "_id":5,
@@ -499,16 +659,56 @@
         {"id":9, "name":"Team Isostar"}
     ],
     "gc_top10":[
-        {"place":1, "name":"MAURIZIO FONDRIEST"},
-        {"place":2, "name":"MARCO LIETTI"},
-        {"place":3, "name":"TOMASZ BROŻYNA"},
-        {"place":4, "name":"ROMANS VAINSTEINS"},
-        {"place":5, "name":"PIOTR WADECKI"},
-        {"place":6, "name":"DARIUSZ BIGOS"},
-        {"place":7, "name":"ZBIGNIEW SPRUCH"},
-        {"place":8, "name":"KASPARS OZERS"},
-        {"place":9, "name":"DARIUSZ BARANOWSKI"},
-        {"place":10, "name":"ZBIGNIEW PIĄTEK"}
+        {"place":1, "name":"MAURIZIO FONDRIEST", "time":{
+            "hours":27,
+            "minutes":4,
+            "seconds":17
+        }},
+        {"place":2, "name":"MARCO LIETTI", "time":{
+            "hours":27,
+            "minutes":7,
+            "seconds":48
+        }},
+        {"place":3, "name":"TOMASZ BROŻYNA", "time":{
+            "hours":27,
+            "minutes":7,
+            "seconds":53
+        }},
+        {"place":4, "name":"ROMANS VAINSTEINS", "time":{
+            "hours":27,
+            "minutes":9,
+            "seconds":21
+        }},
+        {"place":5, "name":"PIOTR WADECKI", "time":{
+            "hours":27,
+            "minutes":11,
+            "seconds":55
+        }},
+        {"place":6, "name":"DARIUSZ BIGOS", "time":{
+            "hours":27,
+            "minutes":12,
+            "seconds":21
+        }},
+        {"place":7, "name":"ZBIGNIEW SPRUCH", "time":{
+            "hours":27,
+            "minutes":13,
+            "seconds":56
+        }},
+        {"place":8, "name":"KASPARS OZERS", "time":{
+            "hours":27,
+            "minutes":14,
+            "seconds":11
+        }},
+        {"place":9, "name":"DARIUSZ BARANOWSKI", "time":{
+            "hours":27,
+            "minutes":14,
+            "seconds":18
+        }},
+        {"place":10, "name":"ZBIGNIEW PIĄTEK", "time":{
+            "hours":27,
+            "minutes":14,
+            "seconds":52
+        }}
     ]
 },  {
     "_id":6,
@@ -596,16 +796,56 @@
         {"id":9, "name":"Sicasal - Acral"}
     ],
     "gc_top10":[
-        {"place":1, "name":"ZBIGNIEW SPRUCH"},
-        {"place":2, "name":"FABRIZIO GUIDI"},
-        {"place":3, "name":"DARIUSZ BARANOWSKI"},
-        {"place":4, "name":"MAREK LEŚNIEWSKI"},
-        {"place":5, "name":"TOMASZ BROŻYNA"},
-        {"place":6, "name":"ROMANS VAINSTEINS"},
-        {"place":7, "name":"GRZEGORZ GWIAZDOWSKI"},
-        {"place":8, "name":"ANDRZEJ SYPYTKOWSKI"},
-        {"place":9, "name":"JACEK BODYK"},
-        {"place":10, "name":"EDDY GRAGUS"}
+        {"place":1, "name":"ZBIGNIEW SPRUCH", "time":{
+            "hours":29,
+            "minutes":45,
+            "seconds":48
+        }},
+        {"place":2, "name":"FABRIZIO GUIDI", "time":{
+            "hours":29,
+            "minutes":46,
+            "seconds":43
+        }},
+        {"place":3, "name":"DARIUSZ BARANOWSKI", "time":{
+            "hours":29,
+            "minutes":47,
+            "seconds":50
+        }},
+        {"place":4, "name":"MAREK LEŚNIEWSKI", "time":{
+            "hours":29,
+            "minutes":49,
+            "seconds":37
+        }},
+        {"place":5, "name":"TOMASZ BROŻYNA", "time":{
+            "hours":29,
+            "minutes":50,
+            "seconds":13
+        }},
+        {"place":6, "name":"ROMANS VAINSTEINS", "time":{
+            "hours":29,
+            "minutes":51,
+            "seconds":14
+        }},
+        {"place":7, "name":"GRZEGORZ GWIAZDOWSKI", "time":{
+            "hours":29,
+            "minutes":51,
+            "seconds":17
+        }},
+        {"place":8, "name":"ANDRZEJ SYPYTKOWSKI", "time":{
+            "hours":29,
+            "minutes":51,
+            "seconds":24
+        }},
+        {"place":9, "name":"JACEK BODYK", "time":{
+            "hours":29,
+            "minutes":51,
+            "seconds":32
+        }},
+        {"place":10, "name":"EDDY GRAGUS", "time":{
+            "hours":29,
+            "minutes":51,
+            "seconds":33
+        }}
     ]
 },  {
     "_id":7,
@@ -684,16 +924,56 @@
         {"id":7, "name":"Pekaes Lang Rover Bianchi"}
     ],
     "gc_top10":[
-        {"place":1, "name":"VIATCHESLAV DJAVANIAN"},
-        {"place":2, "name":"MAURIZIO FONDRIEST"},
-        {"place":3, "name":"ANDREA NOE"},
-        {"place":4, "name":"VALENTINO FOIS"},
-        {"place":5, "name":"YOURI SOURKOV"},
-        {"place":6, "name":"FILIPPO SIMEONI"},
-        {"place":7, "name":"VASSILI DAVIDENKO"},
-        {"place":8, "name":"DARREN BAKER"},
-        {"place":9, "name":"RAIMONDAS RUMSAS"},
-        {"place":10, "name":"ZBIGNIEW PIĄTEK"}
+        {"place":1, "name":"VIATCHESLAV DJAVANIAN", "time":{
+            "hours":28,
+            "minutes":3,
+            "seconds":46
+        }},
+        {"place":2, "name":"MAURIZIO FONDRIEST", "time":{
+            "hours":28,
+            "minutes":06,
+            "seconds":30
+        }},
+        {"place":3, "name":"ANDREA NOE", "time":{
+            "hours":28,
+            "minutes":9,
+            "seconds":4
+        }},
+        {"place":4, "name":"VALENTINO FOIS", "time":{
+            "hours":28,
+            "minutes":9,
+            "seconds":35
+        }},
+        {"place":5, "name":"YOURI SOURKOV", "time":{
+            "hours":28,
+            "minutes":11,
+            "seconds":36
+        }},
+        {"place":6, "name":"FILIPPO SIMEONI", "time":{
+            "hours":28,
+            "minutes":11,
+            "seconds":55
+        }},
+        {"place":7, "name":"VASSILI DAVIDENKO", "time":{
+            "hours":28,
+            "minutes":12,
+            "seconds":9
+        }},
+        {"place":8, "name":"DARREN BAKER", "time":{
+            "hours":28,
+            "minutes":14,
+            "seconds":47
+        }},
+        {"place":9, "name":"RAIMONDAS RUMSAS", "time":{
+            "hours":28,
+            "minutes":19,
+            "seconds":21
+        }},
+        {"place":10, "name":"ZBIGNIEW PIĄTEK", "time":{
+            "hours":28,
+            "minutes":20,
+            "seconds":54
+        }}
     ]
 },  {
     "_id":8,
@@ -790,16 +1070,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"ROLF JARMANN"},
-        {"place":2, "name":"ZENON JASKUŁA"},
-        {"place":3, "name":"SASA SVIBEN"},
-        {"place":4, "name":"ALEXANDRE VINOKOUROV"},
-        {"place":5, "name":"ALEXEI SIVAKOV"},
-        {"place":6, "name":"DAINIS OZOLS"},
-        {"place":7, "name":"PIOTR UGRUMOV"},
-        {"place":8, "name":"MARKUS ZBERG"},
-        {"place":9, "name":"PIOTR CHMIELEWSKI"},
-        {"place":10, "name":"GIANPAOLO MONDINI"}
+        {"place":1, "name":"ROLF JARMANN", "time":{
+            "hours":33,
+            "minutes":27,
+            "seconds":53
+        }},
+        {"place":2, "name":"ZENON JASKUŁA", "time":{
+            "hours":33,
+            "minutes":28,
+            "seconds":18
+        }},
+        {"place":3, "name":"SASA SVIBEN", "time":{
+            "hours":33,
+            "minutes":28,
+            "seconds":55
+        }},
+        {"place":4, "name":"ALEXANDRE VINOKOUROV", "time":{
+            "hours":33,
+            "minutes":29,
+            "seconds":12
+        }},
+        {"place":5, "name":"ALEXEI SIVAKOV", "time":{
+            "hours":33,
+            "minutes":29,
+            "seconds":47
+        }},
+        {"place":6, "name":"DAINIS OZOLS", "time":{
+            "hours":33,
+            "minutes":29,
+            "seconds":51
+        }},
+        {"place":7, "name":"PIOTR UGRUMOV", "time":{
+            "hours":33,
+            "minutes":30,
+            "seconds":34
+        }},
+        {"place":8, "name":"MARKUS ZBERG", "time":{
+            "hours":33,
+            "minutes":30,
+            "seconds":47
+        }},
+        {"place":9, "name":"PIOTR CHMIELEWSKI", "time":{
+            "hours":33,
+            "minutes":31,
+            "seconds":51
+        }},
+        {"place":10, "name":"GIANPAOLO MONDINI", "time":{
+            "hours":33,
+            "minutes":31,
+            "seconds":54
+        }}
     ]
 },  {
     "_id":9,
@@ -895,16 +1215,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"SERGEI IVANOV"},
-        {"place":2, "name":"JACKY DURAND"},
-        {"place":3, "name":"FABIO MALBERTI"},
-        {"place":4, "name":"CHRISTOPHE BASSONS"},
-        {"place":5, "name":"RAIMONDAS RUMSAS"},
-        {"place":6, "name":"DARIUSZ BARANOWSKI"},
-        {"place":7, "name":"ZBIGNIEW SPRUCH"},
-        {"place":8, "name":"ALEXANDRE VINOKOUROV"},
-        {"place":9, "name":"MASSIMO GIMONDI"},
-        {"place":10, "name":"VLADISLAV BOBRIK"}
+        {"place":1, "name":"SERGEI IVANOV", "time":{
+            "hours":34,
+            "minutes":21,
+            "seconds":25
+        }},
+        {"place":2, "name":"JACKY DURAND", "time":{
+            "hours":34,
+            "minutes":23,
+            "seconds":51
+        }},
+        {"place":3, "name":"FABIO MALBERTI", "time":{
+            "hours":34,
+            "minutes":24,
+            "seconds":35
+        }},
+        {"place":4, "name":"CHRISTOPHE BASSONS", "time":{
+            "hours":34,
+            "minutes":24,
+            "seconds":47
+        }},
+        {"place":5, "name":"RAIMONDAS RUMSAS", "time":{
+            "hours":34,
+            "minutes":24,
+            "seconds":49
+        }},
+        {"place":6, "name":"DARIUSZ BARANOWSKI", "time":{
+            "hours":34,
+            "minutes":25,
+            "seconds":12
+        }},
+        {"place":7, "name":"ZBIGNIEW SPRUCH", "time":{
+            "hours":34,
+            "minutes":25,
+            "seconds":30
+        }},
+        {"place":8, "name":"ALEXANDRE VINOKOUROV", "time":{
+            "hours":34,
+            "minutes":26,
+            "seconds":0
+        }},
+        {"place":9, "name":"MASSIMO GIMONDI", "time":{
+            "hours":34,
+            "minutes":26,
+            "seconds":59
+        }},
+        {"place":10, "name":"VLADISLAV BOBRIK", "time":{
+            "hours":34,
+            "minutes":27,
+            "seconds":31
+        }}
     ]
 },  {
     "_id":10,
@@ -987,16 +1347,56 @@
         {"id":18, "name":"Sprandi Mat Jelcz-Laskowice"}
     ],
     "gc_top10":[
-        {"place":1, "name":"TOMASZ BROŻYNA"},
-        {"place":2, "name":"CEZARY ZAMANA"},
-        {"place":3, "name":"JENS VOIGT"},
-        {"place":4, "name":"RAIMONDAS RUMSAS"},
-        {"place":5, "name":"PIOTR WADECKI"},
-        {"place":6, "name":"ISIDRO NOZAL"},
-        {"place":7, "name":"CHRISTOPHE MOREAU"},
-        {"place":8, "name":"BART VOSKAMP"},
-        {"place":9, "name":"DENIS LEPROUX"},
-        {"place":10, "name":"ZBIGNIEW PIĄTEK"}
+        {"place":1, "name":"TOMASZ BROŻYNA", "time":{
+            "hours":27,
+            "minutes":52,
+            "seconds":53
+        }},
+        {"place":2, "name":"CEZARY ZAMANA", "time":{
+            "hours":27,
+            "minutes":53,
+            "seconds":22
+        }},
+        {"place":3, "name":"JENS VOIGT", "time":{
+            "hours":27,
+            "minutes":53,
+            "seconds":23
+        }},
+        {"place":4, "name":"RAIMONDAS RUMSAS", "time":{
+            "hours":27,
+            "minutes":55,
+            "seconds":58
+        }},
+        {"place":5, "name":"PIOTR WADECKI", "time":{
+            "hours":27,
+            "minutes":56,
+            "seconds":49
+        }},
+        {"place":6, "name":"ISIDRO NOZAL", "time":{
+            "hours":27,
+            "minutes":57,
+            "seconds":20
+        }},
+        {"place":7, "name":"CHRISTOPHE MOREAU", "time":{
+            "hours":27,
+            "minutes":57,
+            "seconds":28
+        }},
+        {"place":8, "name":"BART VOSKAMP", "time":{
+            "hours":27,
+            "minutes":58,
+            "seconds":19
+        }},
+        {"place":9, "name":"DENIS LEPROUX", "time":{
+            "hours":27,
+            "minutes":58,
+            "seconds":47
+        }},
+        {"place":10, "name":"ZBIGNIEW PIĄTEK", "time":{
+            "hours":27,
+            "minutes":59,
+            "seconds":24
+        }}
     ]
 },  {
     "_id":11,
@@ -1076,16 +1476,56 @@
         {"id":15, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"PIOTR PRZYDZIAŁ"},
-        {"place":2, "name":"PIOTR WADECKI"},
-        {"place":3, "name":"SERGEI IVANOV"},
-        {"place":4, "name":"VIATCHESLAV EKIMOV"},
-        {"place":5, "name":"MIGUEL ANGEL MARTIN PERDIGUERO"},
-        {"place":6, "name":"AITOR GONZALEZ"},
-        {"place":7, "name":"KURT VAN DE WOUWER"},
-        {"place":8, "name":"DARIO ANDRIOTTO"},
-        {"place":9, "name":"CEZARY ZAMANA"},
-        {"place":10, "name":"RADOSŁAW ROMANIAK"}
+        {"place":1, "name":"PIOTR PRZYDZIAŁ", "time":{
+            "hours":23,
+            "minutes":44,
+            "seconds":37
+        }},
+        {"place":2, "name":"PIOTR WADECKI", "time":{
+            "hours":23,
+            "minutes":44,
+            "seconds":44
+        }},
+        {"place":3, "name":"SERGEI IVANOV", "time":{
+            "hours":23,
+            "minutes":46,
+            "seconds":3
+        }},
+        {"place":4, "name":"VIATCHESLAV EKIMOV", "time":{
+            "hours":23,
+            "minutes":46,
+            "seconds":41
+        }},
+        {"place":5, "name":"MIGUEL ANGEL MARTIN PERDIGUERO", "time":{
+            "hours":23,
+            "minutes":46,
+            "seconds":45
+        }},
+        {"place":6, "name":"AITOR GONZALEZ", "time":{
+            "hours":23,
+            "minutes":48,
+            "seconds":6
+        }},
+        {"place":7, "name":"KURT VAN DE WOUWER", "time":{
+            "hours":23,
+            "minutes":48,
+            "seconds":20
+        }},
+        {"place":8, "name":"DARIO ANDRIOTTO", "time":{
+            "hours":23,
+            "minutes":48,
+            "seconds":31
+        }},
+        {"place":9, "name":"CEZARY ZAMANA", "time":{
+            "hours":23,
+            "minutes":49,
+            "seconds":6
+        }},
+        {"place":10, "name":"RADOSŁAW ROMANIAK", "time":{
+            "hours":23,
+            "minutes":49,
+            "seconds":7
+        }}
     ]
 },  {
     "_id":12,
@@ -1177,16 +1617,56 @@
         {"id":20, "name":"Weltour - Radio Katowice"}
     ],
     "gc_top10":[
-        {"place":1, "name":"ONDREJ SOSENKA"},
-        {"place":2, "name":"JENS VOIGT"},
-        {"place":3, "name":"PIOTR PRZYDZIAŁ"},
-        {"place":4, "name":"KIM KIRCHEN"},
-        {"place":5, "name":"ROMANS VAINSTEINS"},
-        {"place":6, "name":"SYLWESTER SZMYD"},
-        {"place":7, "name":"ZBIGNIEW PIĄTEK"},
-        {"place":8, "name":"VLADIMIR KARPETS"},
-        {"place":9, "name":"SERGE BAGUET"},
-        {"place":10, "name":"VOLODYMYR GUSTOV"}
+        {"place":1, "name":"ONDREJ SOSENKA", "time":{
+            "hours":29,
+            "minutes":56,
+            "seconds":58
+        }},
+        {"place":2, "name":"JENS VOIGT", "time":{
+            "hours":29,
+            "minutes":57,
+            "seconds":26
+        }},
+        {"place":3, "name":"PIOTR PRZYDZIAŁ", "time":{
+            "hours":29,
+            "minutes":58,
+            "seconds":57
+        }},
+        {"place":4, "name":"KIM KIRCHEN", "time":{
+            "hours":30,
+            "minutes":1,
+            "seconds":32
+        }},
+        {"place":5, "name":"ROMANS VAINSTEINS", "time":{
+            "hours":30,
+            "minutes":2,
+            "seconds":25
+        }},
+        {"place":6, "name":"SYLWESTER SZMYD", "time":{
+            "hours":30,
+            "minutes":3,
+            "seconds":1
+        }},
+        {"place":7, "name":"ZBIGNIEW PIĄTEK", "time":{
+            "hours":30,
+            "minutes":3,
+            "seconds":36
+        }},
+        {"place":8, "name":"VLADIMIR KARPETS", "time":{
+            "hours":30,
+            "minutes":3,
+            "seconds":56
+        }},
+        {"place":9, "name":"SERGE BAGUET", "time":{
+            "hours":30,
+            "minutes":6,
+            "seconds":17
+        }},
+        {"place":10, "name":"VOLODYMYR GUSTOV", "time":{
+            "hours":30,
+            "minutes":7,
+            "seconds":4
+        }}
     ]
 },  {
     "_id":13,
@@ -1277,16 +1757,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"LAURENT BROCHARD"},
-        {"place":2, "name":"TOMASZ BROŻYNA"},
-        {"place":3, "name":"MAREK RUTKIEWICZ"},
-        {"place":4, "name":"FRANK VANDENBROUCKE"},
-        {"place":5, "name":"ONDREJ SOSENKA"},
-        {"place":6, "name":"CEZARY ZAMANA"},
-        {"place":7, "name":"SŁAWOMIR KOHUT"},
-        {"place":8, "name":"BENOIT POILVET"},
-        {"place":9, "name":"VOLODYMYR GUSTOV"},
-        {"place":10, "name":"RICHARD VIRENQUE"}
+        {"place":1, "name":"LAURENT BROCHARD", "time":{
+            "hours":29,
+            "minutes":38,
+            "seconds":21
+        }},
+        {"place":2, "name":"TOMASZ BROŻYNA", "time":{
+            "hours":29,
+            "minutes":38,
+            "seconds":40
+        }},
+        {"place":3, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":29,
+            "minutes":38,
+            "seconds":46
+        }},
+        {"place":4, "name":"FRANK VANDENBROUCKE", "time":{
+            "hours":29,
+            "minutes":38,
+            "seconds":56
+        }},
+        {"place":5, "name":"ONDREJ SOSENKA", "time":{
+            "hours":29,
+            "minutes":38,
+            "seconds":59
+        }},
+        {"place":6, "name":"CEZARY ZAMANA", "time":{
+            "hours":29,
+            "minutes":39,
+            "seconds":10
+        }},
+        {"place":7, "name":"SŁAWOMIR KOHUT", "time":{
+            "hours":29,
+            "minutes":40,
+            "seconds":2
+        }},
+        {"place":8, "name":"BENOIT POILVET", "time":{
+            "hours":29,
+            "minutes":40,
+            "seconds":22
+        }},
+        {"place":9, "name":"VOLODYMYR GUSTOV", "time":{
+            "hours":29,
+            "minutes":40,
+            "seconds":43
+        }},
+        {"place":10, "name":"RICHARD VIRENQUE", "time":{
+            "hours":29,
+            "minutes":40,
+            "seconds":49
+        }}
     ]
 },  {
     "_id":14,
@@ -1376,16 +1896,56 @@
         {"id":18, "name":"Bonda"}
     ],
     "gc_top10":[
-        {"place":1, "name":"CEZARY ZAMANA"},
-        {"place":2, "name":"ANDREA NOE"},
-        {"place":3, "name":"DAVE BRUYLANDIS"},
-        {"place":4, "name":"LAURENT BROCHARD"},
-        {"place":5, "name":"MAREK RUTKIEWICZ"},
-        {"place":6, "name":"ANDREI ZINTCHENKO"},
-        {"place":7, "name":"JON BRU"},
-        {"place":8, "name":"ZBIGNIEW PIĄTEK"},
-        {"place":9, "name":"TOMASZ BROŻYNA"},
-        {"place":10, "name":"PIOTR PRZYDZIAŁ"}
+        {"place":1, "name":"CEZARY ZAMANA", "time":{
+            "hours":29,
+            "minutes":46,
+            "seconds":11
+        }},
+        {"place":2, "name":"ANDREA NOE", "time":{
+            "hours":29,
+            "minutes":47,
+            "seconds":23
+        }},
+        {"place":3, "name":"DAVE BRUYLANDIS", "time":{
+            "hours":29,
+            "minutes":47,
+            "seconds":57
+        }},
+        {"place":4, "name":"LAURENT BROCHARD", "time":{
+            "hours":29,
+            "minutes":48,
+            "seconds":2
+        }},
+        {"place":5, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":29,
+            "minutes":48,
+            "seconds":11
+        }},
+        {"place":6, "name":"ANDREI ZINTCHENKO", "time":{
+            "hours":29,
+            "minutes":49,
+            "seconds":1
+        }},
+        {"place":7, "name":"JON BRU", "time":{
+            "hours":29,
+            "minutes":49,
+            "seconds":23
+        }},
+        {"place":8, "name":"ZBIGNIEW PIĄTEK", "time":{
+            "hours":29,
+            "minutes":49,
+            "seconds":30
+        }},
+        {"place":9, "name":"TOMASZ BROŻYNA", "time":{
+            "hours":29,
+            "minutes":50,
+            "seconds":8
+        }},
+        {"place":10, "name":"PIOTR PRZYDZIAŁ", "time":{
+            "hours":29,
+            "minutes":50,
+            "seconds":27
+        }}
     ]
 },  {
     "_id":15,
@@ -1476,16 +2036,56 @@
         {"id":19, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"ONDREJ SOSENKA"},
-        {"place":2, "name":"HUGO SABIDO"},
-        {"place":3, "name":"FRANCO PELLIZOTTI"},
-        {"place":4, "name":"MAREK RUTKIEWICZ"},
-        {"place":5, "name":"ALLAN DAVIS"},
-        {"place":6, "name":"FLORENT BRARD"},
-        {"place":7, "name":"TOMASZ BROŻYNA"},
-        {"place":8, "name":"DAVID BERNABEU"},
-        {"place":9, "name":"CEZARY ZAMANA"},
-        {"place":10, "name":"RUI SOUSA"}
+        {"place":1, "name":"ONDREJ SOSENKA", "time":{
+            "hours":29,
+            "minutes":21,
+            "seconds":38
+        }},
+        {"place":2, "name":"HUGO SABIDO", "time":{
+            "hours":29,
+            "minutes":22,
+            "seconds":1
+        }},
+        {"place":3, "name":"FRANCO PELLIZOTTI", "time":{
+            "hours":29,
+            "minutes":22,
+            "seconds":18
+        }},
+        {"place":4, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":29,
+            "minutes":22,
+            "seconds":39
+        }},
+        {"place":5, "name":"ALLAN DAVIS", "time":{
+            "hours":29,
+            "minutes":23,
+            "seconds":22
+        }},
+        {"place":6, "name":"FLORENT BRARD", "time":{
+            "hours":29,
+            "minutes":24,
+            "seconds":0
+        }},
+        {"place":7, "name":"TOMASZ BROŻYNA", "time":{
+            "hours":29,
+            "minutes":24,
+            "seconds":22
+        }},
+        {"place":8, "name":"DAVID BERNABEU", "time":{
+            "hours":29,
+            "minutes":24,
+            "seconds":56
+        }},
+        {"place":9, "name":"CEZARY ZAMANA", "time":{
+            "hours":29,
+            "minutes":25,
+            "seconds":55
+        }},
+        {"place":10, "name":"RUI SOUSA", "time":{
+            "hours":29,
+            "minutes":27,
+            "seconds":15
+        }}
     ]
 },  {
     "_id":16,
@@ -1578,16 +2178,52 @@
         {"id":21, "name":"T-Mobile Team"}
     ],
     "gc_top10":[
-        {"place":1, "name":"KIM KIRCHEN"},
-        {"place":2, "name":"PIETER WEENING"},
-        {"place":3, "name":"THOMAS DEKKER"},
-        {"place":4, "name":"THOMAS LOFKVIST"},
-        {"place":5, "name":"DANILO DI LUCA"},
+        {"place":1, "name":"KIM KIRCHEN", "time":{
+            "hours":32,
+            "minutes":11,
+            "seconds":58
+        }},
+        {"place":2, "name":"PIETER WEENING", "time":{
+            "hours":32,
+            "minutes":12,
+            "seconds":3
+        }},
+        {"place":3, "name":"THOMAS DEKKER", "time":{
+            "hours":32,
+            "minutes":12,
+            "seconds":9
+        }},
+        {"place":4, "name":"THOMAS LOFKVIST", "time":{
+            "hours":32,
+            "minutes":12,
+            "seconds":16
+        }},
+        {"place":5, "name":"DANILO DI LUCA", "time":{
+            "hours":32,
+            "minutes":12,
+            "seconds":32
+        }},
         {"place":6, "name":null},
-        {"place":7, "name":"JAN HRUSKA"},
-        {"place":8, "name":"MAREK RUTKIEWICZ"},
-        {"place":9, "name":"SYLVAIN CHAVANEL"},
-        {"place":10, "name":"JOSE LUIS RUBIERA"}
+        {"place":7, "name":"JAN HRUSKA", "time":{
+            "hours":32,
+            "minutes":14,
+            "seconds":12
+        }},
+        {"place":8, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":32,
+            "minutes":14,
+            "seconds":41
+        }},
+        {"place":9, "name":"SYLVAIN CHAVANEL", "time":{
+            "hours":32,
+            "minutes":14,
+            "seconds":50
+        }},
+        {"place":10, "name":"JOSE LUIS RUBIERA", "time":{
+            "hours":32,
+            "minutes":15,
+            "seconds":1
+        }}
     ]
 },  {
     "_id":17,
@@ -1675,15 +2311,51 @@
         {"id":22, "name":"Intel - Action"}
     ],
     "gc_top10":[
-        {"place":1, "name":"STEFAN SCHUMACHER"},
-        {"place":2, "name":"CADEL EVANS"},
-        {"place":3, "name":"ALESSANDRO BALLAN"},
-        {"place":4, "name":"MAREK RUTKIEWICZ"},
-        {"place":5, "name":"ALEXANDR KOLOBNEV"},
-        {"place":6, "name":"ALEXANDRE BOTCHAROV"},
-        {"place":7, "name":"CRISTIAN MORENI"},
-        {"place":8, "name":"VINCENZO NIBALI"},
-        {"place":9, "name":"MARZIO BRUSEGHIN"},
+        {"place":1, "name":"STEFAN SCHUMACHER", "time":{
+            "hours":31,
+            "minutes":9,
+            "seconds":41
+        }},
+        {"place":2, "name":"CADEL EVANS", "time":{
+            "hours":31,
+            "minutes":9,
+            "seconds":59
+        }},
+        {"place":3, "name":"ALESSANDRO BALLAN", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":12
+        }},
+        {"place":4, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":12
+        }},
+        {"place":5, "name":"ALEXANDR KOLOBNEV", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":20
+        }},
+        {"place":6, "name":"ALEXANDRE BOTCHAROV", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":21
+        }},
+        {"place":7, "name":"CRISTIAN MORENI", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":26
+        }},
+        {"place":8, "name":"VINCENZO NIBALI", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":33
+        }},
+        {"place":9, "name":"MARZIO BRUSEGHIN", "time":{
+            "hours":31,
+            "minutes":10,
+            "seconds":37
+        }},
         {"place":10, "name":null}
     ]
 },  {
@@ -1771,16 +2443,56 @@
         {"id":22, "name":"Intel Action"}
     ],
     "gc_top10":[
-        {"place":1, "name":"JOHAN VANSUMMEREN"},
-        {"place":2, "name":"ROBERT GESINK"},
-        {"place":3, "name":"KIM KIRCHEN"},
-        {"place":4, "name":"FABIAN WEGMANN"},
-        {"place":5, "name":"ALESSANDRO BALLAN"},
-        {"place":6, "name":"PABLO LASTRAS"},
-        {"place":7, "name":"FRANK SCHLECK"},
-        {"place":8, "name":"DANILO DI LUCA"},
-        {"place":9, "name":"JOSE JOAQUIN ROJAS"},
-        {"place":10, "name":"THOMAS VOECKLER"}
+        {"place":1, "name":"JOHAN VANSUMMEREN", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":11
+        }},
+        {"place":2, "name":"ROBERT GESINK", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":38
+        }},
+        {"place":3, "name":"KIM KIRCHEN", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":49
+        }},
+        {"place":4, "name":"FABIAN WEGMANN", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":50
+        }},
+        {"place":5, "name":"ALESSANDRO BALLAN", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":55
+        }},
+        {"place":6, "name":"PABLO LASTRAS", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":55
+        }},
+        {"place":7, "name":"FRANK SCHLECK", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":55
+        }},
+        {"place":8, "name":"DANILO DI LUCA", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":55
+        }},
+        {"place":9, "name":"JOSE JOAQUIN ROJAS", "time":{
+            "hours":30,
+            "minutes":52,
+            "seconds":58
+        }},
+        {"place":10, "name":"THOMAS VOECKLER", "time":{
+            "hours":30,
+            "minutes":53,
+            "seconds":3
+        }}
     ]
 },  {
     "_id":19,
@@ -1862,16 +2574,56 @@
         
     ],
     "gc_top10":[
-        {"place":1, "name":"JENS VOIGT"},
-        {"place":2, "name":"LARS YTTING BAK"},
-        {"place":3, "name":"FRANCO PELLIZOTTI"},
-        {"place":4, "name":"ALLAN DAVIS"},
-        {"place":5, "name":"FRANCESCO GAVAZZI"},
-        {"place":6, "name":"GREGORY RAST"},
-        {"place":7, "name":"MIRCO LORENZETTO"},
-        {"place":8, "name":"DAVID LOOSLI"},
-        {"place":9, "name":"KJELL CARLSTROM"},
-        {"place":10, "name":"MAREK RUTKIEWICZ"}
+        {"place":1, "name":"JENS VOIGT", "time":{
+            "hours":21,
+            "minutes":13,
+            "seconds":18
+        }},
+        {"place":2, "name":"LARS YTTING BAK", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":40
+        }},
+        {"place":3, "name":"FRANCO PELLIZOTTI", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":42
+        }},
+        {"place":4, "name":"ALLAN DAVIS", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":45
+        }},
+        {"place":5, "name":"FRANCESCO GAVAZZI", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":46
+        }},
+        {"place":6, "name":"GREGORY RAST", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":51
+        }},
+        {"place":7, "name":"MIRCO LORENZETTO", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":54
+        }},
+        {"place":8, "name":"DAVID LOOSLI", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":55
+        }},
+        {"place":9, "name":"KJELL CARLSTROM", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":55
+        }},
+        {"place":10, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":21,
+            "minutes":14,
+            "seconds":55
+        }}
     ]
 },  {
     "_id":20,
@@ -1959,16 +2711,56 @@
         {"id":23, "name":"DHL - Author"}
     ],
     "gc_top10":[
-        {"place":1, "name":"ALESSANDRO BALLAN"},
-        {"place":2, "name":"DANIEL MORENO"},
-        {"place":3, "name":"EDVALD BOASSON HAGEN"},
-        {"place":4, "name":"PIETER WEENING"},
-        {"place":5, "name":"FRANCESCO REDA"},
-        {"place":6, "name":"MAREK RUTKIEWICZ"},
-        {"place":7, "name":"SYLWESTER SZMYD"},
-        {"place":8, "name":"MARCO MARCATO"},
-        {"place":9, "name":"PABLO LASTRAS"},
-        {"place":10, "name":"FRANCESCO GAVAZZI"}
+        {"place":1, "name":"ALESSANDRO BALLAN", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":13
+        }},
+        {"place":2, "name":"DANIEL MORENO", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":23
+        }},
+        {"place":3, "name":"EDVALD BOASSON HAGEN", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":24
+        }},
+        {"place":4, "name":"PIETER WEENING", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":25
+        }},
+        {"place":5, "name":"FRANCESCO REDA", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":29
+        }},
+        {"place":6, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":29
+        }},
+        {"place":7, "name":"SYLWESTER SZMYD", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":29
+        }},
+        {"place":8, "name":"MARCO MARCATO", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":36
+        }},
+        {"place":9, "name":"PABLO LASTRAS", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":39
+        }},
+        {"place":10, "name":"FRANCESCO GAVAZZI", "time":{
+            "hours":28,
+            "minutes":46,
+            "seconds":39
+        }}
     ]
 },  {
     "_id":21,
@@ -2057,16 +2849,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"DAN MARTIN"},
-        {"place":2, "name":"GREGA BOLE"},
-        {"place":3, "name":"BAUKE MOLLEMA"},
-        {"place":4, "name":"MICHAEL ALBASINI"},
-        {"place":5, "name":"ALESSANDRO BALLAN"},
-        {"place":6, "name":"SYLWESTER SZMYD"},
-        {"place":7, "name":"MAREK RUTKIEWICZ"},
-        {"place":8, "name":"TOM DANILSON"},
-        {"place":9, "name":"TIAGO MACHADO"},
-        {"place":10, "name":"SERGEY LAGUTIN"}
+        {"place":1, "name":"DAN MARTIN", "time":{
+            "hours":30,
+            "minutes":38,
+            "seconds":48
+        }},
+        {"place":2, "name":"GREGA BOLE", "time":{
+            "hours":30,
+            "minutes":38,
+            "seconds":56
+        }},
+        {"place":3, "name":"BAUKE MOLLEMA", "time":{
+            "hours":30,
+            "minutes":38,
+            "seconds":58
+        }},
+        {"place":4, "name":"MICHAEL ALBASINI", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":8
+        }},
+        {"place":5, "name":"ALESSANDRO BALLAN", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":9
+        }},
+        {"place":6, "name":"SYLWESTER SZMYD", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":14
+        }},
+        {"place":7, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":18
+        }},
+        {"place":8, "name":"TOM DANILSON", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":21
+        }},
+        {"place":9, "name":"TIAGO MACHADO", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":29
+        }},
+        {"place":10, "name":"SERGEY LAGUTIN", "time":{
+            "hours":30,
+            "minutes":39,
+            "seconds":33
+        }}
     ]
 },  {
     "_id":22,
@@ -2154,16 +2986,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"PETER SAGAN"},
-        {"place":2, "name":"DAN MARTIN"},
-        {"place":3, "name":"MARCO MARCATO"},
-        {"place":4, "name":"WOUT POELS"},
-        {"place":5, "name":"PETER KENNAUGH"},
-        {"place":6, "name":"RINALDO NOCENTINI"},
-        {"place":7, "name":"BARTOSZ HUZARSKI"},
-        {"place":8, "name":"CHRISTOPHE RIBLON"},
-        {"place":9, "name":"STEVE CUMMINGS"},
-        {"place":10, "name":"MAREK RUTKIEWICZ"}
+        {"place":1, "name":"PETER SAGAN", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":1
+        }},
+        {"place":2, "name":"DAN MARTIN", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":7
+        }},
+        {"place":3, "name":"MARCO MARCATO", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":8
+        }},
+        {"place":4, "name":"WOUT POELS", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":24
+        }},
+        {"place":5, "name":"PETER KENNAUGH", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":26
+        }},
+        {"place":6, "name":"RINALDO NOCENTINI", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":29
+        }},
+        {"place":7, "name":"BARTOSZ HUZARSKI", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":29
+        }},
+        {"place":8, "name":"CHRISTOPHE RIBLON", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":29
+        }},
+        {"place":9, "name":"STEVE CUMMINGS", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":29
+        }},
+        {"place":10, "name":"MAREK RUTKIEWICZ", "time":{
+            "hours":26,
+            "minutes":40,
+            "seconds":33
+        }}
     ]
 },  {
     "_id":23,
@@ -2254,16 +3126,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"MORENO MOSER"},
-        {"place":2, "name":"MICHAŁ KWIATKOWSKI"},
-        {"place":3, "name":"SERGIO HENAO"},
-        {"place":4, "name":"ALEXANDR KOLOBNEV"},
-        {"place":5, "name":"LINUS GERDEMANN"},
-        {"place":6, "name":"RINALDO NOCENTINI"},
-        {"place":7, "name":"ION IZAGIRRE"},
-        {"place":8, "name":"TIAGO MACHADO"},
-        {"place":9, "name":"ALEXANDRE GENIEZ"},
-        {"place":10, "name":"RIGOBERTO URAN"}
+        {"place":1, "name":"MORENO MOSER", "time":{
+            "hours":30,
+            "minutes":15,
+            "seconds":49
+        }},
+        {"place":2, "name":"MICHAŁ KWIATKOWSKI", "time":{
+            "hours":30,
+            "minutes":15,
+            "seconds":54
+        }},
+        {"place":3, "name":"SERGIO HENAO", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":5
+        }},
+        {"place":4, "name":"ALEXANDR KOLOBNEV", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":14
+        }},
+        {"place":5, "name":"LINUS GERDEMANN", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":17
+        }},
+        {"place":6, "name":"RINALDO NOCENTINI", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":18
+        }},
+        {"place":7, "name":"ION IZAGIRRE", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":18
+        }},
+        {"place":8, "name":"TIAGO MACHADO", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":18
+        }},
+        {"place":9, "name":"ALEXANDRE GENIEZ", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":18
+        }},
+        {"place":10, "name":"RIGOBERTO URAN", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":18
+        }}
     ]
 },  {
     "_id":24,
@@ -2352,16 +3264,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"PIETER WEENING"},
-        {"place":2, "name":"ION IZAGIRRE"},
-        {"place":3, "name":"CHRISTOPHE RIBLON"},
-        {"place":4, "name":"RAFAŁ MAJKA"},
-        {"place":5, "name":"SERGIO HENAO"},
-        {"place":6, "name":"EROS CAPECCHI"},
-        {"place":7, "name":"DOMENICO POZZOVIVO"},
-        {"place":8, "name":"IVAN BASSO"},
-        {"place":9, "name":"TANEL KANGERT"},
-        {"place":10, "name":"CHRIS ANKER SORENSEN"}
+        {"place":1, "name":"PIETER WEENING", "time":{
+            "hours":31,
+            "minutes":58,
+            "seconds":7
+        }},
+        {"place":2, "name":"ION IZAGIRRE", "time":{
+            "hours":31,
+            "minutes":58,
+            "seconds":20
+        }},
+        {"place":3, "name":"CHRISTOPHE RIBLON", "time":{
+            "hours":31,
+            "minutes":58,
+            "seconds":23
+        }},
+        {"place":4, "name":"RAFAŁ MAJKA", "time":{
+            "hours":31,
+            "minutes":58,
+            "seconds":33
+        }},
+        {"place":5, "name":"SERGIO HENAO", "time":{
+            "hours":31,
+            "minutes":58,
+            "seconds":58
+        }},
+        {"place":6, "name":"EROS CAPECCHI", "time":{
+            "hours":31,
+            "minutes":58,
+            "seconds":58
+        }},
+        {"place":7, "name":"DOMENICO POZZOVIVO", "time":{
+            "hours":31,
+            "minutes":59,
+            "seconds":21
+        }},
+        {"place":8, "name":"IVAN BASSO", "time":{
+            "hours":31,
+            "minutes":59,
+            "seconds":45
+        }},
+        {"place":9, "name":"TANEL KANGERT", "time":{
+            "hours":31,
+            "minutes":0,
+            "seconds":42
+        }},
+        {"place":10, "name":"CHRIS ANKER SORENSEN", "time":{
+            "hours":31,
+            "minutes":0,
+            "seconds":57
+        }}
     ]
 },  {
     "_id":25,
@@ -2448,16 +3400,56 @@
 
     ],
     "gc_top10":[
-        {"place":1, "name":"RAFAŁ MAJKA"},
-        {"place":2, "name":"ION IZAGIRRE"},
-        {"place":3, "name":"BENAT INTXAUSTI"},
-        {"place":4, "name":"CHRISTOPHE RIBLON"},
-        {"place":5, "name":"PRZEMYSŁAW NIEMIEC"},
-        {"place":6, "name":"ANDREY AMADOR"},
-        {"place":7, "name":"PHILIP DEIGNAN"},
-        {"place":8, "name":"ROBERT GESINK"},
-        {"place":9, "name":"DOMINIK NERZ"},
-        {"place":10, "name":"PETR VAKOC"}
+        {"place":1, "name":"RAFAŁ MAJKA", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":18
+        }},
+        {"place":2, "name":"ION IZAGIRRE", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":26
+        }},
+        {"place":3, "name":"BENAT INTXAUSTI", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":40
+        }},
+        {"place":4, "name":"CHRISTOPHE RIBLON", "time":{
+            "hours":30,
+            "minutes":16,
+            "seconds":52
+        }},
+        {"place":5, "name":"PRZEMYSŁAW NIEMIEC", "time":{
+            "hours":30,
+            "minutes":17,
+            "seconds":38
+        }},
+        {"place":6, "name":"ANDREY AMADOR", "time":{
+            "hours":30,
+            "minutes":17,
+            "seconds":39
+        }},
+        {"place":7, "name":"PHILIP DEIGNAN", "time":{
+            "hours":30,
+            "minutes":17,
+            "seconds":42
+        }},
+        {"place":8, "name":"ROBERT GESINK", "time":{
+            "hours":30,
+            "minutes":17,
+            "seconds":59
+        }},
+        {"place":9, "name":"DOMINIK NERZ", "time":{
+            "hours":30,
+            "minutes":18,
+            "seconds":0
+        }},
+        {"place":10, "name":"PETR VAKOC", "time":{
+            "hours":30,
+            "minutes":18,
+            "seconds":7
+        }}
     ]
 },  {
     "_id":26,
@@ -2541,16 +3533,56 @@
         {"id":19, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"ION IZAGIRRE"},
-        {"place":2, "name":"BART DE CLERCQ"},
-        {"place":3, "name":"BEN HERMANS"},
-        {"place":4, "name":"ILNUR ZAKARIN"},
-        {"place":5, "name":"FABIO ARU"},
-        {"place":6, "name":"DIEGO ULISSI"},
-        {"place":7, "name":"CHRISTOPHE RIBLON"},
-        {"place":8, "name":"SERGIO HENAO"},
-        {"place":9, "name":"DAVIDE FORMOLO"},
-        {"place":10, "name":"MIKEL NIEVE"}
+        {"place":1, "name":"ION IZAGIRRE", "time":{
+            "hours":26,
+            "minutes":4,
+            "seconds":38
+        }},
+        {"place":2, "name":"BART DE CLERCQ", "time":{
+            "hours":26,
+            "minutes":4,
+            "seconds":40
+        }},
+        {"place":3, "name":"BEN HERMANS", "time":{
+            "hours":26,
+            "minutes":4,
+            "seconds":41
+        }},
+        {"place":4, "name":"ILNUR ZAKARIN", "time":{
+            "hours":26,
+            "minutes":4,
+            "seconds":52
+        }},
+        {"place":5, "name":"FABIO ARU", "time":{
+            "hours":26,
+            "minutes":4,
+            "seconds":53
+        }},
+        {"place":6, "name":"DIEGO ULISSI", "time":{
+            "hours":26,
+            "minutes":4,
+            "seconds":57
+        }},
+        {"place":7, "name":"CHRISTOPHE RIBLON", "time":{
+            "hours":26,
+            "minutes":5,
+            "seconds":18
+        }},
+        {"place":8, "name":"SERGIO HENAO", "time":{
+            "hours":26,
+            "minutes":5,
+            "seconds":32
+        }},
+        {"place":9, "name":"DAVIDE FORMOLO", "time":{
+            "hours":26,
+            "minutes":6,
+            "seconds":1
+        }},
+        {"place":10, "name":"MIKEL NIEVE", "time":{
+            "hours":26,
+            "minutes":6,
+            "seconds":10
+        }}
     ]
 },  {
     "_id":27,
@@ -2640,16 +3672,56 @@
         {"id":25, "name":"Bardiani - CSF"}
     ],
     "gc_top10":[
-        {"place":1, "name":"TIM WELLENS"},
-        {"place":2, "name":"FABIO FELLINE"},
-        {"place":3, "name":"ALBERTO BETTIOL"},
-        {"place":4, "name":"DAVIDE FORMOLO"},
-        {"place":5, "name":"TIESJ BENOOT"},
-        {"place":6, "name":"RUBEN FERNANDEZ"},
-        {"place":7, "name":"LARRY WARBASSE"},
-        {"place":8, "name":"ANDREY ZEITS"},
-        {"place":9, "name":"DARIO CATALDO"},
-        {"place":10, "name":"DAVIDE VILLELLA"}
+        {"place":1, "name":"TIM WELLENS", "time":{
+            "hours":23,
+            "minutes":47,
+            "seconds":23
+        }},
+        {"place":2, "name":"FABIO FELLINE", "time":{
+            "hours":23,
+            "minutes":51,
+            "seconds":45
+        }},
+        {"place":3, "name":"ALBERTO BETTIOL", "time":{
+            "hours":23,
+            "minutes":52,
+            "seconds":17
+        }},
+        {"place":4, "name":"DAVIDE FORMOLO", "time":{
+            "hours":23,
+            "minutes":52,
+            "seconds":29
+        }},
+        {"place":5, "name":"TIESJ BENOOT", "time":{
+            "hours":23,
+            "minutes":52,
+            "seconds":45
+        }},
+        {"place":6, "name":"RUBEN FERNANDEZ", "time":{
+            "hours":23,
+            "minutes":53,
+            "seconds":8
+        }},
+        {"place":7, "name":"LARRY WARBASSE", "time":{
+            "hours":23,
+            "minutes":53,
+            "seconds":10
+        }},
+        {"place":8, "name":"ANDREY ZEITS", "time":{
+            "hours":23,
+            "minutes":53,
+            "seconds":31
+        }},
+        {"place":9, "name":"DARIO CATALDO", "time":{
+            "hours":23,
+            "minutes":53,
+            "seconds":43
+        }},
+        {"place":10, "name":"DAVIDE VILLELLA", "time":{
+            "hours":23,
+            "minutes":55,
+            "seconds":24
+        }}
     ]
 },  {
     "_id":28,
@@ -2736,16 +3808,56 @@
         {"id":22, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"DYLAN TEUNS"},
-        {"place":2, "name":"RAFAŁ MAJKA"},
-        {"place":3, "name":"WOUT POELS"},
-        {"place":4, "name":"WILCO KELDERMAN"},
-        {"place":5, "name":"ADAM YATES"},
-        {"place":6, "name":"DOMENICO POZZOVIVO"},
-        {"place":7, "name":"SAM OOMEN"},
-        {"place":8, "name":"JACK HAIG"},
-        {"place":9, "name":"VINCENZO NIBALI"},
-        {"place":10, "name":"RUI COSTA"}
+        {"place":1, "name":"DYLAN TEUNS", "time":{
+            "hours":27,
+            "minutes":7,
+            "seconds":47
+        }},
+        {"place":2, "name":"RAFAŁ MAJKA", "time":{
+            "hours":27,
+            "minutes":7,
+            "seconds":49
+        }},
+        {"place":3, "name":"WOUT POELS", "time":{
+            "hours":27,
+            "minutes":7,
+            "seconds":50
+        }},
+        {"place":4, "name":"WILCO KELDERMAN", "time":{
+            "hours":27,
+            "minutes":7,
+            "seconds":57
+        }},
+        {"place":5, "name":"ADAM YATES", "time":{
+            "hours":27,
+            "minutes":8,
+            "seconds":0
+        }},
+        {"place":6, "name":"DOMENICO POZZOVIVO", "time":{
+            "hours":27,
+            "minutes":8,
+            "seconds":10
+        }},
+        {"place":7, "name":"SAM OOMEN", "time":{
+            "hours":27,
+            "minutes":8,
+            "seconds":23
+        }},
+        {"place":8, "name":"JACK HAIG", "time":{
+            "hours":27,
+            "minutes":8,
+            "seconds":44
+        }},
+        {"place":9, "name":"VINCENZO NIBALI", "time":{
+            "hours":27,
+            "minutes":9,
+            "seconds":6
+        }},
+        {"place":10, "name":"RUI COSTA", "time":{
+            "hours":27,
+            "minutes":9,
+            "seconds":9
+        }}
     ]
 },  {
     "_id":29,
@@ -2832,16 +3944,52 @@
         {"id":22, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"MICHAŁ KWIATKOWSKI"},
-        {"place":2, "name":"SIMON YATES"},
-        {"place":3, "name":"THIBAUT PINOT"},
-        {"place":4, "name":"GEORGE BENNETT"},
-        {"place":5, "name":"DYLAN TEUNS"},
+        {"place":1, "name":"MICHAŁ KWIATKOWSKI", "time":{
+            "hours":24,
+            "minutes":23,
+            "seconds":54
+        }},
+        {"place":2, "name":"SIMON YATES", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":9
+        }},
+        {"place":3, "name":"THIBAUT PINOT", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":14
+        }},
+        {"place":4, "name":"GEORGE BENNETT", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":18
+        }},
+        {"place":5, "name":"DYLAN TEUNS", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":21
+        }},
         {"place":6, "name":null},
-        {"place":7, "name":"EMMANUEL BUCHMANN"},
-        {"place":8, "name":"DAVIDE FORMOLO"},
-        {"place":9, "name":"SAM OOMEN"},
-        {"place":10, "name":"FABIO ARU"}
+        {"place":7, "name":"EMMANUEL BUCHMANN", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":26
+        }},
+        {"place":8, "name":"DAVIDE FORMOLO", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":34
+        }},
+        {"place":9, "name":"SAM OOMEN", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":36
+        }},
+        {"place":10, "name":"FABIO ARU", "time":{
+            "hours":24,
+            "minutes":24,
+            "seconds":38
+        }}
     ]
 },  {
     "_id":30,
@@ -2928,16 +4076,56 @@
         {"id":22, "name":"Team Novo Nordisk"}
     ],
     "gc_top10":[
-        {"place":1, "name":"PAVEL SIVAKOV"},
-        {"place":2, "name":"JAI HINDLEY"},
-        {"place":3, "name":"DIEGO ULISSI"},
-        {"place":4, "name":"SERGIO HIGUITA"},
-        {"place":5, "name":"TAO GEOGHEGAN HART"},
-        {"place":6, "name":"PIERRE LATOUR"},
-        {"place":7, "name":"DAVIDE FORMOLO"},
-        {"place":8, "name":"CHRIS HAMILTON"},
-        {"place":9, "name":"RAFAŁ MAJKA"},
-        {"place":10, "name":"JAMES KNOX"}
+        {"place":1, "name":"PAVEL SIVAKOV", "time":{
+            "hours":26,
+            "minutes":20,
+            "seconds":58
+        }},
+        {"place":2, "name":"JAI HINDLEY", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":0
+        }},
+        {"place":3, "name":"DIEGO ULISSI", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":10
+        }},
+        {"place":4, "name":"SERGIO HIGUITA", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":12
+        }},
+        {"place":5, "name":"TAO GEOGHEGAN HART", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":12
+        }},
+        {"place":6, "name":"PIERRE LATOUR", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":13
+        }},
+        {"place":7, "name":"DAVIDE FORMOLO", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":14
+        }},
+        {"place":8, "name":"CHRIS HAMILTON", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":14
+        }},
+        {"place":9, "name":"RAFAŁ MAJKA", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":14
+        }},
+        {"place":10, "name":"JAMES KNOX", "time":{
+            "hours":26,
+            "minutes":21,
+            "seconds":14
+        }}
     ]
 },  {
     "_id":31,
@@ -3010,16 +4198,56 @@
         {"id":22, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"REMCO EVENEPOEL"},
-        {"place":2, "name":"JAKOB FUGLSANG"},
-        {"place":3, "name":"SIMON YATES"},
-        {"place":4, "name":"RAFAŁ MAJKA"},
-        {"place":5, "name":"DIEGO ULISSI"},
-        {"place":6, "name":"KAMIL MAŁECKI"},
-        {"place":7, "name":"WILCO KELDERMAN"},
-        {"place":8, "name":"JONAS VINGEGAARD"},
-        {"place":9, "name":"MIKEL NIEVE"},
-        {"place":10, "name":"RUI COSTA"}
+        {"place":1, "name":"REMCO EVENEPOEL", "time":{
+            "hours":21,
+            "minutes":29,
+            "seconds":50
+        }},
+        {"place":2, "name":"JAKOB FUGLSANG", "time":{
+            "hours":21,
+            "minutes":31,
+            "seconds":42
+        }},
+        {"place":3, "name":"SIMON YATES", "time":{
+            "hours":21,
+            "minutes":32,
+            "seconds":18
+        }},
+        {"place":4, "name":"RAFAŁ MAJKA", "time":{
+            "hours":21,
+            "minutes":32,
+            "seconds":22
+        }},
+        {"place":5, "name":"DIEGO ULISSI", "time":{
+            "hours":21,
+            "minutes":32,
+            "seconds":59
+        }},
+        {"place":6, "name":"KAMIL MAŁECKI", "time":{
+            "hours":21,
+            "minutes":33,
+            "seconds":2
+        }},
+        {"place":7, "name":"WILCO KELDERMAN", "time":{
+            "hours":21,
+            "minutes":33,
+            "seconds":5
+        }},
+        {"place":8, "name":"JONAS VINGEGAARD", "time":{
+            "hours":21,
+            "minutes":33,
+            "seconds":8
+        }},
+        {"place":9, "name":"MIKEL NIEVE", "time":{
+            "hours":21,
+            "minutes":33,
+            "seconds":8
+        }},
+        {"place":10, "name":"RUI COSTA", "time":{
+            "hours":21,
+            "minutes":33,
+            "seconds":9
+        }}
     ]
 },  {
     "_id":32,
@@ -3106,16 +4334,56 @@
         {"id":22, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"JOAO ALMEIDA"},
-        {"place":2, "name":"MATEJ MOHORIC"},
-        {"place":3, "name":"MICHAŁ KWIATKOWSKI"},
-        {"place":4, "name":"DIEGO ULISSI"},
-        {"place":5, "name":"MIKKEL FROLICH HONORE"},
-        {"place":6, "name":"TIM WELLENS"},
-        {"place":7, "name":"JAI HINDLEY"},
-        {"place":8, "name":"DYLAN TEUNS"},
-        {"place":9, "name":"BEN TULETT"},
-        {"place":10, "name":"PASCAL EENKHOORN"}
+        {"place":1, "name":"JOAO ALMEIDA", "time":{
+            "hours":26,
+            "minutes":15,
+            "seconds":56
+        }},
+        {"place":2, "name":"MATEJ MOHORIC", "time":{
+            "hours":26,
+            "minutes":16,
+            "seconds":16
+        }},
+        {"place":3, "name":"MICHAŁ KWIATKOWSKI", "time":{
+            "hours":26,
+            "minutes":16,
+            "seconds":23
+        }},
+        {"place":4, "name":"DIEGO ULISSI", "time":{
+            "hours":26,
+            "minutes":16,
+            "seconds":33
+        }},
+        {"place":5, "name":"MIKKEL FROLICH HONORE", "time":{
+            "hours":26,
+            "minutes":16,
+            "seconds":49
+        }},
+        {"place":6, "name":"TIM WELLENS", "time":{
+            "hours":26,
+            "minutes":16,
+            "seconds":53
+        }},
+        {"place":7, "name":"JAI HINDLEY", "time":{
+            "hours":26,
+            "minutes":17,
+            "seconds":2
+        }},
+        {"place":8, "name":"DYLAN TEUNS", "time":{
+            "hours":26,
+            "minutes":17,
+            "seconds":21
+        }},
+        {"place":9, "name":"BEN TULETT", "time":{
+            "hours":26,
+            "minutes":17,
+            "seconds":24
+        }},
+        {"place":10, "name":"PASCAL EENKHOORN", "time":{
+            "hours":26,
+            "minutes":17,
+            "seconds":26
+        }}
     ]
 },  {
     "_id":33,
@@ -3203,16 +4471,56 @@
         {"id":23, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"ETHAN HAYTER"},
-        {"place":2, "name":"THYMEN ARENSMAN"},
-        {"place":3, "name":"PELLO BILBAO"},
-        {"place":4, "name":"MATTEO SOBRERO"},
-        {"place":5, "name":"BEN TULETT"},
-        {"place":6, "name":"REMI CAVAGNA"},
-        {"place":7, "name":"SAMUELE BATTISTELLA"},
-        {"place":8, "name":"SERGIO HIGUITA"},
-        {"place":9, "name":"DIEGO ULISSI"},
-        {"place":10, "name":"BRUNO ARMIRAIL"}
+        {"place":1, "name":"ETHAN HAYTER", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":23
+        }},
+        {"place":2, "name":"THYMEN ARENSMAN", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":34
+        }},
+        {"place":3, "name":"PELLO BILBAO", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":41
+        }},
+        {"place":4, "name":"MATTEO SOBRERO", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":46
+        }},
+        {"place":5, "name":"BEN TULETT", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":48
+        }},
+        {"place":6, "name":"REMI CAVAGNA", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":54
+        }},
+        {"place":7, "name":"SAMUELE BATTISTELLA", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":55
+        }},
+        {"place":8, "name":"SERGIO HIGUITA", "time":{
+            "hours":28,
+            "minutes":26,
+            "seconds":55
+        }},
+        {"place":9, "name":"DIEGO ULISSI", "time":{
+            "hours":28,
+            "minutes":27,
+            "seconds":8
+        }},
+        {"place":10, "name":"BRUNO ARMIRAIL", "time":{
+            "hours":28,
+            "minutes":27,
+            "seconds":13
+        }}
     ]
 },  {
     "_id":34,
@@ -3301,16 +4609,56 @@
         {"id":24, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"MATEJ MOHORIC"},
-        {"place":2, "name":"JOAO ALMEIDA"},
-        {"place":3, "name":"MICHAŁ KWIATKOWSKI"},
-        {"place":4, "name":"ILAN VAN WILDER"},
-        {"place":5, "name":"MATTIA CATTANEO"},
-        {"place":6, "name":"BRANDON MCNULTY"},
-        {"place":7, "name":"EDDIE DUNBAR"},
-        {"place":8, "name":"RAFAŁ MAJKA"},
-        {"place":9, "name":"SAMUELE BATTISTELLA"},
-        {"place":10, "name":"OSCAR ONLEY"}
+        {"place":1, "name":"MATEJ MOHORIC", "time":{
+            "hours":26,
+            "minutes":17,
+            "seconds":48
+        }},
+        {"place":2, "name":"JOAO ALMEIDA", "time":{
+            "hours":26,
+            "minutes":17,
+            "seconds":49
+        }},
+        {"place":3, "name":"MICHAŁ KWIATKOWSKI", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":5
+        }},
+        {"place":4, "name":"ILAN VAN WILDER", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":10
+        }},
+        {"place":5, "name":"MATTIA CATTANEO", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":29
+        }},
+        {"place":6, "name":"BRANDON MCNULTY", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":30
+        }},
+        {"place":7, "name":"EDDIE DUNBAR", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":43
+        }},
+        {"place":8, "name":"RAFAŁ MAJKA", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":46
+        }},
+        {"place":9, "name":"SAMUELE BATTISTELLA", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":48
+        }},
+        {"place":10, "name":"OSCAR ONLEY", "time":{
+            "hours":26,
+            "minutes":18,
+            "seconds":55
+        }}
     ]
 },  {
     "_id":35,
@@ -3397,15 +4745,55 @@
         {"id":22, "name":"Poland"}
     ],
     "gc_top10":[
-        {"place":1, "name":"JONAS VINGEGAARD"},
-        {"place":2, "name":"DIEGO ULISSI"},
-        {"place":3, "name":"WILCO KELDERMAN"},
-        {"place":4, "name":"ROMAIN GREGOIRE"},
-        {"place":5, "name":"MAGNUS SHEFFIELD"},
-        {"place":6, "name":"MATEJ MOHORIC"},
-        {"place":7, "name":"EDOARDO ZAMBANINI"},
-        {"place":8, "name":"YANNIS VOISARD"},
-        {"place":9, "name":"MIKKEL FROLICH HONORE"},
-        {"place":10, "name":"OSCAR ONLEY"}
+        {"place":1, "name":"JONAS VINGEGAARD", "time":{
+            "hours":24,
+            "minutes":26,
+            "seconds":22
+        }},
+        {"place":2, "name":"DIEGO ULISSI", "time":{
+            "hours":24,
+            "minutes":26,
+            "seconds":35
+        }},
+        {"place":3, "name":"WILCO KELDERMAN", "time":{
+            "hours":24,
+            "minutes":26,
+            "seconds":42
+        }},
+        {"place":4, "name":"ROMAIN GREGOIRE", "time":{
+            "hours":24,
+            "minutes":26,
+            "seconds":55
+        }},
+        {"place":5, "name":"MAGNUS SHEFFIELD", "time":{
+            "hours":24,
+            "minutes":26,
+            "seconds":59
+        }},
+        {"place":6, "name":"MATEJ MOHORIC", "time":{
+            "hours":24,
+            "minutes":27,
+            "seconds":6
+        }},
+        {"place":7, "name":"EDOARDO ZAMBANINI", "time":{
+            "hours":24,
+            "minutes":27,
+            "seconds":6
+        }},
+        {"place":8, "name":"YANNIS VOISARD", "time":{
+            "hours":24,
+            "minutes":27,
+            "seconds":11
+        }},
+        {"place":9, "name":"MIKKEL FROLICH HONORE", "time":{
+            "hours":24,
+            "minutes":27,
+            "seconds":11
+        }},
+        {"place":10, "name":"OSCAR ONLEY", "time":{
+            "hours":24,
+            "minutes":27,
+            "seconds":15
+        }}
     ]
 }]
