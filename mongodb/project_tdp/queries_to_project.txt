@@ -1,34 +1,373 @@
 
 # WYBÓR BAZY
 
-    use tdp
+    1. Wybór bazy, na której będziemy pracować:
+
+        use tdp
 
 # WYŚWIETLANIE DANYCH
 
-    db.getCollectionNames()
+    2. Wyświetlenie nazw kolekcji jakie znajdują się w bazie:
 
-    db.tour_de_pologne.find().count()
+        db.getCollectionNames()
 
-    db.cities.find().count()
+    3. Wyświetlenie liczby dokumentów dla kolekcji 'races':
 
-    db.tour_de_pologne.find().limit(1)
+        db.races.find().count()
 
-    db.cities.find(
-      {},
-      {_id: 0, name:1}
-    ).sort({name: -1})
+    4. Wyświetlenie liczby dokumentów dla kolekcji 'cities':
+
+        db.cities.find().count()
+
+    5. Wyświetlenie tylko pierwszego dokumentu z kolekcji 'races':
+
+        db.races.find().limit(1)
+
+    6. Wyświetlenie nazw miast z kolekcji 'cities' posortowanych od Z do A:
+        
+        db.cities.find(
+            {},
+            {_id: 0, name:1}
+            ).sort({name: -1})
+
+    7. Wyświetla ilość dokumentów, w których dla 'gc_top10.name' jest wartość 'null':
+
+        db.races.find(
+            {"gc_top10.name":null},
+            {gc_top10:1}).count()
+
 
 # WSTAWIANIE DANYCH
 
-    db.cities.insertOne({"cityId": 148, "name":"Lubin", "country":"Poland"})
+    8. Wstawienie nowego dokumentu dla kolekcji 'cities':
 
-    db.tour_de_pologne.insertOne(
-    {"_id":36,
-     "race_name":"Tour de Pologne",
-     "country":"Poland",
-     "edition":82,
-     "year":2025})
+        db.cities.insertOne({"cityId": 148, "name":"Lubin", "country":"Poland"})
+
+    9. Wstawienie nowego dokumentu dla kolekcji 'races'
+    
+        db.races.insertOne(
+            {"_id":36,
+            "race_name":"Tour de Pologne",
+            "country":"Poland",
+            "edition":82,
+            "year":2025})
 
 # MODYFIKOWANIE DANYCH
-
     
+    10. Dodanie nowego pola 'avg_stage_length' obliczającego średnią długość etapów dla każdego wyścigu w kolekcji 'races':
+
+        db.races.updateMany(
+            {},
+            [{
+                $set:{
+                    avg_stage_length: {
+                        $divide:["$total_length", {$size: {$objectToArray:"$stages"}}]
+                }
+              }
+            }
+            ]);
+
+    11. Zmiana zwyciężcy wyścigu dla '_id:35' w kolekcji 'races':
+        
+        db.races.updateOne(
+            {_id:35, "gc_top10.place":1},
+            {$set:{"gc_top10.$.name":"Jacek Meres"}});
+
+    12. Dodanie w kolekcji 'races' pola 'country_code' z wartością 'PL' dla kolekcji 'races' do wszystkich dokumentów:
+
+        db.races.updateMany(
+            {},
+            {$set:{country_code:"PL"}});
+
+    13. Modyfikowanie w kolekcji 'races' pola 'length' dla każdego etapu 'prolog', w którym jest wartość 'null':
+
+        db.races.updateMany(
+            {"stages.prolog.length":{$exists: true, $eq:null}},
+            {$set:{"stages.prolog.length":0}});
+
+# KASOWANIE DANYCH
+
+    14. Usunięcie z kolekcji 'races' wyścigów, które mają mniej niż 1000km długości:
+
+        db.races.deleteMany({total_length:{$lt: 1000}});
+
+    15. Usunięcie z kolekcji 'races' konkretnego etapu 'stage_3' w wyścigu o '_id:2':
+
+        db.races.updateOne(
+            {_id:2},
+            {$unset: {"stages.stage_3":""}}
+            );
+
+    16. Usunięcie z kolekcji 'races' zespołów z wyścigu, których nazwa zawiera słowo "Poland":
+
+        db.races.updateMany(
+            { "teams.name": /Poland/i },
+            { $pull: { teams: { name: /Poland/i } } }
+            );
+
+    17. Usunięcie dokumentu miasta o 'cityId:15' z kolekcji 'cities':
+
+        db.cities.deleteOne({cityId:15});
+
+    18. Usunięcie wszystkich wyścigów, które odbyły się przed rokiem 1995 z kolekcji 'races':
+
+        db.races.deleteMany({year: {$lt: 1995}});
+
+
+# AGREGOWANIE DANYCH
+
+    19. Znalezienie wyścigu o najdłuższej całkowitej długości w kolekcji 'races':
+
+        db.races.aggregate([
+            {$sort: {total_length: -1}},
+            {$limit: 1}]);
+
+    20. Obliczenie liczby etapów w każdym wyścigu dla kolekcji 'races':
+
+        db.races.aggregate([
+            {
+                $project: {
+                    race_name: 1,
+                    year:1,
+                    stage_count: {$size: {$objectToArray: "$stages"}}
+                }
+            }
+        ]);
+
+    21. Obliczenie średniego czasu zwyciężcy wyścigu w kolekcji 'races':
+
+        db.races.aggregate([
+            { $unwind: "$gc_top10" },
+            {
+                $match: { "gc_top10.place": 1 }
+            },
+            {
+                $group: {
+                    _id: null,
+                    average_time_seconds: {
+                        $avg: {
+                            $add: [
+                                { $multiply: ["$gc_top10.time.hours", 3600] },
+                                { $multiply: ["$gc_top10.time.minutes", 60] },
+                                "$gc_top10.time.seconds"
+                            ]
+                        }
+                    }
+                }
+            }
+        ]);
+
+    22. Obliczenie ilości zwycięstw etapowych dla każdego zawodnika, który wygrał etap w kolekcji 'races':
+
+        db.races.aggregate([
+            {
+                $project: {
+                    stages: { $objectToArray: "$stages" }
+                }
+            },
+            {
+                $unwind: "$stages"
+            },
+            {
+                $group: {
+                    _id: "$stages.v.winner",
+                    wins: { $sum: 1 }
+                }
+            },
+            {
+                $sort: { wins: -1 }
+            }
+        ]);
+
+
+# ŁACZENIE KOLEKCJI
+
+    23. Łączenie danych z dwóch kolekcji i wyświetlenie wszystkich etapów z nazwami miast zamiast ich identyfikatorów wraz z wybranymi polami:
+
+        db.races.aggregate([
+            {
+                $project: {
+                    _id: 1,
+                    year: 1,
+                    stages: { $objectToArray: "$stages" }
+                }
+            },
+            {
+                $unwind: "$stages"
+            },
+            {
+                $lookup: {
+                from: "cities",
+                localField: "stages.v.start_city_id",
+                foreignField: "cityId",
+                as: "start_city"
+                }
+            },
+            {
+                $lookup: {
+                    from: "cities",
+                    localField: "stages.v.finish_city_id",
+                    foreignField: "cityId",
+                    as: "finish_city"
+                }
+            },
+            {
+                $project: {
+                    _id: 1,
+                    year: 1,
+                    "stages.k": 1, // Nazwa etapu np. stage_1
+                    "stages.v.date": 1,
+                    "stages.v.length": 1,
+                    "start_city": { $arrayElemAt: ["$start_city.name", 0] },
+                    "finish_city": { $arrayElemAt: ["$finish_city.name", 0] }
+                }
+            },
+            {
+                $group: {
+                    _id: { _id: "$_id", year: "$year" },
+                    stages: {
+                        $push: {
+                            stage_name: "$stages.k",
+                            date: "$stages.v.date",
+                            length: "$stages.v.length",
+                            start_city: "$start_city",
+                            finish_city: "$finish_city"
+                        }
+                    }
+                }
+            },
+            {
+                $project: {
+                    _id: "$_id._id",
+                    year: "$_id.year",
+                    stages: 1 // Wyświetlamy listę etapów
+                }
+            }
+        ]);
+
+    24. Znalezienie miast, które były miejscem startu w więcej niż jednym wyścigu, posortowane od największego:
+
+        db.races.aggregate([
+            {
+                $project: {
+                    stages: { $objectToArray: "$stages" }
+                }
+            },
+            {
+                $unwind: "$stages"
+            },
+            {
+                $group: {
+                    _id: "$stages.v.start_city_id",
+                    count: { $sum: 1 }
+                }
+            },
+            {
+                $match: { count: { $gt: 1 } }
+            },
+            {
+                $lookup: {
+                    from: "cities",
+                    localField: "_id",
+                    foreignField: "cityId",
+                    as: "city"
+                }
+            },
+            {
+                $project: {
+                    _id: 0,
+                    city: { $arrayElemAt: ["$city.name", 0] },
+                    count: 1
+                }
+            },
+            {
+                $sort: {count: -1}
+            }
+        ]);
+
+    25. Wyświetlenie wszystkich wyścigów, które odbywały się w Warszawie:
+
+        db.races.aggregate([
+            {
+                $project: {
+                    year: 1,
+                    stages: { $objectToArray: "$stages" }
+                }
+            },
+            {
+                $unwind: "$stages"
+            },
+            {
+                $lookup: {
+                    from: "cities",
+                    localField: "stages.v.start_city_id",
+                    foreignField: "cityId",
+                    as: "start_city"
+                }
+            },
+            {
+                $lookup: {
+                    from: "cities",
+                    localField: "stages.v.finish_city_id",
+                    foreignField: "cityId",
+                    as: "finish_city"
+                }
+            },
+            {
+                $match: {
+                    $or: [
+                        { "start_city.name": "Warszawa" },
+                        { "finish_city.name": "Warszawa" }
+                    ]
+                }
+            },
+            {
+                $project: {
+                    _id: 1,
+                    year: 1,
+                    stage_number: "$stages.k",
+                    date: "$stages.v.date",
+                    length: "$stages.v.length",
+                    start_city: { $arrayElemAt: ["$start_city.name", 0] },
+                    finish_city: { $arrayElemAt: ["$finish_city.name", 0] }
+                }
+            }
+        ]);
+
+
+    26. Lista zwyciężców etapu z miastem startowym i końcowym:
+
+        db.races.aggregate([
+            {
+                $project: {
+                    stages: { $objectToArray: "$stages" }
+                }
+            },
+            {
+                $unwind: "$stages"
+            },
+            {
+                $lookup: {
+                    from: "cities",
+                    localField: "stages.v.start_city_id",
+                    foreignField: "cityId",
+                    as: "start_city"
+                }
+            },
+            {
+                $lookup: {
+                    from: "cities",
+                    localField: "stages.v.finish_city_id",
+                    foreignField: "cityId",
+                    as: "finish_city"
+                }
+            },
+            {
+                $project: {
+                    _id: 0,
+                    winner: "$stages.v.winner",
+                    start_city: { $arrayElemAt: ["$start_city.name", 0] },
+                    finish_city: { $arrayElemAt: ["$finish_city.name", 0] }
+                }
+            }
+        ]);
