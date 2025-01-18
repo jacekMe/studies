@@ -3,9 +3,9 @@
 1. lista I - zapytania analityczne
 
     - SELEKCJA KOLUMN
-        - w języku SQL można pobierać dane z tabeli za pomocą instrukcji SELECT.
+        - w języku `SQL` można pobierać dane z tabeli za pomocą instrukcji `SELECT`.
         - aby instrukcja była wykonalna trzeba podać jeszcze z jakiej tabeli 
-        chcemy wyświetlić dane, a do tego potrzebna jest instrukcja FROM. 
+        chcemy wyświetlić dane, a do tego potrzebna jest instrukcja `FROM`. 
         - przykładowe zapytanie:
 
             `SELECT <nazwa kolumny/kolumn>
