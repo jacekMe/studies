@@ -1,4 +1,4 @@
-                SQL - zapytania analityczne
+# SQL - zapytania analityczne
 
 1. lista I - zapytania analityczne
 
@@ -23,10 +23,10 @@
 
             SELECT DISTINCT <nazwa kolumny>
 
-        - gwiazdka (*) oznacza, że wybieramy wszystkie kolumny z tabeli
-        - aby zliczyć liczbę wierszy należy użyć instrukcji COUNT
+        - gwiazdka (`*`) oznacza, że wybieramy wszystkie kolumny z tabeli
+        - aby zliczyć liczbę wierszy należy użyć instrukcji 
 
-            SELECT COUNT(*)
+            SELECT COUNT(`*`)
 
     - FILTROWANIE WYNIKÓW
         - do filtrowania wyników używamy słowa kluczowego WHERE
