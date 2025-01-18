@@ -1,3 +1,5 @@
+# ZADANIA & PROJEKT
+
 Tutaj znajduje się opis zadań z list, które wykonywałem podczas zajęć.
 
 1. Zadania do wykonania podczas zajęć i w domu na bazie "scott".
@@ -26,16 +28,17 @@ Tutaj znajduje się opis zadań z list, które wykonywałem podczas zajęć.
         - usuwanie danych
 
 3. Projekt do samodzielnego wykonania
-    - przygotowanie pliku w strukturze JSON
-    - wpisanie danych jednej kolekcji
-    - zawartość 30-40 dokumentów
-    - dokumenty powinny zawierać:
-        - jeden dokument zagnieżdżony
-        - dwie tablice
-    - wykonaj ćwiczenia na swoim zestawie danych:
-    - wyświetlanie danych
-    - wstawianie danych
-    - modyfikacja istniejących danych
-    - kasowanie danych
-    - agregowanie danych
-    - łączenie kilku kolekcji (stworzyć dodatkową kolekcję)
+    - wymyśl temat projektu z jakich danych ma się składać i przygotuj:
+        - plik w strukturze JSON
+        - dane jednej kolekcji
+            - zawartość 30-40 dokumentów
+            - dokumenty powinny zawierać:
+                - jeden dokument zagnieżdżony
+                - dwie tablice
+        - wykonaj ćwiczenia na swoim zestawie danych:
+            - wyświetlanie danych
+            - wstawianie danych
+            - modyfikacja istniejących danych
+            - kasowanie danych
+            - agregowanie danych
+            - łączenie kilku kolekcji (stworzyć dodatkową kolekcję)
