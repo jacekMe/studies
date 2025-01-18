@@ -6,6 +6,7 @@ w domu, z różnych przedmiotów, tj.:
   - java
   - mongodb
   - neo4j
+  - powerBI
   - html/css/javascript
 
 ## SQL
@@ -37,6 +38,11 @@ w domu, z różnych przedmiotów, tj.:
     - lista zadań do wykonania podczas zajęć i w domu
     - projekt do samodzielnego wykonania
 
-
+## POWER BI
+  - Power BI to program do analizy danych, projektowania raportów i wspierania 
+    procesów raportowania, powiązany z zestawem usług online, takich jak 
+    publikowanie i udostępnianie.
+    - zadania do wykonania podczas zajęć i w domu
+    - projekt do samodzielnego wykonania
 ## HTML/CSS/JAVASCRIPT
 
