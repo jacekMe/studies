@@ -1,4 +1,7 @@
-Tutaj znajduje się opis zadań z list, które wykonywałem podczas zajęć.
+# ZADANIA & PROJEKT
+
+Tutaj znajduje się opis zadań z list, które wykonywałem podczas zajęć oraz 
+projekt do samodzielnego wykonania.
 
 
 1. Lista zadań do wykonania podczas zajęć i w domu. Ćwiczenia wprowadzające
@@ -43,13 +46,13 @@ do pracy z grafową bazą danych neo4j.
 
 
 2. Projekt do samodzielnego wykonania
-
-    - około 12-15 węzłów
-    - około 20-25 relacji między węzłami
-    - każdy węzeł powinien mieć przypisaną etykietę (2-3 różne etykiety) 
-    - 2-3 właściwości dla każdego węzła oraz dla każdej relacji
-    - wykonać 10 zapytań do utworzonej struktury grafowej + funkcje agregujące
-    - wykonać 10 poleceń zmieniających dane:
-        - modyfikacja
-        - dodawanie
-        - kasowanie
+    - wymyśl temat projektu z jakich danych ma się składać i utwórz:
+        - około 12-15 węzłów
+        - około 20-25 relacji między węzłami
+        - każdy węzeł powinien mieć przypisaną etykietę (2-3 różne etykiety) 
+        - 2-3 właściwości dla każdego węzła oraz dla każdej relacji
+        - wykonać 10 zapytań do utworzonej struktury grafowej + funkcje agregujące
+        - wykonać 10 poleceń zmieniających dane:
+            - modyfikacja
+            - dodawanie
+            - kasowanie
