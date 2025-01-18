@@ -30,10 +30,10 @@
 
     - FILTROWANIE WYNIKÓW
 
-        - do filtrowania wyników używamy słowa kluczowego WHERE
+        - do filtrowania wyników używamy słowa kluczowego `WHERE`
         - klauzula ta pozwala filtrować wyniki na podstawie tekstu oraz wartości
         liczbowych występujących w tabeli
-        - klauzula WHERE wykonuje się po klauzuli FROM
+        - klauzula `WHERE` wykonuje się po klauzuli `FROM`
         - służy do wybrania wyłącznie interesujących nas rekordów
         - istnieje kilka różnych operatorów porównania:
             - `=` equal
